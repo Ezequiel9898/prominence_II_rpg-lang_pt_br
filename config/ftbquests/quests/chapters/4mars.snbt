@@ -119,7 +119,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "ddddddasdasd"
+			subtitle: "The &6netherite space suit&f is an upgraded version of the &6standard space suit&r, featuring permanent fire resistance, more protection and the ability to survive on &6Venus&f and &6Mercury&f. Before you travel to these planets, you must craft the &6netherite space suit armour&f or else you will burn to death."
 			tasks: [
 				{
 					id: "143A97761621C1FA"
