@@ -1,0 +1,12 @@
+{
+	"key.categories.fakerlib": "Placebo",
+	"fakerlib.toggleTrails": "Alternar trilhas do Patreon",
+	"fakerlib.toggleWings": "Alternar asas do Patreon",
+	"fakerlib.toggleTrailsOn": "Toggle Patreon Trails on",
+	"fakerlib.toggleWingsOn": "Toggle Patreon Wings on",
+	"fakerlib.toggleTrailsOff": "Toggle Patreon Trails off",
+	"fakerlib.toggleWingsOff": "Toggle Patreon Wings off",
+	"fakerlib.cmd.serialize_success": "Salvou %s para %s.",
+	"fakerlib.cmd.serialize_failure": "Ocorreu um erro durante o processo de serialização.",
+	"fakerlib.cmd.not_found": "%s não foi encontrado."
+}

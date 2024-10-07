@@ -1,0 +1,54 @@
+{
+  "attribute.name.extraspellattributes.reabsorption": "Reabsorption",
+  "attribute.name.extraspellattributes.converttofire": "Attack Damage gained as Fire Power ",
+  "attribute.name.extraspellattributes.convertfromfire": "Fire Power Attribute gained as Attack Damage",
+  "attribute.name.extraspellattributes.converttoarcane": "Attack Damage gained as Arcane Power ",
+  "attribute.name.extraspellattributes.convertfromarcane": "Arcane Power Attribute gained as Attack Damage",
+  "attribute.name.extraspellattributes.converttofrost": "Attack Damage gained as Frost Power ",
+  "attribute.name.extraspellattributes.convertfromfrost": "Frost Power Attribute gained as Attack Damage",
+  "attribute.name.extraspellattributes.converttoheal": "Attack Damage gained as Healing Power ",
+  "attribute.name.extraspellattributes.glancingblow": "Chance for Damage Received to be Mitigated by 35%",
+  "attribute.name.extraspellattributes.spellsuppression": "Chance for Spells Received to Deal 50% Less Damage",
+  "attribute.name.extraspellattributes.serenity": "Chance for Halved Received Spells to Instead Deal No Damage (Max 75%)",
+  "attribute.name.extraspellattributes.endu": "Endurance",
+  "attribute.name.extraspellattributes.defi": "Damage Ignored (with Diminishing Returns)",
+  "enchantment.extraspellattributes.suppression": "Suppressing",
+  "enchantment.extraspellattributes.defiance": "Defiance",
+  "enchantment.extraspellattributes.warding": "Warding",
+  "enchantment.extraspellattributes.spellbreak": "Spellbreaking",
+  "enchantment.extraspellattributes.glancingblow": "Evasion",
+  "enchantment.extraspellattributes.battlerouse": "Battle Rouse",
+  "enchantment.extraspellattributes.suppression.desc": "Increases your chance to suppress spell damage by 4% per level. Suppressed spells deal 50% less damage.",
+  "enchantment.extraspellattributes.defiance.desc": "+0.25 damage taken ignored per level. Has diminishing returns.",
+  "enchantment.extraspellattributes.warding.desc": "+1 Reabsorption per level",
+  "enchantment.extraspellattributes.spellbreak.desc": "Increases your chance to ignore suppressed spell damage by 4% per level. Maximum of 75%.",
+  "enchantment.extraspellattributes.glancingblow.desc": "Increases your chance to receive a glancing blow by 4% per level. A glancing blow deals 35% less damage.",
+  "enchantment.extraspellattributes.battlerouse.desc": "+4% damage to your life is regenerated over the next four seconds per level.",
+
+  "attribute.name.extraspellattributes.determination": "Damage to Health Recovered as Health Over the Next 4 Seconds",
+
+  "desc.extraspellattributes.glance": "A Glancing Blow deals only 65% damage. You cannot receive Glancing Blows from damage that doesn't come from an entity (Such as Fire and Poison).",
+
+  "desc.extraspellattributes.supp": "A Suppressed Spell deals only 50% damage.",
+
+  "desc.extraspellattributes.defi": "Your Defiance subtracts its total from the total damage you take. Defiance has diminishing returns.",
+  "desc.extraspellattributes.acro":"Your % Spellbreak is the chance that a suppressed spell instead deals no damage. Spellbreak caps at 75%.",
+  "desc.extraspellattributes.determination":"Your % Determination is the proportion of health lost that regenerates back over the next four seconds.",
+  "desc.extraspellattributes.reabsorption":"You regenerate Absorption (Yellow Hearts) up to your maximum Reabsorption gradually after not being hit for 4 seconds.",
+
+  "itemGroup.extraspellattributes.general": "Extra RPG Attributes Trinkets",
+  "item.extraspellattributes.netheritediamondring": "Netherite Diamond Ring",
+  "item.extraspellattributes.goldquartzring": "Gold Quartz Ring",
+  "item.extraspellattributes.netheritediamondamulet": "Netherite Diamond Amulet",
+  "item.extraspellattributes.goldquartzamulet": "Gold Quartz Amulet",
+  "item.extraspellattributes.martialbracer": "Turtle Bracer",
+  "item.extraspellattributes.arcanebracer": "Amethyst Bracer",
+  "item.extraspellattributes.nonbelieversamulet": "Nonbeliever's Amulet",
+  "item.extraspellattributes.turtlegirdle": "Turtle Girdle",
+  "item.extraspellattributes.defiancering": "Ring of Glory",
+  "item.extraspellattributes.undyingsoul": "Undying Soul"
+
+
+
+
+}
