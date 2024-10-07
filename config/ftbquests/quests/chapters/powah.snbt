@@ -9,7 +9,15 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["The book will help you understand the mod if needed."]
+			description: [
+				"The book will help you understand the mod if needed."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			icon: "powah:book"
 			id: "2CE2E7816C6866AF"
 			rewards: [
@@ -1154,7 +1162,15 @@
 		}
 		{
 			dependencies: ["761B9A10EA2161C1"]
-			description: ["Use a Photoelectric Pane on an Enderman or Endermite."]
+			description: [
+				"Use a Photoelectric Pane on an Enderman or Endermite."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "6FD2FD1F7F98537C"
 			rewards: [{
 				id: "5AACB0ECF127B40E"

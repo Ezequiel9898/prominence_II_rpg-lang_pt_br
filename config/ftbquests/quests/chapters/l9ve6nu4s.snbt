@@ -178,6 +178,12 @@
 				""
 				"- It's got two modes of flight: ascending (&aSpace&r) and boosted (&aSpace + Left&r). Ascending makes the wearer fly upwards, while boosted is similar to an elytra that's constantly being propelled by fireworks. The &bJet Suit&r is powered by energy and must be charged to fly. It can be charged with an&r"
 				"&benergizer&r by right-clicking it with the &bjet suit&r.&r"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "2EC5D59686B97A9F"
 			rewards: [
@@ -394,6 +400,12 @@
 			description: [
 				"- Once you have found enough &dCalorite&r to craft a &etier four rocket&r, you will be able to leave this solar system and enter a new one. The first planet that you will head to in &dProxima Centauri&r is &aGlacio&r. Glacio is brutally cold;&r"
 				"however, it has &b&oxygen&r, allowing you to survive there without a &dspacesuit&r.&r"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "63F4685E77F88E88"
 			rewards: [

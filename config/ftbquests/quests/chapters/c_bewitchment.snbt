@@ -15,7 +15,15 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["Make sure to read the Book of Shadows if you want to understand more in-depth of Bewitchment."]
+			description: [
+				"Make sure to read the Book of Shadows if you want to understand more in-depth of Bewitchment."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "5B558DB5BB091F2C"
 			rewards: [
 				{

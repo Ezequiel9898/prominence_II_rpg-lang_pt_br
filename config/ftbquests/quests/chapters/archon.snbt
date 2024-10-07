@@ -190,7 +190,15 @@
 		}
 		{
 			dependencies: ["0AD9BE143D39268F"]
-			description: ["You may also hold the channeler in your off hand and a block of your chosen metal to work."]
+			description: [
+				"You may also hold the channeler in your off hand and a block of your chosen metal to work."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "1780D396DC014BA0"
 			rewards: [
 				{
@@ -658,7 +666,15 @@
 		}
 		{
 			dependencies: ["4CA7E7DA58B3B6C7"]
-			description: ["The ingredients to summon the bosses are in your Grimoire."]
+			description: [
+				"The ingredients to summon the bosses are in your Grimoire."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"			
+			]
 			id: "719EE06DB5C14C73"
 			rewards: [{
 				id: "3BB1615C5B551B58"
@@ -1669,7 +1685,15 @@
 				"6BCF68B9804BF285"
 				"3B75CF511CA0757A"
 			]
-			description: ["Please check your keybinds when you want to toggle which spells you want to use and press 1, 2, 3 to switch spells."]
+			description: [
+				"Please check your keybinds when you want to toggle which spells you want to use and press 1, 2, 3 to switch spells."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "05E166DEF41C9B5A"
 			rewards: [{
 				id: "02333A803301A7CE"
