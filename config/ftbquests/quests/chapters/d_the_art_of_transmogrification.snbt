@@ -44,6 +44,12 @@
 			description: [
 				""
 				"&dTransmogrification&7 is a type of magic that allows you to &echange the shape of any object without altering its function&7, letting you to mask your items into another, including weapons and armors. It does not give any benefit aside from being purely cosmetic."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: "minecraft:amethyst_cluster"
 			id: "1F3A415DDF6355EE"
@@ -65,6 +71,12 @@
 				"&7To start off, you must craft a &dTransmogrification Table&7. This magic is powered with &dAmethyst&7, so you'll have to get some each time you want to transform any item."
 				""
 				"No items will be consumed, but to change the shape you'll need to own the desired item."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "09C318161E20A39E"
 			rewards: [{
@@ -89,6 +101,12 @@
 				"&7If you dont want to display an armor piece, or a weapon, you can hide the items!"
 				""
 				"&7By using a &dVoid Fragment&7 as the transmoggable material"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "6A69BEA7C1E7E1FD"
 			rewards: [{

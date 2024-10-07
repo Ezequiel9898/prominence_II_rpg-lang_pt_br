@@ -7,5 +7,5 @@
 		{ count: 64, item: "runes:frost_stone" }
 		{ count: 64, item: "runes:fire_stone" }
 	]
-	title: "runes_most"
+	title: "Mais runas"
 }

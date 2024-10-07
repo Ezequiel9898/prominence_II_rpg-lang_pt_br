@@ -7,5 +7,5 @@
 		{ item: "minecraft:copper_block" }
 		{ item: "minecraft:iron_block" }
 	]
-	title: "metalblocks"
+	title: "Blocos de metal"
 }

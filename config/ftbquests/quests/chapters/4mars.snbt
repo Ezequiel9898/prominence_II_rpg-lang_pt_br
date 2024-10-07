@@ -306,7 +306,15 @@
 				"7858FFA43A47D466"
 				"13172E89C05009C7"
 			]
-			description: ["- Now that you can fly to &6Venus&r and &6Mercury&r, your new goal is to gather enough &bCalorite&r to build the ultimate rocket."]
+			description: [
+				"- Now that you can fly to &6Venus&r and &6Mercury&r, your new goal is to gather enough &bCalorite&r to build the ultimate rocket."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "6A46307688B99ADE"
 			rewards: [
 				{

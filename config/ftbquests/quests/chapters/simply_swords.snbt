@@ -24,6 +24,12 @@
 				"&6&lSimply Swords&r offers over &a&l15&r weapons types for the player to utilize."
 				""
 				"It also has the unique featureset of &b&n&lRunic Powers&r, which can be given to weapons via &n&bsockets&r!"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: {
 				Count: 1b
@@ -75,6 +81,12 @@
 				"&c&lEmpowered Remnants&r are created by melting down unique weapons."
 				""
 				"They are used in the creation of &9&lRunefused Gems&r, and &6&lNetherfused Gems&r."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "5AA2A1E358A18B4E"
 			rewards: [
@@ -110,6 +122,12 @@
 				"To make it, combine a &bRunic Tablet&r with a &cEmpowered Remnant&r in a Smithing Table."
 				""
 				"Click to identify which power you have rolled."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "3E5207641E8653DC"
 			rewards: [
@@ -149,6 +167,12 @@
 				"In order to make it, combine a &cEmpowered Remnant&r with a &6Netherite Ingot&r in a Smithing Table."
 				""
 				"Click to identify which power you have rolled."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "47EBDA6516061205"
 			rewards: [
@@ -184,7 +208,15 @@
 		}
 		{
 			dependencies: ["0F426527B63F854D"]
-			description: ["This will be the first step in &bdiscovering sockets&r and &9runic powers&r!"]
+			description: [
+				"This will be the first step in &bdiscovering sockets&r and &9runic powers&r!"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+				]
 			id: "574677AD427E33FB"
 			rewards: [{
 				id: "4614B78F16F62367"
@@ -216,6 +248,12 @@
 				"The final evolution of the &b&lSlumbering Lichblade&r you recieved."
 				""
 				"Siphons &bsouls&r and provides &eabsorbtion&r. Hover to read more info."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "2802383EE6BEB495"
 			rewards: [

@@ -173,6 +173,12 @@
 				""
 				"- Space stations are designed to be expanded upon, allowing you to build the base of your dreams over a &bmoon/planet&r. They always spawn in whatever position you launched your&r."
 				"rocket at, so remember the coordinates to avoid losing the structure."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: "ad_astra:steel_block"
 			id: "4C0A0E9139DC2A63"

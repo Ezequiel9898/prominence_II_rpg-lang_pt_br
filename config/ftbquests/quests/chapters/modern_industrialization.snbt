@@ -9,7 +9,15 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["Remember, this guidebook is very very important in order to progress in case you're lost on what to do. Please take the time and read them when needed."]
+			description: [
+				"Remember, this guidebook is very very important in order to progress in case you're lost on what to do. Please take the time and read them when needed."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			icon: "modern_industrialization:guidebook"
 			id: "6F6196A606D3A8EF"
 			rewards: [{
@@ -79,7 +87,15 @@
 		}
 		{
 			dependencies: ["385079198388468C"]
-			description: ["Steam machines will accept inputs from any side, be it items, steam or another fluid. You can lock their slots by clicking on the lock in the interface. Locked slots only accept one type of item or fluid."]
+			description: [
+				"Steam machines will accept inputs from any side, be it items, steam or another fluid. You can lock their slots by clicking on the lock in the interface. Locked slots only accept one type of item or fluid."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			icon: "modern_industrialization:bronze_ingot"
 			id: "4661838E492BDE53"
 			rewards: [{
@@ -144,6 +160,12 @@
 				"The boiler will automatically produce and send steam to adjacent machines, up to 8 millibuckets per tick."
 				""
 				"Bronze machines can only process recipes up to 2 EU/t, meaning that the recipe will use 2 Energy Units per Tick. As 1 millibucket of steam = 1 EU, a boiler at max temperature can power 4 machines simultaneously!"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "0BAB52BE15CE157F"
 			rewards: [
@@ -363,6 +385,12 @@
 				"Coke will be very useful for steel, but it is also a powerful fuel."
 				""
 				"I hope that you can find a convenient location for your input and output hatches so it will run smoothly."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: "modern_industrialization:coke_oven"
 			id: "36ECD7C06649DE78"
@@ -577,6 +605,11 @@
 				""
 				"It's recommended that you have multiple SBFs running before you attempt to build it because it requires a lot of steel."
 				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: "modern_industrialization:steam_quarry"
 			id: "26E587E34810A8FE"
@@ -1130,6 +1163,12 @@
 				"Provide it with items and energy, and watch your resources GO BRRR!"
 				""
 				"Its structure is exactly the same as the Steam Quarry's."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: "modern_industrialization:electric_quarry"
 			id: "3DC21B6F47A253E4"
@@ -1328,7 +1367,15 @@
 		}
 		{
 			dependencies: ["0A0931D04AE50D4B"]
-			description: ["Smelting stainless steel dust in an EBF will give you hot ingots, which you can cool back into regular ingots with a Vacuum Freezer."]
+			description: [
+				"Smelting stainless steel dust in an EBF will give you hot ingots, which you can cool back into regular ingots with a Vacuum Freezer."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "64BACF5B60AD2406"
 			rewards: [{
 				id: "16BD1A2AE7B30382"
@@ -1720,6 +1767,12 @@
 				"Each nuclear component has maximum number of absorptions. When reached, the item is either destroyed or transformed into a depleted version. This is particularly useful for nuclear fuel because some part of the U238 is transformed into Plutonium in the depleted version, meaning some of it can be transformed back into fuel."
 				""
 				"The same thing happens for fluids: a bit of fluid is transformed after each neutron absorption. This can be used to mass produce useful isotopes like deuterium and tritium. In both cases, the outcome is shown in REI."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "03896D148D7B4E3B"
 			rewards: [{
@@ -1879,7 +1932,15 @@
 		}
 		{
 			dependencies: ["4661838E492BDE53"]
-			description: ["Don't break it with the wrench, use a pickaxe."]
+			description: [
+				"Don't break it with the wrench, use a pickaxe."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "2DB9C3C383C91BC0"
 			rewards: [{
 				id: "2975DAD665501B19"
@@ -1967,7 +2028,15 @@
 		}
 		{
 			dependencies: ["7C5C1CA5A7954896"]
-			description: ["You can now automate double ingots and pipes, for example! Again, check REI."]
+			description: [
+				"You can now automate double ingots and pipes, for example! Again, check REI."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+				]
 			id: "324B15844FC6C305"
 			rewards: [{
 				id: "06CDD11D0F136DDC"

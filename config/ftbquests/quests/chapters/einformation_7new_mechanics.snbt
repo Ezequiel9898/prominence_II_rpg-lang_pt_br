@@ -38,6 +38,12 @@
 				"All shields have new mechanics from the &eShield Overhaul&r mod."
 				""
 				"&e&lBashing &r&7Attack while blocking to perform a shield bash. &7This will stun the target for 1 second, unless it's a boss."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: {
 				Count: 1b
@@ -67,6 +73,12 @@
 				"- &6&lCombos &r&7Consecutive attacks will perform combos."
 				""
 				"- &6&lHold to attack &r&7You can hold the attack button to keep attacking continuosly."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			icon: {
 				Count: 1b

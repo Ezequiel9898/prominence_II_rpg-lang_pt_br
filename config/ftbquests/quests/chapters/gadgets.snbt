@@ -361,7 +361,15 @@
 		}
 		{
 			dependencies: ["01BF1397DC5B4906"]
-			description: ["(there's more than just Player filters)"]
+			description: [
+				"(there's more than just Player filters)"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+			]
 			id: "105CE0D106AEF623"
 			rewards: [{
 				id: "27D2B1FEDF40CD34"

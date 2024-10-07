@@ -169,7 +169,15 @@
 		}
 		{
 			dependencies: ["46D0AAEEB69E28B3"]
-			description: ["The Decaying King spawns in the remnants of the Decaying Kingdom in the nether. This cursed monstrosity wields The Darkin Blade, and has many deadly attacks to look out for. Killing it makes it drop the Darkin Blade, a Lord Soul and the Withered Demon Heart."]
+			description: [
+				"The Decaying King spawns in the remnants of the Decaying Kingdom in the nether. This cursed monstrosity wields The Darkin Blade, and has many deadly attacks to look out for. Killing it makes it drop the Darkin Blade, a Lord Soul and the Withered Demon Heart."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+				]
 			hide_dependency_lines: true
 			icon: "soulsweapons:lord_soul_red"
 			id: "2F11604C9E2C0353"

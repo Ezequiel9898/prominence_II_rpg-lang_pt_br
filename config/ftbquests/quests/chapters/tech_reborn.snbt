@@ -281,7 +281,15 @@
 		}
 		{
 			dependencies: ["4B8D34860B127B5C"]
-			description: ["Allows you to smelt 12.5 items per piece of coal"]
+			description: [
+				"Allows you to smelt 12.5 items per piece of coal"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
+				]
 			id: "1DD5BD434117A8DE"
 			rewards: [
 				{

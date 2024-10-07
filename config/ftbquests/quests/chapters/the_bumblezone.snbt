@@ -719,6 +719,12 @@
 				"&c(!) You need to be Level 65 to use!"
 				""
 				"&7The Crystalline flower can be placed on top of Glistering Honey Crystals. With it, you can offer items to make the flower grow. With this growth, you can choose specific enchantments to put inside a book."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Em breve"
+				""
+				"&8Português"
 			]
 			id: "1712E7D12BFC9F90"
 			rewards: [{
