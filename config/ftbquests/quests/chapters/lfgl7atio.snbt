@@ -135,7 +135,7 @@
 			tasks: [{
 				count: 32L
 				id: "7A1258B12E4F3ADA"
-				item: "ad_astra:steel_ingot"
+				item: "techreborn:steel_ingot"
 				type: "item"
 			}]
 			title: "Obtenha Lingote de Aço"
