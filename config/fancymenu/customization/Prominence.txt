@@ -139,8 +139,8 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Get 25% OFF!
-  label = Create Server
+  description = Garanta 25% de desconto!
+  label = Criar servidor
   navigatable = true
   element_type = custom_button
   instance_identifier = aa659239-0d9a-4a17-a4e9-3d7f9ed9dd021676030288778
@@ -171,7 +171,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Discord Server
+  description = Servidor do Discord
   label = 
   navigatable = true
   element_type = custom_button
@@ -203,7 +203,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = CurseForge Page
+  description = Página do CurseForge
   label = 
   navigatable = true
   element_type = custom_button
@@ -235,7 +235,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Settings
+  description = Ajustes
   label = 
   navigatable = true
   element_type = custom_button
@@ -260,7 +260,7 @@ element {
 }
 
 element {
-  source = Made with &c❤ &rby &6ElocinDev
+  source = Feito com &c❤ &rpor &6ElocinDev
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -297,7 +297,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Quit Game
+  description = Sair do jogo
   label = 
   navigatable = true
   element_type = custom_button
@@ -429,7 +429,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   hoverlabel = 
-  description = Boost Your FPS
+  description = Aumente seus FPS
   label = 
   navigatable = true
   element_type = custom_button
@@ -509,7 +509,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Official Wiki
+  label = Wiki Oficial
   navigatable = true
   element_type = custom_button
   instance_identifier = c81d9c64-bac9-4c8e-a18f-6f0e978765dc1704839604144
@@ -591,7 +591,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Get one now! Available for limited time only.
+  description = Garanta o seu agora! Disponível por tempo limitado.
   label =  
   navigatable = true
   element_type = custom_button
@@ -779,7 +779,7 @@ element {
 
 element {
   interactable = true
-  source =  Campaign Ended!%n%Only 209 made! <3
+  source =  Campanha Encerrada!%n%Apenas 209 feitas!
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -988,7 +988,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Accesibility
+  description = Acessibilidade
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_accessibility_button
@@ -1155,7 +1155,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Language
+  description = Idioma
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_language_button

@@ -38,7 +38,7 @@ scroll_list_customization {
 }
 
 element {
-  source = You have added a mod that is incompatible with our Modpack! %n%Please remove any extra mods you added to the modpack until this warning disappears.%n%%n%If unsure, ask in discord.gg/lunapixel !
+  source = Você adicionou um mod que é incompatível com o nosso Modpack! %n%Por favor, remova qualquer mod extra que você tenha adicionado ao modpack até que este aviso desapareça.%n%%n%Se não tiver certeza, pergunte em discord.gg/lunapixel !
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -592,4 +592,5 @@ deep_element {
   [loading_requirement_container_meta:a0ac23d7-4756-4660-bb17-46bba9007370-1720181882700] = [groups:][instances:]
   is_hidden = true
 }
+
 

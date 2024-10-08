@@ -31,7 +31,7 @@ element {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = Keep in mind that sharing your world will have more latency %n%and potential performance issues than using a server.%n%%n%So we still recommend to use Bisect Hosting.
+  source =Lembre-se de que compartilhar seu mundo pode causar lag %n%e problemas de desempenho do que usar um servidor.%n%%n%Por isso, ainda recomendamos usar a Bisect Hosting.
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -56,7 +56,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Get 25% OFF with Bisect Hosting
+  label = Obtenha 25% de desconto com a Bisect Hosting
   navigatable = true
   element_type = custom_button
   instance_identifier = 6b9620e1-3a16-449d-93ab-e44940d57dc41692901824606
@@ -212,7 +212,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Share World
+  label = Compartilhar mundo
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 345972
