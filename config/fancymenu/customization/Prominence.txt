@@ -779,7 +779,7 @@ element {
 
 element {
   interactable = true
-  source =  Campanha Encerrada!%n%Apenas 209 feitas!
+  source =  Campanha Encerrada!%n% Apenas 209 feitas!
   source_mode = direct
   shadow = true
   scale = 1.0
