@@ -1972,7 +1972,14 @@
 		}
 		{
 			dependencies: ["4661838E492BDE53"]
-			description: ["Não use a chave inglesa para quebrar, use uma picareta."]
+			description: [
+				"Don't break it with the wrench, use a pickaxe."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Não use a chave inglesa para quebrar, use uma picareta."
+				""
+				"&8Português"
 			id: "2DB9C3C383C91BC0"
 			rewards: [{
 				id: "2975DAD665501B19"
@@ -2093,7 +2100,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "A Separadora de Aço é uma máquina autoexplicativa que desmonta peças de máquinas em partes menores, funcionando como uma espécie de sistema de reciclagem. É a irmã gêmea da Embaladora de Aço."			
+			subtitle: "A Separadora de Aço é uma máquina autoexplicativa que desmonta peças de máquinas em partes menores, funcionando como uma espécie de sistema de reciclagem. É a irmã gêmea da Embaladora de Aço."
 			tasks: [{
 				id: "58691A4447512CEE"
 				item: "modern_industrialization:steel_unpacker"
