@@ -196,7 +196,14 @@
 			subtitle: "Crie um &6chest&r - atualizável por meio do mod &5Iron Chests&r!"
 			tasks: [{
 				id: "17209749B99F5873"
-				item: "minecraft:chest"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "c:chests"
+					}
+				}
+				title: "Craft a Chest"
 				type: "item"
 			}]
 			title: "&f&lPrimeiros Passos&r: &aCrie um bau"

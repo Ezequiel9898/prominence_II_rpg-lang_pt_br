@@ -338,6 +338,29 @@
 			x: -2.0d
 			y: 1.0d
 		}
+	{
+			dependencies: ["2D24C45915E27222"]
+			description: [
+				"&7The Beacon of Hope is broken, now, with no way to communicate with S'kellak, you will need to find a way to travel to Vaaz by yourself."
+				""
+				"&eThis questline is coming on v3.1.0, along with the Cinderstone Depths dimension and the capital city of Vaaz!"
+				""
+				"&6Stay tuned!"
+			]
+			hide: true
+			icon: "prominent:cinderstone_trophy"
+			id: "5E4919750C5CE35D"
+			shape: "hexagon"
+			subtitle: "&8[Click to read lore]"
+			tasks: [{
+				id: "539D6D4124775E80"
+				title: "&eComing on v3.1.0"
+				type: "custom"
+			}]
+			title: "&eJourney to Vaaz"
+			x: 0.0d
+			y: 7.5d
+		}
 	]
 	title: " &e&lHasturian Era"
 }
