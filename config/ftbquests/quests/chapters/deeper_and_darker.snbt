@@ -137,7 +137,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Rara chance de surgir depois de quebrar um &8Vaso Ancestral&r."															  
+			subtitle: "Rara chance de surgir depois de quebrar um &8Vaso Ancestral&r."
 			tasks: [{
 				entity: "deeperdarker:stalker"
 				icon: "deeperdarker:soul_crystal"
