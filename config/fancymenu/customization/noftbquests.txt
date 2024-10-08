@@ -104,7 +104,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Report an Issue
+  description = Reportar um problema
   label = 
   navigatable = true
   element_type = custom_button
@@ -126,7 +126,7 @@ element {
 }
 
 element {
-  source = Made with &c❤ &rby &6ElocinDev
+  source = Feito com &c❤ &rpor &6ElocinDev
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -163,7 +163,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Quit Game
+  description = Sair do jogo
   label = 
   navigatable = true
   element_type = custom_button
@@ -234,7 +234,7 @@ element {
 }
 
 element {
-  source = Modrinth &cdoes not have FTB mods&f.%n%%n%&fDue to licensing issues, we cannot include them in the modpack,%n%&fso in order to play, you have to manually download them and their dependencies%n%%n%&eDownload the mods below and put them under the "mods" folder%n%&efrom your modpack instance. Make sure to restart the modpack afterwards.%n%&7You can click the "Folder" button in the Modrinth launcher to access it!
+  source = Modrinth &cnão possui mods FTB&f.%n%%n%Devido a problemas de licenciamento, não podemos incluí-los no modpack.%n%%n%Para jogar, você precisa baixar os mods manualmente, junto com suas dependências.%n%%n%&eBaixe os mods abaixo e coloque-os na pasta "mods"%n%%n%&defrente à sua instância do modpack. Não esqueça de reiniciar o modpack depois.%n%%n%&7Você pode clicar no botão "Pasta" no launcher do Modrinth para acessá-la!
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -361,7 +361,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Video Tutorial
+  label = Tutorial em vídeo
   navigatable = true
   element_type = custom_button
   instance_identifier = 50e4169a-5d0f-451f-95cc-ea59377cdf6f1701190091127
@@ -453,7 +453,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Language
+  description = Idioma
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_language_button
@@ -553,7 +553,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = Accesibility
+  description = Acessibilidade
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_accessibility_button
