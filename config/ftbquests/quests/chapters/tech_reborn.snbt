@@ -2066,7 +2066,7 @@
 				xp: 50
 			}]
 			shape: "diamond"
-			subtitle: "Gera 4 E/t enquanto tiver um ovo de dragão em cima dela."															   
+			subtitle: "Gera 4 E/t enquanto tiver um ovo de dragão em cima dela."
 			tasks: [{
 				id: "605DE8DE7039EC01"
 				item: "techreborn:dragon_egg_syphon"
