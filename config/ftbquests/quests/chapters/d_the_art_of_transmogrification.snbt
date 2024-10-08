@@ -47,20 +47,20 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&dTransmogrificação&7 é um tipo de magia que permite que você &emude a forma de qualquer objeto sem alterar sua função&7, permitindo que você mascare seus itens em outro, incluindo armas e armaduras. Isso não confere nenhum benefício além de ser puramente cosmético."
 				""
 				"&8Português"
 			]
 			icon: "minecraft:amethyst_cluster"
 			id: "1F3A415DDF6355EE"
 			shape: "hexagon"
-			subtitle: "&8[Click to read information]"
+			subtitle: "&8[Clique para ler informações]"
 			tasks: [{
 				id: "138402A5BE9F444A"
-				title: "The Art of Transmogrification"
+				title: "A Arte da Transmogrificação"
 				type: "checkmark"
 			}]
-			title: "&eThe Art of Transmogrification"
+			title: "&eA Arte da Transmogrificação"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -74,7 +74,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Para começar, você deve criar uma &dMesa de Transmogrificação&7. Esta magia é alimentada por &dAmetista&7, então você terá que conseguir algumas sempre que quiser transformar qualquer item."
+				""
+				"Nenhum item será consumido, mas para alterar a forma, você precisará possuir o item desejado."
 				""
 				"&8Português"
 			]
@@ -85,7 +87,7 @@
 				xp: 90
 			}]
 			shape: "diamond"
-			subtitle: "&8[Click to read information]"
+			subtitle: "&8[Clique para ler informações]"
 			tasks: [{
 				id: "07DDEFBFD93B4F74"
 				item: "transmog:transmogrification_table"
@@ -104,7 +106,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Se você não quer exibir uma peça de armadura ou uma arma, você pode ocultar os itens!"
+				""
+				"&7Ao usar um &dFragmento do Vazio&7 como material transmogrável"
 				""
 				"&8Português"
 			]
@@ -115,16 +119,17 @@
 				xp: 120
 			}]
 			shape: "diamond"
-			subtitle: "&8[Click to read information]"
+			subtitle: "&8[Clique para ler informações]"
 			tasks: [{
 				id: "0D1D91DEF701EFDA"
 				item: "transmog:void_fragment"
 				type: "item"
 			}]
-			title: "&dThe Illusion of Nothing"
+			title: "&dA Ilusão do Nada"
 			x: 0.0d
 			y: -3.0d
 		}
 	]
-	title: "&d Transmogrification"
+	title: "&dTransmogrificação"
 }
+

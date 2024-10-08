@@ -33,7 +33,7 @@
 				id: "3242106C382B0F09"
 				type: "dimension"
 			}]
-			title: "Mars"
+			title: "Marte"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -78,10 +78,10 @@
 			size: 1.5d
 			tasks: [{
 				id: "379CD1A3A63DD0F5"
-				title: "Exploration"
+				title: "Exploração"
 				type: "checkmark"
 			}]
-			title: "Exploration"
+			title: "Exploração"
 			x: -3.0d
 			y: 0.0d
 		}
@@ -97,7 +97,7 @@
 				icon: "ad_astra:mars_sand"
 				id: "6A912D7129CFA0A3"
 				structure: "ad_astra:mars_temple"
-				title: "Find the &4Mars temple"
+				title: "Encontre o &4Templo de Marte"
 				type: "structure"
 			}]
 			x: -4.5d
@@ -119,7 +119,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The &6netherite space suit&f is an upgraded version of the &6standard space suit&r, featuring permanent fire resistance, more protection and the ability to survive on &6Venus&f and &6Mercury&f. Before you travel to these planets, you must craft the &6netherite space suit armour&f or else you will burn to death."
+			subtitle: "O &6traje espacial de netherita&f é uma versão aprimorada do &6traje espacial padrão&r, oferecendo resistência permanente ao fogo, mais proteção e a capacidade de sobreviver em &6Vênus&f e &6Mercúrio&f. Antes de viajar para esses planetas, você deve criar a &6armadura do traje espacial de netherita&f ou você queimará até a morte."
 			tasks: [
 				{
 					id: "143A97761621C1FA"
@@ -167,7 +167,7 @@
 					type: "item"
 				}
 			]
-			title: "Craft a &4Netherite Space Helmet"
+			title: "Craft um &4Capacete espacial de netherita"
 			x: 3.0d
 			y: 2.5d
 		}
@@ -179,11 +179,11 @@
 				type: "xp_levels"
 				xp_levels: 3
 			}]
-			subtitle: "The &6energizer&r is a machine capable of &apowering items&r and storing large amounts of &benergy&r. To &echarge an item&r, &apower the energizer&r and then right-click on the energizer with that item. It stores 2 million &benergy&r, making it capable of &ccharging machines for a very long time&r. It also retains its &benergy&r when &bbroken&r."
+			subtitle: "O &6carregador&r é uma máquina capaz de &aalimentar itens&r e armazenar grandes quantidades de &benergia&r. Para &ccarregar um item&r, &aalimente o carregador&r e clique com o botão direito nele com o item desejado. Ele armazena 2 milhões de &benergia&r, permitindo &calimentar máquinas por um tempo muito longo&r. Ele também retém sua &benergia&r mesmo quando &bquebrado&r."
 			tasks: [{
 				id: "514A8297F77535B4"
 				item: "ad_astra:energizer"
-				title: "Craft an &eEnergizer"
+				title: "Craft um &eCarregador"
 				type: "item"
 			}]
 			x: -2.0d
@@ -204,11 +204,11 @@
 					xp_levels: 3
 				}
 			]
-			subtitle: "&6Fuel&r is hard to get; it &arequires venturing out&r to the ocean, looking for &boil spouts&r. The &3Cryo Freezer&r introduces a new way to obtain a better fuel &3Cryo Fuel&r. &3Cryo Fuel&r is much more efficient than &arefined fuel&r, allowing you to launch a rocket with just one &9bucket&r."
+			subtitle: "&6Combustível&r é difícil de se obter; requer que você se aventure no oceano à procura de &a restingações de óleo&r. O &3 Criogenizador&r apresenta uma nova maneira de obter um combustível melhor, o &3 Criofluido&r. O &3 Criofluido&r é muito mais eficiente que o &acombustível refinado&r, permitindo lançar um foguete com apenas &9um balde&r."
 			tasks: [{
 				id: "200EFCCAE2B8814F"
 				item: "ad_astra:cryo_freezer"
-				title: "Craft a &4Cry Freezer"
+				title: "Craft um &4Criogenizador"
 				type: "item"
 			}]
 			x: 0.0d
@@ -235,11 +235,11 @@
 					xp_levels: 3
 				}
 			]
-			subtitle: "&6Oxygen Sensor&r is a machine that produces a &credstone signal&r when oxygen is detected."
+			subtitle: "&6Sensor de Oxigênio&r é uma máquina que produz um &csinal de redstone&r quando oxigênio é detectado."
 			tasks: [{
 				id: "3D9148290F4408BD"
 				item: "ad_astra:oxygen_sensor"
-				title: "Craft an &bOxygen Sensor"
+				title: "Craft um &bSensor de Oxigênio"
 				type: "item"
 			}]
 			x: 3.0d
@@ -259,7 +259,7 @@
 				item: "ad_astra:ostrum_sliding_door"
 				type: "item"
 			}]
-			title: "Craft a &5Ostrum Sliding Door"
+			title: "Craft uma &5Porta deslizante de Ostrum"
 			x: 2.0d
 			y: 0.0d
 		}
@@ -275,7 +275,7 @@
 				count: 4L
 				id: "693E7A56BF855753"
 				item: "ad_astra:solar_panel"
-				title: "Build a &4Mars-based Solar Power Station"
+				title: "Construa uma &4Estação de energia solar em marte"
 				type: "item"
 			}]
 			x: 3.0d
@@ -296,7 +296,7 @@
 				type: "kill"
 				value: 10L
 			}]
-			title: "Defeat &4Martian Raptor"
+			title: "Derrote o &4Martian Raptor"
 			x: -4.5d
 			y: 1.0d
 		}
@@ -311,7 +311,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"- Agora que você pode voar para &6Vênus&r e &6Mercúrio&r, seu novo objetivo é reunir &bCalorita&r suficiente para construir o foguete definitivo."
 				""
 				"&8Português"
 			]
@@ -345,7 +345,7 @@
 						BotariumData: { }
 					}
 				}
-				title: "Craft a &8Tier 3 &3Rocket"
+				title: "Craft um &3Foguete &8Tier 3 "
 				type: "item"
 			}]
 			x: 3.0d
@@ -409,7 +409,7 @@
 			tasks: [{
 				id: "389075840058C4C5"
 				item: "ad_astra:oxygen_distributor"
-				title: "Craft a &bOxygen Distributor"
+				title: "Craft um &bDistribuidor de Oxigênio"
 				type: "item"
 			}]
 			x: 2.0d
@@ -428,7 +428,7 @@
 				item: "ad_astra:cryo_fuel_bucket"
 				type: "item"
 			}]
-			title: "Obtain &bCryo Fuel"
+			title: "Obtenha &bCriofluido"
 			x: -2.0d
 			y: 4.0d
 		}
@@ -456,10 +456,10 @@
 				dimension: "ad_astra:venus"
 				icon: "ad_astra:venus_globe"
 				id: "1FAAF55A4049C58A"
-				title: "Venus"
+				title: "Vênus"
 				type: "dimension"
 			}]
-			title: "to &eVenus"
+			title: "Para &eVênus"
 			x: 2.25d
 			y: 6.0d
 		}
@@ -476,7 +476,7 @@
 				item: "ad_astra:launch_pad"
 				type: "item"
 			}]
-			title: "Craft a &8Launch Pad"
+			title: "Craft uma &8Plataforma de lançamento"
 			x: 4.5d
 			y: 4.0d
 		}
@@ -495,12 +495,13 @@
 				dimension: "ad_astra:mercury"
 				icon: "ad_astra:mercury_globe"
 				id: "33AE4B97DEF5A319"
-				title: "to &cMer&6cury"
+				title: "Para &cMer&6curio"
 				type: "dimension"
 			}]
 			x: 3.75d
 			y: 6.0d
 		}
 	]
-	title: " &4Mars"
+	title: " &4Marte"
 }
+

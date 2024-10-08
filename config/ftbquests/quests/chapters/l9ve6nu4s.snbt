@@ -66,13 +66,13 @@
 			]
 			shape: "circle"
 			size: 1.5d
-			subtitle: "&dCalorite&r is used to craft the &eultimate rocket&r capable of travelling to a new solar system and more!&r"
+			subtitle: "&dCalorite&r é usado para criar o &efoguete final&r capaz de viajar para um novo sistema solar e muito mais!&r"
 			tasks: [{
 				id: "0110A74C34F82B21"
 				item: "ad_astra:calorite_ingot"
 				type: "item"
 			}]
-			title: "Obtain &4Calorite "
+			title: "Obtendo &4Calorite "
 			x: 0.0d
 			y: 2.5d
 		}
@@ -89,10 +89,10 @@
 			size: 1.5d
 			tasks: [{
 				id: "756C543904B4721D"
-				title: "Exploration"
+				title: "Exploração"
 				type: "checkmark"
 			}]
-			title: "Exploration"
+			title: "Exploração"
 			x: -3.0d
 			y: 0.0d
 		}
@@ -110,7 +110,7 @@
 				structure: "ad_astra:venus_bullet"
 				type: "structure"
 			}]
-			title: "Find &eVenus Bullet"
+			title: "Encontre &eBala de Vênus"
 			x: -3.0d
 			y: -1.5d
 		}
@@ -129,7 +129,7 @@
 				type: "kill"
 				value: 10L
 			}]
-			title: "Defeat &4Sulfur Creeper"
+			title: "Derrote &4Creeper de Enxofre"
 			x: -4.5d
 			y: -0.5d
 		}
@@ -148,7 +148,7 @@
 				type: "kill"
 				value: 10L
 			}]
-			title: "Defeat &4Pygro"
+			title: "Derrote &4Pygro"
 			x: -4.5d
 			y: 0.5d
 		}
@@ -167,7 +167,7 @@
 				type: "kill"
 				value: 10L
 			}]
-			title: "Defeat &4Mogler"
+			title: "Derrote &4Mogler"
 			x: -3.0d
 			y: 1.5d
 		}
@@ -181,7 +181,10 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"- O &bTraje Jet&r é uma versão aprimorada do &cTraje Espacial de Netherite&r, com mais proteção, armazenamento adicional de oxigênio e &evoo&r. É caro de fabricar, mas oferece voo em alta velocidade, facilitando a locomoção.&r"
+				""
+				"- Ele tem dois modos de voo: ascendente (&aEspaço&r) e impulsionado (&aEspaço + Esquerda&r). Ascendente faz o usuário voar para cima, enquanto o impulsionado é semelhante a uma elytra que está constantemente sendo impulsionada por fogos de artifício. O &bTraje Jet&r é alimentado por energia e deve ser carregado para voar. Pode ser carregado com um&r"
+				"&benergizador&r ao clicar com o botão direito nele com o &btraje jet&r.&r"
 				""
 				"&8Português"
 			]
@@ -248,7 +251,7 @@
 					type: "item"
 				}
 			]
-			title: "Craft a &4Jet Suit"
+			title: "Criar um &4traje jet"
 			x: 3.5d
 			y: 2.5d
 		}
@@ -264,7 +267,7 @@
 			tasks: [{
 				id: "52B0BBE770E66549"
 				item: "ad_astra:calorite_sliding_door"
-				title: "Craft a &4Calorite Sliding Door"
+				title: "Crie uma &4Porta Deslizante de Calorita"
 				type: "item"
 			}]
 			x: 1.0d
@@ -305,7 +308,7 @@
 						BotariumData: { }
 					}
 				}
-				title: "Craft a &5Tier 4 &dRocket"
+				title: "Criar um &dFoguete de &5Nível 4"
 				type: "item"
 			}]
 			x: 3.5d
@@ -323,7 +326,7 @@
 			tasks: [{
 				id: "145AE422D3D87D82"
 				item: "ad_astra:solar_panel"
-				title: "Craft a &dSolar Panel"
+				title: "Criar um &dPainel Solar"
 				type: "item"
 			}]
 			x: -1.0d
@@ -348,7 +351,7 @@
 				item: "ad_astra:ostrum_ingot"
 				type: "item"
 			}]
-			subtitle: "Breath AIR!"
+			subtitle: "Respire AR!"
 			tasks: [{
 				count: 8L
 				id: "28B1C0389F298FC6"
@@ -389,7 +392,7 @@
 			tasks: [{
 				id: "3E7045DFF21BA81A"
 				item: "ad_astra:oxygen_distributor"
-				title: "Craft a &bOxygen Distributor"
+				title: "Criar um &bDistribuidor de Oxigênio"
 				type: "item"
 			}]
 			x: 0.0d
@@ -403,7 +406,8 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Uma vez que você tenha encontrado &dcalórito&r suficiente para criar um foguete de &equarto nível&r, você será capaz de deixar este sistema solar e entrar em um novo. O primeiro planeta para onde você irá em &dProxima Centauri&r é &aGlacio&r. Glacio é extremamente frio;&r"
+				"no entanto, ele possui &boxigênio&r, permitindo que você sobreviva lá sem um &dtraje espacial.&r"
 				""
 				"&8Português"
 			]
@@ -424,7 +428,7 @@
 			]
 			shape: "circle"
 			size: 1.5d
-			subtitle: "Clicl!"
+			subtitle: "Click!"
 			tasks: [{
 				dimension: "ad_astra:glacio"
 				icon: "ad_astra:glacio_globe"
@@ -449,10 +453,11 @@
 				item: "ad_astra:launch_pad"
 				type: "item"
 			}]
-			title: "Craft a &8Launch Pad"
+			title: "Crie uma &8Plataforma de Lançamento"
 			x: 3.5d
 			y: -2.0d
 		}
 	]
 	title: " &eVenus"
 }
+

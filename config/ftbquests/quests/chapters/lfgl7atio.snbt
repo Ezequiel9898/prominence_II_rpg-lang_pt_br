@@ -22,10 +22,10 @@
 				dimension: "ad_astra:glacio"
 				icon: "ad_astra:glacio_globe"
 				id: "7A2C8ADB61A66611"
-				title: "Glacio"
+				title: "Geleira"
 				type: "dimension"
 			}]
-			title: "Glacio"
+			title: "Geleria"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -37,7 +37,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "4A375F3DC199C022"
-				title: "Exploration"
+				title: "Exploração"
 				type: "checkmark"
 			}]
 			x: 2.25d
@@ -59,7 +59,7 @@
 				type: "kill"
 				value: 10L
 			}]
-			title: "Defeat &4Glacian Ram"
+			title: "Derrote o &4Carneiro Glacial"
 			x: 3.5d
 			y: -1.0d
 		}
@@ -82,7 +82,7 @@
 			tasks: [{
 				id: "4D86B4E9F8E7D659"
 				item: "minecraft:milk_bucket"
-				title: "Drink &lGlacian Ram MILK"
+				title: "Beba &1LEITE de Carneiro Glacial"
 				type: "item"
 			}]
 			x: 3.5d
@@ -102,7 +102,7 @@
 				item: "ad_astra:desh_plate"
 				type: "item"
 			}]
-			title: "Obtain Desh Plate"
+			title: "Obtenha Chapa de Desh"
 			x: -4.0d
 			y: -1.0d
 		}
@@ -120,7 +120,7 @@
 				item: "ad_astra:desh_ingot"
 				type: "item"
 			}]
-			title: "Obtain Desh Ingot"
+			title: "Obtenha Lingote de Desh"
 			x: -2.5d
 			y: -2.0d
 		}
@@ -138,7 +138,7 @@
 				item: "techreborn:steel_ingot"
 				type: "item"
 			}]
-			title: "Obtain Steel Ingot"
+			title: "Obtenha Lingote de Aço"
 			x: -2.5d
 			y: 2.0d
 		}
@@ -162,7 +162,7 @@
 				title: "Any #c:iron_plates"
 				type: "item"
 			}]
-			title: "Obtain Iron Plate"
+			title: "Obtenha Chapa de Ferro"
 			x: -4.0d
 			y: 1.0d
 		}
@@ -176,7 +176,10 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"- Uma &aestação espacial&r é uma estrutura pré-construída que é criada na tela de seleção de planeta, desde que você tenha os &bmateriais&r necessários. As &aestações espaciais&r estão sempre localizadas na órbita de uma lua ou planeta e fornecem a capacidade de colocar blocos nessa &bdimensão de órbita&r.&r"
+				""
+				"- &bEstações espaciais&r são projetadas para serem expandidas, permitindo que você construa a &cbase dos seus sonhos&r sobre uma &elua/planeta&r. Elas sempre aparecem na &eposição&r em que você lançou&r."
+				"seu &bfoguete&r, então lembre-se das &ccoordenadas&r para não perder a estrutura.&r"
 				""
 				"&8Português"
 			]
@@ -184,16 +187,17 @@
 			id: "4C0A0E9139DC2A63"
 			shape: "circle"
 			size: 1.5d
-			subtitle: "Click!"
+			subtitle: "Clique!"
 			tasks: [{
 				id: "55206455D9F31308"
-				title: "Collect Different Steel Blocks"
+				title: "Colete Diferentes Blocos de Aço"
 				type: "checkmark"
 			}]
-			title: "&lSpace Station Mission"
+			title: "&lMissão Estação Espacial"
 			x: -2.5d
 			y: 0.0d
 		}
 	]
-	title: " &bGlacio"
+	title: " &fGlacio"
 }
+

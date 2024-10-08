@@ -77,15 +77,15 @@
 			id: "1DD302BB650057E3"
 			shape: "rsquare"
 			size: 1.25d
-			subtitle: "Start your journey in &eProminence&r!"
+			subtitle: "Comece sua jornada no &eProminence&r!"
 			tasks: [{
 				dimension: "minecraft:overworld"
 				icon: "minecraft:grass_block"
 				id: "7B701D980200A661"
-				title: "Enter the Overworld"
+				title: "Entre no Overworld"
 				type: "dimension"
 			}]
-			title: "&aFirst Steps"
+			title: "&aPrimeiros passos"
 			x: 0.0d
 			y: -0.625d
 		}
@@ -101,7 +101,12 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"O &6questbook&r é muito importante no Prominence, e ira quia-lo atravez da maior parte da progreção do jogo."
+				""
+				"Para acessar mais facil o &6questbook&r, você pode clickar no livro" 
+				"icone no canto superior esquerdo da tela de inventário."
+				""
+				"Quando você abrir as quests, o lado esquerdo mostrará quais tarefas você precisa para cumprir a quest, e o lado direito mostra as recompensas."
 				""
 				"&8Português"
 			]
@@ -111,7 +116,7 @@
 				type: "xp"
 				xp: 2
 			}]
-			subtitle: "Click me and read my description!"
+			subtitle: "Click em mim e leia minha descrição!"
 			tasks: [{
 				id: "4184344EFBA63388"
 				item: {
@@ -121,10 +126,10 @@
 						value: "c:crops"
 					}
 				}
-				title: "Find a fruit or vegetable!"
+				title: "Encontre frutas e vegetais!"
 				type: "item"
 			}]
-			title: "&f&lFirst Steps&r: &aQuesting!"
+			title: "&f&lPrimeiros Passos&r: &aQuests!"
 			x: 0.0d
 			y: -2.0d
 		}
@@ -137,13 +142,13 @@
 				xp_levels: 3
 			}]
 			shape: "rsquare"
-			subtitle: "Mine some copper and use the &eBlank Chest Upgrade&r to make a copper upgrade for your &6chests&r!"
+			subtitle: "Extraia um pouco de cobre e use o &eBlank Chest Upgrade&r para fazer um upgrade de cobre para seus &6Baus&r!"
 			tasks: [{
 				id: "1C2CEDE48DF1D506"
 				item: "ironchests:copper_chest_upgrade"
 				type: "item"
 			}]
-			title: "&e&lUpgrading:&f &fChests"
+			title: "&e&lUpgrade:&f &6Baus"
 			x: 4.5d
 			y: -3.5d
 		}
@@ -157,13 +162,13 @@
 				xp_levels: 2
 			}]
 			shape: "diamond"
-			subtitle: "To open the &2Quest Chapters&r screen, close this quest and move your cursor to the left. Each chapter has a different set of quests that fit into that theme."
+			subtitle: "Para abrir a tela &2Quest Chapters&r, feche esta missão e mova o cursor para a esquerda. Cada capítulo tem um conjunto diferente de missões que se enquadram nesse tema."
 			tasks: [{
 				id: "6E754EF86972872E"
-				title: "Click here!"
+				title: "Clique aqui!"
 				type: "checkmark"
 			}]
-			title: "&f&lFirst Steps: &r&aChapters"
+			title: "&f&lPrimeios Passos: &r&aCapitulos"
 			x: 0.0d
 			y: -3.5d
 		}
@@ -188,13 +193,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "Craft a &6chest&r - upgradeable via the &5Iron Chests&r mod!"
+			subtitle: "Crie um &6chest&r - atualizável por meio do mod &5Iron Chests&r!"
 			tasks: [{
 				id: "17209749B99F5873"
 				item: "minecraft:chest"
 				type: "item"
 			}]
-			title: "&f&lFirst Steps&r: &aCraft a Chest"
+			title: "&f&lPrimeiros Passos&r: &aCrie um bau"
 			x: 1.5d
 			y: -3.5d
 		}
@@ -217,7 +222,19 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Para equipar uma &9backpack&r, clique no ícone Equipar no menu &9backpack&r."
+				""
+				"Depois que uma &9backpack&r estiver equipada, você poderá abri-la pressionando &bB&r"
+				""
+				"&9Backpacks&r podem ser atualizados em vários níveis. &9Mochilas&r com benefícios especiais podem ser encontradas em baús de saque."
+				""
+				"Para ver todas as variantes de &9backpack&r, pesquise &d@traveler&r na barra de pesquisa &eREI&r."
+				""
+				"Você pode encontrar esta barra de pesquisa na parte inferior do seu inventário. "
+				""
+				"Clicar nos itens da lista de itens à direita do seu inventário mostrará suas receitas e usos."
+				""
+				"Você também pode pressionar &bR&r e &bU&r enquanto passa o mouse sobre qualquer item para ver sua receita e usos"
 				""
 				"&8Português"
 			]
@@ -229,7 +246,7 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			subtitle: "Click me and read my description!"
+			subtitle: "Clique em mim e leia minha descrição!"
 			tasks: [{
 				id: "524D333C37CC1E78"
 				item: {
@@ -239,7 +256,7 @@
 				}
 				type: "item"
 			}]
-			title: "&e&lUpgrading:&f Inventory"
+			title: "&e&lUpgrade:&f Inventário"
 			x: 3.5d
 			y: -3.5d
 		}
@@ -254,7 +271,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Pressione &a[M]&r para abrir o &eWorld Map&r."
+				""
+				"Para &ereivindicar um chunk&r, basta clicar com o botão direito no topo de um chunk e selecionar &eClaim Selected&r."
+				""
+				"Alguns servidores podem ter limites de reivindicação mais baixos do que o normal. Fique atento a esse limite, para não ficar sem."
 				""
 				"&8Português"
 			]
@@ -265,10 +286,10 @@
 				type: "xp_levels"
 				xp_levels: 3
 			}]
-			subtitle: "Click me and read my description!"
+			subtitle: "Clique em mim e leia minha descrição!"
 			tasks: [{
 				id: "1BC73062E2DC9CB8"
-				title: "Click to continue!"
+				title: "Clique para continuar!"
 				type: "checkmark"
 			}]
 			title: "&e&lMultiplayer: &dClaiming"
@@ -291,13 +312,13 @@
 				type: "item"
 			}]
 			size: 1.5d
-			subtitle: "&eContinue your journey through the other Chapters!"
+			subtitle: "&eContinue sua jornada pelos outros capítulos!"
 			tasks: [{
 				id: "721111D6BBD02194"
-				title: "Click here to continue!"
+				title: "Clique aqui para continuar!"
 				type: "checkmark"
 			}]
-			title: "&6&lWelcome to Prominence!"
+			title: "&6&lBem vindo ao Prominence!"
 			x: 4.017857142857146d
 			y: -1.9885938668661183d
 		}
@@ -309,17 +330,17 @@
 				item: "fwaystones:waystone_scroll"
 				type: "item"
 			}]
-			subtitle: "The easiest way to teleport between locations is to use &eWaystones&r. Waystones generate naturally in villages and are also craftable."
+			subtitle: "A maneira mais fácil de se teletransportar entre locais é usar &eWaystones&r. Waystones são gerados naturalmente nas aldeias e também podem ser fabricados."
 			tasks: [{
 				icon: "fwaystones:waystone"
 				id: "70CE3441ADA82DBA"
 				observe_type: 0
 				timer: 0L
-				title: "Use a Waystone!"
+				title: "Use uma Waystone!"
 				to_observe: "fwaystones:waystone"
 				type: "observation"
 			}]
-			title: "&f&lThe Basics: &dTeleporting"
+			title: "&f&lO Basico: &dTeleportar"
 			x: 1.5d
 			y: -2.0d
 		}
@@ -334,7 +355,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7A Árvore de Talentos, junto com o nível, é o método mais importante de progressão do jogador em Prominence, pois com ela você pode aumentar suas estatísticas e desbloquear novas habilidades."
+				""
+				"&7Está diretamente ligado ao nível, pois você receberá um ponto de talento a cada 2 níveis."
+				""
+				"&7Você pode abri-lo pressionando &eN&7; para redefini-lo, você pode usar um &ePergaminho de Conhecimento&7. Este item será consumido ao ser usado e seus pontos de talento serão reembolsados."
 				""
 				"&8Português"
 			]
@@ -346,13 +371,13 @@
 				type: "item"
 			}]
 			shape: "diamond"
-			subtitle: "Click me and read my description!"
+			subtitle: "Clique em mim e leia minha descrição!"
 			tasks: [{
 				id: "31F7356F773E8E8E"
-				title: "Click here to continue"
+				title: "Clique aqui para continuar"
 				type: "checkmark"
 			}]
-			title: "&d&lProgression: &e&lThe Talent Tree"
+			title: "&d&lProgressão: &e&lThe Talent Tree"
 			x: 1.0d
 			y: -5.0d
 		}
@@ -372,14 +397,14 @@
 				item: "tiered:limestone_chunk"
 				type: "item"
 			}]
-			subtitle: "All tools will have a random &erarity&r. This will affect their stats. To improve the rarity, you can &ereforge the tools&r using the second tab in the anvil. You will require &ea tool-specific material&r and &eone of the 3 ores&7 to successfully change its rarity. &cYou can read the \"Reforging\" questline for more info!"
+			subtitle: "Todas as ferramentas terão uma &eraridade&r aleatória. Isso afetará suas estatísticas. Para melhorar a raridade, você pode &ereforjar as ferramentas usando a segunda aba da bigorna. Você precisará de &ea material específico da ferramenta&r e &dametista&r para alterar com sucesso sua raridade."
 			tasks: [{
 				id: "2AC258EF05B19E8F"
 				item: "minecraft:anvil"
-				title: "Obtain an Anvil"
+				title: "Obtenha uma Bigorna"
 				type: "item"
 			}]
-			title: "&f&lThe Basics: &e&lRarities \\& Reforging"
+			title: "&f&lO Basico: &e&lRaridades \\& Reforjando"
 			x: -1.5d
 			y: -2.0d
 		}
@@ -395,7 +420,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Um aspecto central da progressão do seu jogador é o nível, exibido no canto superior esquerdo do seu inventário."
+				""
+				"&7Ele aumenta com a experiência de combate, como lutar contra inimigos ou derrotar chefes. Isso permite subir os inimigos para o seu nível e serve como um requisito de progressão para lutar contra certos chefes."
+				""
+				"&ePara algumas lutas contra chefes, é essencial estar no nível exigido! A missão do chefe mostrará em sua descrição o nível recomendado, se houver um."
 				""
 				"&8Português"
 			]
@@ -413,5 +442,6 @@
 			y: -5.0d
 		}
 	]
-	title: " Getting Started"
+	title: " O Começo"
 }
+

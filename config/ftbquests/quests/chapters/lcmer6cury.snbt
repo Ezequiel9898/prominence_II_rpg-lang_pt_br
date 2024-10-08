@@ -22,7 +22,7 @@
 				dimension: "ad_astra:mercury"
 				icon: "ad_astra:mercury_globe"
 				id: "0B5E1EF752BCAF55"
-				title: "Mercury"
+				title: "Mercurio"
 				type: "dimension"
 			}]
 			x: 0.0d
@@ -41,7 +41,7 @@
 				count: 20L
 				id: "58F498CAEB7D8AA9"
 				item: "ad_astra:solar_panel"
-				title: "Build a &eSolar Power Station"
+				title: "Construa uma &eEstação de Energia Solar"
 				type: "item"
 			}]
 			x: 1.5d
@@ -54,10 +54,10 @@
 			size: 1.5d
 			tasks: [{
 				id: "4A36A82FBE78FE94"
-				title: "Click to continue"
+				title: "Click para continuar"
 				type: "checkmark"
 			}]
-			title: "Let's build a space station!"
+			title: "Vamos construir uma estação espacial!"
 			x: 0.0d
 			y: 2.5d
 		}
@@ -74,7 +74,7 @@
 				item: "ad_astra:oxygen_loader"
 				type: "item"
 			}]
-			title: "Craft an &bOxygen Loader"
+			title: "Craftar um &bCarregador de Oxigênio"
 			x: 1.5d
 			y: 1.5d
 		}
@@ -100,7 +100,7 @@
 				item: "ad_astra:oxygen_distributor"
 				type: "item"
 			}]
-			title: "Craft an &aOxygen Distributor"
+			title: "Craftar um &aDistribuidor de Oxigênio"
 			x: -1.5d
 			y: 2.5d
 		}
@@ -117,7 +117,7 @@
 				item: "ad_astra:oxygen_sensor"
 				type: "item"
 			}]
-			title: "Craft an &cOxygen Sensor"
+			title: "Craftar um &cSensor de Oxigênio"
 			x: -1.0d
 			y: 4.5d
 		}
@@ -135,7 +135,7 @@
 				item: "ad_astra:cryo_freezer"
 				type: "item"
 			}]
-			title: "Craft a &2Freezer"
+			title: "Craftar um &2Congelador"
 			x: 0.0d
 			y: 4.5d
 		}
@@ -152,7 +152,7 @@
 				item: "ad_astra:energizer"
 				type: "item"
 			}]
-			title: "Craft an &bEnerigzer"
+			title: "Craftar um &bEnergizador"
 			x: 1.5d
 			y: 3.5d
 		}
@@ -171,7 +171,7 @@
 				item: "ad_astra:calorite_sliding_door"
 				type: "item"
 			}]
-			title: "Craft a &cCalorite Sliding Door"
+			title: "Craftar uma &cPorta Deslizante de Calorite"
 			x: -1.5d
 			y: 3.5d
 		}
@@ -194,7 +194,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a&e Rover"
+			title: "Craftar um &eRover"
 			x: 1.0d
 			y: 4.5d
 		}
@@ -211,10 +211,11 @@
 				item: "ad_astra:water_pump"
 				type: "item"
 			}]
-			title: "Craft a &bWater Pump"
+			title: "Craftar uma &bBomba de Água"
 			x: -1.5d
 			y: 1.5d
 		}
 	]
-	title: " &cMercury"
+	title: " &cMercurio"
 }
+

@@ -236,7 +236,7 @@
 			id: "01BF1397DC5B4906"
 			shape: "rsquare"
 			size: 1.25d
-			subtitle: "This quest line is about discovering the unique and quirky items/blocks in Prominence, which could even help with some of the tech mods!"
+			subtitle: "Esta linha de missões é sobre descobrir os itens/blocos únicos e peculiares em Prominence, que podem até ajudar com alguns dos mods de tecnologia!"
 			tasks: [{
 				id: "3EE7C97623ACE6EA"
 				title: "Welcome!"
@@ -253,7 +253,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Blank Plates are the basis towards Effect Plates. Stepping on an Effect Plate will give you the designated effect."
+			subtitle: "As Placas Vazias são a base para as Placas de Efeito. Pisando em uma Placa de Efeito, você receberá o efeito designado."
 			tasks: [{
 				id: "1A0EDE59F7165D1D"
 				item: "darkutils:blank_plate"
@@ -366,7 +366,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"(Há mais do que apenas filtros de Jogador."
 				""
 				"&8Português"
 			]
@@ -376,7 +376,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Mob Filters are blocks that only a select few entities can go through."
+			subtitle: "Filtros de Mob são blocos pelos quais apenas algumas entidades selecionadas podem passar."
 			tasks: [{
 				id: "16497AA38411B191"
 				item: "darkutils:filter_player"
@@ -393,7 +393,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Copper pans are an earlygame alternative to ore farms commonly found in tech mods like Create. When putting sand/gravel underneath and water above, they will rarely generate ore nuggets, gravel, emeralds, and a few other miscellaneous items."
+			subtitle: "Panelas de cobre são uma alternativa de início de jogo para farms de minério comumente encontradas em mods de tecnologia como o Create. Quando você coloca areia/ cascalho embaixo e água acima, elas geram raramente flocos de minério, cascalho, esmeraldas e alguns outros itens diversos."
 			tasks: [{
 				id: "2F7AA5CAC5265F1A"
 				item: "oxidized:copper_pan"
@@ -410,7 +410,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Cog Blocks are pretty much just redstone but they can be placed in the air."
+			subtitle: "Blocos de Engrenagem são basicamente redstone, mas podem ser colocados no ar."
 			tasks: [{
 				id: "1C16C5D041D713A7"
 				item: "supplementaries:cog_block"
@@ -422,3 +422,4 @@
 	]
 	title: " &eGadgets"
 }
+

@@ -43,7 +43,7 @@
 			}]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "Found underground in the &aOverworld&r."
+			subtitle: "Encontrado no Subsolo do &aMundo&r."
 			tasks: [{
 				entity: "minecraft:warden"
 				icon: "minecraft:sculk_sensor"
@@ -52,7 +52,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			title: "&lBossfight:&r &3The Warden"
+			title: "&lLuta do Chefe:&r &3O Guardião"
 			x: 7.0d
 			y: 4.0d
 		}
@@ -64,7 +64,7 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Used to negate the darkness in &8&lThe Otherside."
+			subtitle: "Usado para negar as trevas no &8&lOutro Lado."
 			tasks: [{
 				id: "42CA7AAF304767E7"
 				item: {
@@ -76,7 +76,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a &9Warden Helmet"
+			title: "Construa um &9Elmo de Guardião"
 			x: 5.5d
 			y: 3.0d
 		}
@@ -90,15 +90,15 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "Before lighting the portal, you must first remove all &3Sculk Veins &rfrom the inner frame. After the frame is cleared, you can right click it with the &bHeart of The Deep &rthat you got earlier from killing The Warden."
+			subtitle: "Antes de acender o portal você precisa remover todas as &3Veias Sculk &r da moldura interna. Depois que a moldura for limpa, você pode clicar com o botão direito nela com o &bCoração das profundezas &rque você obteve anteriormente ao matar o Guardião."
 			tasks: [{
 				dimension: "deeperdarker:otherside"
 				icon: "minecraft:reinforced_deepslate"
 				id: "474D2D76F2256297"
-				title: "Enter The Otherside"
+				title: "Entre no Outro Lado"
 				type: "dimension"
 			}]
-			title: "&lEntering:&r &8&lThe Otherside"
+			title: "&lEntrando:&r &8&lO Outro Lado"
 			x: 7.0d
 			y: 2.0d
 		}
@@ -114,11 +114,11 @@
 				entity: "deeperdarker:shattered"
 				icon: "deeperdarker:soul_dust"
 				id: "5B9501581479A2EC"
-				title: "Kill a Shattered"
+				title: "Mate um Estilhaçado"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill a &3Shattered"
+			title: "Mate um &3Estilhaçado"
 			x: 5.5d
 			y: 0.0d
 		}
@@ -137,16 +137,16 @@
 					type: "item"
 				}
 			]
-			subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
+			subtitle: "Rara chance de surgir depois de quebrar um &8Vaso Ancestral&r."
 			tasks: [{
 				entity: "deeperdarker:stalker"
 				icon: "deeperdarker:soul_crystal"
 				id: "1D807C8DC05EF208"
-				title: "Kill a Stalker"
+				title: "Mate um Stalker"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill a &3Stalker"
+			title: "Mate um &3Stalker"
 			x: 7.0d
 			y: -0.5d
 		}
@@ -158,16 +158,16 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Found by stepping on Infested Sculk"
+			subtitle: "Encontrado pisando em um Sculk infestado"
 			tasks: [{
 				entity: "deeperdarker:shriek_worm"
 				icon: "deeperdarker:sculk_bone"
 				id: "3D7BD985875AFF57"
-				title: "Kill a Shriek Worm"
+				title: "Mate uma minhoca urrante"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill a &7Shriek Worm"
+			title: "Mate uma &7Minhoca Urrante"
 			x: 8.5d
 			y: 0.0d
 		}
@@ -186,7 +186,7 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "
+			subtitle: "Pode ser domesticado com &cPeitorais de Netherita&r Encantados. Quando domesticado, eles ocasionalmente droparão livros encantados."
 			tasks: [{
 				icon: {
 					Count: 1b
@@ -202,10 +202,11 @@
 				to_observe: "deeperdarker:sculk_snapper"
 				type: "observation"
 			}]
-			title: "Find a &2Sculk Snapper"
+			title: "Encontre um &2Sculk Mordedor"
 			x: 9.0d
 			y: 2.0d
 		}
 	]
-	title: " &3The Otherside"
+	title: " &3O Outro Lado"
 }
+

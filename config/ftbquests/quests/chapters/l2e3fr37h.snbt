@@ -24,11 +24,11 @@
 					type: "item"
 				}
 			]
-			subtitle: "The &bcompressor&r is a machine that allows &aingots&r to be compressed into &eplates&r.&r"
+			subtitle: "A &bcompressor&r é uma máquina que permite que &alingotes&r sejam comprimidos em &eplates&r.&r"
 			tasks: [{
 				id: "0DC04860F16EAD54"
 				item: "ad_astra:compressor"
-				title: "Craft a &5Compressor"
+				title: "Crie um &5Compressor"
 				type: "item"
 			}]
 			x: 4.5d
@@ -56,11 +56,11 @@
 					type: "item"
 				}
 			]
-			subtitle: "The &aNasa Workbench&r is used to craft rockets of all tiers.&r"
+			subtitle: "A &aNasa Workbench&r é usada para fabricar foguetes de todos os níveis.&r"
 			tasks: [{
 				id: "52878781AB050F4A"
 				item: "ad_astra:nasa_workbench"
-				title: "Build a &bNASA workbench"
+				title: "Construa uma bancada de trabalho da &bNASA&r."
 				type: "item"
 			}]
 			x: 7.5d
@@ -89,7 +89,7 @@
 			]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "The &bTier 1 Rocket&r is the first rocket the player can craft in order to go to space.&r"
+			subtitle: "O &bFoguete de Nível 1&r é o primeiro foguete que o jogador pode fabricar para ir ao espaço."
 			tasks: [{
 				id: "788AE2374588CD5B"
 				item: {
@@ -101,7 +101,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a &4Tier 1 &6Rcoket"
+			title: "Crie um &6Foguete de &4Tier 1 "
 			x: 10.0d
 			y: 2.0d
 		}
@@ -113,7 +113,7 @@
 				type: "xp_levels"
 				xp_levels: 1
 			}]
-			subtitle: "The first suit you will craft in &aAd Astra&r is the standard &bSpace Suit&r. This suit provides the bare minimum, allowing you to travel to less dangerous locations, like the &dMoon&r.&r"
+			subtitle: "No &aAd Astra&r, o primeiro traje que você fabricará é o &bTraje Espacial Padrão&r. Este traje oferece o mínimo necessário para que você possa viajar para locais menos perigosos, como a &dLua&r."
 			tasks: [
 				{
 					id: "7AE8CC8E5EE08211"
@@ -161,7 +161,7 @@
 					type: "item"
 				}
 			]
-			title: "Craft &6Space armor"
+			title: "Crie uma &6Armadura espacial"
 			x: 10.0d
 			y: 0.5d
 		}
@@ -175,11 +175,11 @@
 				item: "ad_astra:steel_ingot"
 				type: "item"
 			}]
-			subtitle: "Inside the &aOxygen Loader&r, &eBuckets of Water&r can be placed inside, turning it into &bOxygen&r. This &bOxygen&r can then be placed inside &cOxygen Tanks&r and consumed as if they're a food item, which will cause them to enter your &dSpace Suit&r. Alternatively, you can directly add &bOxygen&r to a &dSpace Suit&r, which is recommended.&r"
+			subtitle: "Dentro do &aCarregador de Oxigênio&, &eBaldes de Água& podem ser colocados dentro, transformando-o em &bOxigênio&. Este &bOxigênio& pode então ser colocado dentro dos &cTanques de Oxigênio& e consumido como se fosse um item de comida, o que fará com que entre no seu &dTraje Espacial&. Alternativamente, você pode adicionar &bOxigênio& diretamente a um &dTraje Espacial&, o que é recomendado.&r"
 			tasks: [{
 				id: "06BEA07039136352"
 				item: "ad_astra:oxygen_loader"
-				title: "Craft an &2Oxygen Loader"
+				title: "Crie um &2Carregador de Oxigênio"
 				type: "item"
 			}]
 			x: 7.5d
@@ -195,7 +195,7 @@
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&lExploration"
+			title: "&lExploração"
 			x: -3.0d
 			y: 2.0d
 		}
@@ -209,7 +209,10 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"- Uma &aEstação Espacial&r é uma estrutura pré-construída que é criada na tela de seleção de planetas, desde que você tenha os materiais necessários. As estações espaciais estão sempre localizadas na órbita de uma lua ou planeta e fornecem a capacidade de colocar blocos nessa dimensão orbital.&r"
+				""
+				"- As estações espaciais são projetadas para serem expandidas, permitindo que você construa a base dos seus sonhos sobre uma &clua/planeta&r. Elas sempre aparecem na posição de onde você lançou o seu&r."
+				"foguete, então lembre-se das coordenadas para evitar perder a estrutura.&r"
 				""
 				"&8Português"
 			]
@@ -226,10 +229,10 @@
 			subtitle: "Click!"
 			tasks: [{
 				id: "5FA1A63B000F595E"
-				title: "Collect Different Steel Blocks"
+				title: "Colete Blocos de Aço Diferentes"
 				type: "checkmark"
 			}]
-			title: "&lSpace Station Mission"
+			title: "&lMissão da Estação Espacial"
 			x: 0.0d
 			y: -1.0d
 		}
@@ -247,7 +250,7 @@
 				item: "ad_astra:earth_globe"
 				type: "item"
 			}]
-			title: "&lCollect the Earth Globe"
+			title: "&lColete o Globo Terrestre"
 			x: 0.0d
 			y: 4.0d
 		}
@@ -267,11 +270,11 @@
 					type: "item"
 				}
 			]
-			subtitle: "The &bCoal Generator&r is a generator that allows early power generation. It burns &fcoal&r to produce energy.&r"
+			subtitle: "O &bGerador de Carvão&r é um gerador que permite geração de energia inicial. Ele queima &fcarvão&r para produzir energia."
 			tasks: [{
 				id: "28DC506F6D2A305D"
 				item: "ad_astra:coal_generator"
-				title: "Craft a &4Coal Generator"
+				title: "Crie um &4Gerador de Carvão"
 				type: "item"
 			}]
 			x: 4.5d
@@ -298,7 +301,7 @@
 				icon: "ad_astra:oil_bucket"
 				id: "6E8042298A406E94"
 				structure: "ad_astra:oil_well"
-				title: "Find an &8Oil Well"
+				title: "Encontre um &8Poço de Petróleo"
 				type: "structure"
 			}]
 			x: -4.5d
@@ -325,10 +328,10 @@
 				icon: "minecraft:blackstone"
 				id: "31C7A81432368D0A"
 				structure: "ad_astra:meteor"
-				title: "Find a Meteor"
+				title: "Encontre um Meteoro"
 				type: "structure"
 			}]
-			title: "Find a &4Meteor"
+			title: "Encontre um &4Meteoro"
 			x: -4.5d
 			y: 3.0d
 		}
@@ -343,7 +346,7 @@
 			tasks: [{
 				id: "53022EA02420CDC5"
 				item: "ad_astra:fuel_bucket"
-				title: "Craft a fuel bucket"
+				title: "Craftar um balde de combustível"
 				type: "item"
 			}]
 			x: 7.5d
@@ -356,10 +359,10 @@
 			size: 2.0d
 			tasks: [{
 				id: "532C7EE506A056A2"
-				title: "Earth?"
+				title: "Terra?"
 				type: "checkmark"
 			}]
-			title: "Earth"
+			title: "Terra"
 			x: 0.0d
 			y: 2.0d
 		}
@@ -377,7 +380,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a &lHammer"
+			title: "Crie um &lMartelo"
 			x: 3.0d
 			y: 2.0d
 		}
@@ -390,13 +393,13 @@
 				item: "ad_astra:oil_bucket"
 				type: "item"
 			}]
-			subtitle: "The &aFuel Refinery&r is a machine that is used to turn &coil&r into &efuel&r.&r"
+			subtitle: "A &aRefinaria de Combustível&r é uma máquina usada para transformar &fcarvão&r em &ecombustível&r.&r"
 			tasks: [{
 				id: "395371C61A3454D0"
 				item: "ad_astra:fuel_refinery"
 				type: "item"
 			}]
-			title: "Craft a &dFuel Refinery"
+			title: "Creie uma &dRefinaria de Combustível"
 			x: 7.5d
 			y: 3.5d
 		}
@@ -413,13 +416,13 @@
 			}]
 			shape: "circle"
 			size: 1.5d
-			subtitle: "The &bSteel Ingot&r is a basic crafting component in &aAd Astra&r. In conjunction with the &bSteel Plate&r, it's mainly used for crafting the &bTier 1 Rocket&r and steel building blocks, as well as other items.&r"
+			subtitle: "O &bLingote de aço&r é um componente básico para fabricação em &aAd Astra&r. Em conjunto com a &bPlaca de aço&r, é principalmente usado para criar o &bFoguete Nivel 1&r e blocos de construção de aço, além de outros itens.&r"
 			tasks: [{
 				id: "14826373FD5B01E9"
 				item: "ad_astra:steel_ingot"
 				type: "item"
 			}]
-			title: "Obtain &8&lSteel"
+			title: "Ontenha &8&laço"
 			x: 6.0d
 			y: 2.0d
 		}
@@ -432,7 +435,10 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"- Para colocar seu &cfoguete&r recém-criado, você precisa construir uma &bplataforma de lançamento&r.&r"
+				""
+				"- Depois que a &bplataforma de lançamento&r for construída, coloque o &efoguete&r nela.&r"
+				"center."
 				""
 				"&8Português"
 			]
@@ -444,7 +450,7 @@
 				item: "ad_astra:launch_pad"
 				type: "item"
 			}]
-			title: "Craft a &8Launch Pad"
+			title: "Crie uma &8plataforma de lançamento"
 			x: 10.0d
 			y: 3.5d
 		}
@@ -479,7 +485,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&lPreparando para o Lançamento Coloque estes itens&r"
+				""
+				"- nesses passos com muito cuidado! Esquecer um único item aqui pode dificultar sua vida, ou pior, fazer você ficar preso na &dLua&r!&r"
+				""
+				"- Para retornar à &aterra&r da &dLua&r, você precisa de duas coisas básicas: uma &bplataforma de lançamento&r e três &bbaldes de combustível&r. (inventário do seu foguete e certifique-se de tê-los sempre que lançar um foguete).&r"
+				""
+				"- Por fim, você deve trazer vários &ftanques de oxigênio cheios&r, bastante &falimento&r, &ctochas de alma&r ou &eglowstone&r, &aarmas&r e &aferramentas&r. Uma vez que você tenha isso, está pronto para lançar! Entre no &foguete&r e pressione &aEspaço&r!&r"
 				""
 				"&8Português"
 			]
@@ -508,7 +520,7 @@
 				id: "088E260A9C4358D5"
 				type: "dimension"
 			}]
-			title: "To &lThe Moon"
+			title: "Para &lA Moon"
 			x: 11.5d
 			y: 2.0d
 		}
@@ -526,7 +538,7 @@
 				item: "ad_astra:desh_ingot"
 				type: "item"
 			}]
-			title: "Obtain Desh Ingot"
+			title: "Obter Barra de Desh"
 			x: 1.0d
 			y: -2.5d
 		}
@@ -544,7 +556,7 @@
 				item: "techreborn:steel_ingot"
 				type: "item"
 			}]
-			title: "Obtain Steel Ingot"
+			title: "Obter Barra de Aço"
 			x: -1.0d
 			y: -2.5d
 		}
@@ -566,10 +578,10 @@
 						value: "c:iron_plates"
 					}
 				}
-				title: "Iron Plates"
+				title: "Placas de Ferro"
 				type: "item"
 			}]
-			title: "Obtain Iron Plate"
+			title: "Obter Placas de Ferro"
 			x: -1.5d
 			y: -1.0d
 		}
@@ -587,10 +599,11 @@
 				item: "ad_astra:desh_plate"
 				type: "item"
 			}]
-			title: "Obtain Desh Plate"
+			title: "Obter placas de Desh"
 			x: 1.5d
 			y: -1.0d
 		}
 	]
-	title: " &2Earth"
+	title: " &2Terra"
 }
+

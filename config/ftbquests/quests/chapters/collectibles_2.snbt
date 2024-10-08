@@ -13,13 +13,13 @@
 			id: "5D3A89762F7D75E1"
 			shape: "gear"
 			size: 1.5d
-			subtitle: "Welcome, young collector, for here you see before you is a place where trinkets and accessories are gathered and admired by those around you. Are you up for the challenge?"
+			subtitle: "Bem-vindo, jovem colecionador, pois aqui diante de você está um lugar onde bugigangas e acessórios são reunidos e admirados pelos que estão ao seu redor. Você está pronto para o desafio?"
 			tasks: [{
 				id: "22BAEFCC54EFB488"
-				title: "Get Hoardin!"
+				title: "Vamos colecionar!"
 				type: "checkmark"
 			}]
-			title: "A Collector's Journey"
+			title: "Uma Jornada de Colecionador"
 			x: 0.0d
 			y: 0.5d
 		}
@@ -28,13 +28,13 @@
 			icon: "things:gleaming_compound"
 			id: "2C85CD8FC581F6AD"
 			shape: "diamond"
-			subtitle: "Welcome to The Thing! You must find the Things and collect them for your own benefit. You cannot give each trinket a name, just refer to them as a Thing, nothing more, nothing less."
+			subtitle: "Bem-vindo ao A Coisa! Você deve encontrar as Coisas e coletá-las para seu próprio benefício. Você não pode dar a cada bugiganga um nome, apenas se refira a elas como uma Coisa, nada mais, nada menos."
 			tasks: [{
 				id: "45A2B5B77BE11595"
-				title: "Things to Collect"
+				title: "Coisas para Coletar"
 				type: "checkmark"
 			}]
-			title: "The Thing!"
+			title: "As Coisa!"
 			x: -10.0d
 			y: 0.5d
 		}
@@ -45,7 +45,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "0469124D2B6A5899"
-				title: "Trinket Artifacts to Collect"
+				title: "Artefatos e Bugigangas para Coletar"
 				type: "checkmark"
 			}]
 			x: 12.5d
@@ -56,10 +56,10 @@
 			icon: "minecraft:jukebox"
 			id: "2043E02E41A0B203"
 			shape: "diamond"
-			subtitle: "Hello there, young music enthusiast! Considering that you're here, it means that you know that music is something we all need in our life! And these records are almost lost to time, but we can still salvage them! You must find them and listen to what they have to offer."
+			subtitle: "Olá, jovem entusiasta da música! Considerando que você está aqui, isso significa que você sabe que a música é algo que todos nós precisamos em nossas vidas! E esses discos estão quase destruidos pelo tempo, mas ainda podemos resgatá-los! Você deve encontrá-los e ouvir o que têm a oferecer."
 			tasks: [{
 				id: "3A226781B8153052"
-				title: "Find the Discs"
+				title: "Encontre os Discos"
 				type: "checkmark"
 			}]
 			x: 1.5d
@@ -70,11 +70,11 @@
 			icon: "soulsweapons:iron_skull"
 			id: "786473059A3C26CD"
 			shape: "diamond"
-			subtitle: "While it's important to respect the graves of the dead, finding cool remains is worth showing for display to showcase the history. Once you find them and use the brush to dig them out, give your respect."
+			subtitle: "Embora seja importante respeitar os túmulos dos mortos, encontrar restos interessantes vale a pena para exibi-los e mostrar a história. Depois de encontrá-los e usar o pincel para escavá-los, preste seu respeito."
 			tasks: [
 				{
 					id: "60C5D2A6FA3515D1"
-					title: "Find the Mob Heads"
+					title: "Encontre as Cabeças de Mobs"
 					type: "checkmark"
 				}
 				{
@@ -86,11 +86,11 @@
 							value: "c:brushitems"
 						}
 					}
-					title: "Get a Brush"
+					title: "Pegue um Pincel"
 					type: "item"
 				}
 			]
-			title: "Gravedigger"
+			title: "Sepultador"
 			x: 0.0d
 			y: 5.0d
 		}
@@ -375,10 +375,10 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Your classic tunes that you can find."
+			subtitle: "Suas músicas clássicas que você pode encontrar."
 			tasks: [{
 				id: "127A56B2E9F4647E"
-				title: "Minecraft Discs"
+				title: "Discos do Minecraft"
 				type: "checkmark"
 			}]
 			x: -3.0d
@@ -393,10 +393,10 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Okay, so these discs in particular might be harder to find and there might be unique records you might not have heard before, good luck."
+			subtitle: "Ok, então esses discos em particular podem ser mais difíceis de encontrar e pode haver discos únicos que você pode não ter ouvido antes, boa sorte."
 			tasks: [{
 				id: "6AE7B5280500D0D8"
-				title: "Modded Discs"
+				title: "Discos de Mods"
 				type: "checkmark"
 			}]
 			x: 3.0d
@@ -852,7 +852,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "What kinda umbrella is strong enough to be a shield and indestructible?"
+			subtitle: "Que tipo de guarda-chuva é forte o suficiente para ser um escudo e indestrutível?"
 			tasks: [{
 				id: "5E13141124DA3AB1"
 				item: "artifacts:umbrella"
@@ -869,7 +869,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Starting to imagine that for every bite of this steak, a cow gets eaten somewhere in the world, and it regrows the steak to its original appearance."
+			subtitle: "Começo a imaginar que para cada mordida deste bife, uma vaca é comida em algum lugar do mundo, e ela regenera o bife para sua aparência original."
 			tasks: [{
 				id: "2868BDA0B936338C"
 				item: "artifacts:eternal_steak"
@@ -886,7 +886,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Are there any other colors? Orange seems to standout a lot."
+			subtitle: "Existem outras cores? Laranja parece se destacar muito."
 			tasks: [{
 				id: "1A91E46994AF0400"
 				item: "artifacts:plastic_drinking_hat"
@@ -903,7 +903,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Personally, I wouldn't wear this as it looks ridiculous, but at least you can eat and drink faster."
+			subtitle: "Pessoalmente, eu não usaria isso, sério é ridículo, mas pelo menos você pode comer e beber mais rápido."
 			tasks: [{
 				id: "66C0992206EE32BD"
 				item: "artifacts:novelty_drinking_hat"
@@ -920,7 +920,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "This doesn't last very long, at most, it's 15 seconds, but worth using."
+			subtitle: "Isso não dura muito tempo, no máximo, são 15 segundos, mas vale a pena usar."
 			tasks: [{
 				id: "662D6D69EF94861F"
 				item: "artifacts:snorkel"
@@ -937,7 +937,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "These goggles are too big for my face! It feels heavy.."
+			subtitle: "Esses óculos são grandes demais para o meu rosto! Parece pesado.."
 			tasks: [{
 				id: "497A30BCACAED372"
 				item: "artifacts:night_vision_goggles"
@@ -954,7 +954,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A fellow Villager?! Come, let's trade! We have discounts for our kind."
+			subtitle: "Um colega Aldeão?! Venha, vamos negociar! Temos descontos para o nosso tipo."
 			tasks: [{
 				id: "39DFD83FB86778D8"
 				item: "artifacts:villager_hat"
@@ -971,7 +971,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Time to look stylish while killing."
+			subtitle: "Hora de ficar estiloso enquanto mata."
 			tasks: [{
 				id: "6DC6B0FD7F2A7A9D"
 				item: "artifacts:superstitious_hat"
@@ -988,7 +988,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Would've preferred a lucky horseshoe, but this is good too."
+			subtitle: "Eu teria preferido um ferradura da sorte, mas isso também é bom."
 			tasks: [{
 				id: "617AC8B0A5CD95A5"
 				item: "artifacts:lucky_scarf"
@@ -1005,7 +1005,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Now you see me, now you don't."
+			subtitle: "Agora você me vê, agora não vê."
 			tasks: [{
 				id: "580AC6444336BE16"
 				item: "artifacts:scarf_of_invisibility"
@@ -1022,7 +1022,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Repelling all forces against me."
+			subtitle: "Repelindo as forças do mal."
 			tasks: [{
 				id: "5CB8E25357BBCF68"
 				item: "artifacts:cross_necklace"
@@ -1039,7 +1039,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The thrill of danger and adrenaline rush fuels me to run faster!"
+			subtitle: "A emoção do perigo e o frenesi da adrenalina me impulsionam a correr mais rápido!"
 			tasks: [{
 				id: "7801961DE2BF04A8"
 				item: "artifacts:panic_necklace"
@@ -1056,7 +1056,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Don't touch me, or you will be shocked to the core."
+			subtitle: "Não me toque, ou você ficará chocado até o osso."
 			tasks: [{
 				id: "0BBDC35B3FF4F71A"
 				item: "artifacts:shock_pendant"
@@ -1073,7 +1073,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An eye for an eye!"
+			subtitle: "Olho por olho!"
 			tasks: [{
 				id: "2CFD8EBDEAFD73D1"
 				item: "artifacts:thorn_pendant"
@@ -1090,7 +1090,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Burn with me."
+			subtitle: "Queime comigo."
 			tasks: [{
 				id: "76BAD74B6E9E8F10"
 				item: "artifacts:flame_pendant"
@@ -1123,7 +1123,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Cloud Jumping now literal."
+			subtitle: "Saltando nas nuvens agora é literal."
 			tasks: [{
 				id: "4227346F710B1A7D"
 				item: "artifacts:cloud_in_a_bottle"
@@ -1140,7 +1140,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Isn't this a wither skull but covered in obsidian?"
+			subtitle: "Não é um crânio de Wither, mas coberto de obsidiana?"
 			tasks: [{
 				id: "403D9EB861B395D0"
 				item: "artifacts:obsidian_skull"
@@ -1157,7 +1157,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Sick? No worries! It'll go away."
+			subtitle: "Doente? Sem problemas! Vai passar."
 			tasks: [{
 				id: "33748AA46054A3A3"
 				item: "artifacts:antidote_vessel"
@@ -1174,7 +1174,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Can't attract a significant other with it, though."
+			subtitle: "Não pode atrair um parceiro significativo com isso, no entanto."
 			tasks: [{
 				id: "203105786AE2F632"
 				item: "artifacts:universal_attractor"
@@ -1191,7 +1191,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Stay healthy!"
+			subtitle: "Mantenha-se saudável!"
 			tasks: [{
 				id: "49A0437ADBC06F03"
 				item: "artifacts:crystal_heart"
@@ -1208,7 +1208,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Flying like a bird is gonna be exhausting."
+			subtitle: "Voar como um pássaro vai ser exaustivo."
 			tasks: [{
 				id: "1B564F93E1AB63E2"
 				item: "artifacts:helium_flamingo"
@@ -1225,7 +1225,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "We're basically a mole if we can dig stone with our hands."
+			subtitle: "Basicamente, somos uma toupeira se conseguirmos cavar pedra com as nossas mãos."
 			tasks: [{
 				id: "4462415BB0ED2ACB"
 				item: "artifacts:digging_claws"
@@ -1242,7 +1242,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "I, am inevitable!"
+			subtitle: "Eu sou inevitável!"
 			tasks: [{
 				id: "4C422EFEB2E5B334"
 				item: "artifacts:power_glove"
@@ -1259,7 +1259,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "And I am Iron Man."
+			subtitle: "E eu sou o Homem de Ferro."
 			tasks: [{
 				id: "391B4CECF5C01BE7"
 				item: "artifacts:fire_gauntlet"
@@ -1276,7 +1276,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Stay away, creeps!"
+			subtitle: "Fiquem longe, aberrações!"
 			tasks: [{
 				id: "21AE8A6534A0BB75"
 				item: "artifacts:pocket_piston"
@@ -1293,7 +1293,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Why suck blood from targets with fangs if we can just use our hands, more sanitary."
+			subtitle: "Por que sugar sangue de alvos com presas se podemos usar nossas mãos, mais higiênico."
 			tasks: [{
 				id: "4C51BEC5FDD6D1AA"
 				item: "artifacts:vampiric_glove"
@@ -1310,7 +1310,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "How to be a Pirate"
+			subtitle: "Como ser um Pirata"
 			tasks: [{
 				id: "65DDFFF6776FD8F7"
 				item: "artifacts:golden_hook"
@@ -1327,7 +1327,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Jesus, but running."
+			subtitle: "Jesus, mas correndo."
 			tasks: [{
 				id: "7E25D40CDF54FAB9"
 				item: "artifacts:aqua_dashers"
@@ -1344,7 +1344,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Got those hops?"
+			subtitle: "Olha esses saltinhos!"
 			tasks: [{
 				id: "11E6483602BAC651"
 				item: "artifacts:bunny_hoppers"
@@ -1361,7 +1361,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Snuggly feet with a purring kitty"
+			subtitle: "Pés aconchegados com um gatinho ronronando"
 			tasks: [{
 				id: "39780C40453F018D"
 				item: "artifacts:kitty_slippers"
@@ -1378,7 +1378,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "When wearing running shoes, press B to run and you can zip away! Well, in Minecraft, this just makes our sprint faster."
+			subtitle: "Quando estiver usando tênis de corrida, pressione B para correr e você poderá ir bem rápido! Bem, no Minecraft, isso apenas faz nossa corrida mais rápida."
 			tasks: [{
 				id: "3BB376AD0B04D56A"
 				item: "artifacts:running_shoes"
@@ -1395,7 +1395,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Gonna need that snorkel and diving suit."
+			subtitle: "Vou precisar daquela máscara e roupa de mergulho."
 			tasks: [{
 				id: "0A8B6829ED567DCA"
 				item: "artifacts:flippers"
@@ -1412,7 +1412,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Hold your ground!"
+			subtitle: "Mantenha-se firme!"
 			tasks: [{
 				id: "2EE9472229752DC8"
 				item: "artifacts:steadfast_spikes"
@@ -1429,7 +1429,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The most legendary artifact, the whoopee cushion. With its majestic appearance and functionality, it's a highly coveted item by jokesters."
+			subtitle: "O artefato mais lendário, o travesseiro de vento. Com sua aparência majestosa e funcionalidade, é um item muito cobiçado por piadistas."
 			tasks: [{
 				id: "283B677ACB30678C"
 				item: "artifacts:whoopee_cushion"
@@ -1446,13 +1446,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "A Recall Potion is something one should at least carry around as drinking it will teleport the player to their spawnpoint, a good way to escape or go home quickly. Eugh, it tastes awful though, considering that it uses a pearl. Shouldn't try it as a milk tea."
+			subtitle: "Uma Poção de Retorno é algo que se deve sempre carregar, pois bebê-la teleportará o jogador para seu ponto de renascimento, uma boa maneira de escapar ou voltar para casa rapido. Eugh, tem um gosto horrivel, considerando que usa uma pérola. Não subistituir pelo cafézinho."
 			tasks: [{
 				id: "10B4A33FACF0DD36"
 				item: "things:recall_potion"
 				type: "item"
 			}]
-			title: "Milk Tea?"
+			title: "Vai um cafézinho?"
 			x: -4.5d
 			y: -2.0d
 		}
@@ -1464,13 +1464,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Just your handy dandy guide to gathering Things. You can choose not to though, but you will feel smarter if you know where you're going."
+			subtitle: "Apenas seu guia útil para coletar Coisas. Você pode optar por não fazer isso, mas se sentirá mais inteligente se souber para onde está indo."
 			tasks: [{
 				id: "5D5240958FDB09D2"
 				item: "things:things_almanac"
 				type: "item"
 			}]
-			title: "Know Your Thing"
+			title: "Conheça sua Coisa"
 			x: -5.5d
 			y: 3.0d
 		}
@@ -1482,13 +1482,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Using this key will allow one to protect their chests from being stolen and looted just by locking them. Use the key again to unlock your precious chests."
+			subtitle: "Usar esta chave permitirá proteger seus baús de serem roubados e saqueados apenas trancando-os. Use a chave novamente para desbloquear seus preciosos baús."
 			tasks: [{
 				id: "6F2CDFFCD31D164B"
 				item: "things:container_key"
 				type: "item"
 			}]
-			title: "Where are my Keys?"
+			title: "Cadê a chave, Nilce?"
 			x: -14.5d
 			y: -2.0d
 		}
@@ -1500,13 +1500,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Now I know what you're thinking, why is it named this way? As you can see, the bucket and water content, have been flipped inside out! Now this thing's only purpose is infinite water supply, can't pick anything back up."
+			subtitle: "Eu sei o que você está pensando, por que tem esse nome? Como você pode ver, o balde e o conteúdo foram virados do avesso! Agora, o único propósito desta coisa é fornecer água infinita, não é possível pegar nada de volta."
 			tasks: [{
 				id: "0591E8DE5953323A"
 				item: "things:bater_wucket"
 				type: "item"
 			}]
-			title: "Caution: Wet Thing"
+			title: "Cuidado: Coisa Molhada"
 			x: -5.5d
 			y: -2.0d
 		}
@@ -1518,13 +1518,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "So this pouch is basically an ender chest that you can carry around. I wonder if you even need to put down an enderchest in your base anymore?"
+			subtitle: "Então esta bolsa é basicamente um baú do fim que você pode carregar por aí. Eu me pergunto se você ainda precisa colocar um baú do fim na sua base."
 			tasks: [{
 				id: "22475313FA109219"
 				item: "things:ender_pouch"
 				type: "item"
 			}]
-			title: "Dimensional Bag"
+			title: "Bolsa Dimensional"
 			x: -6.5d
 			y: -2.0d
 		}
@@ -1536,13 +1536,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Okay, so while this looks like a regular monocle, but it enhances the wearer's vision to even work at night as if they're in the day! Now you can be a night owl!"
+			subtitle: "Ok, então enquanto isso parece um monóculo comum, ele melhora a visão do usuário para funcionar até mesmo à noite como se estivessem durante o dia! Agora você pode ser uma coruja da noite!"
 			tasks: [{
 				id: "5304F4BCC84AFB3E"
 				item: "things:monocle"
 				type: "item"
 			}]
-			title: "Owl's Glasses"
+			title: "Óculos de Coruja"
 			x: -6.5d
 			y: 3.0d
 		}
@@ -1554,13 +1554,13 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "So you know how plants get energy from being under the sun? Well, now with this thing, you can act similarly! But instead of the sun, it can be any nearby light source and now you can heal! Don't plant yourself into the soil though."
+			subtitle: "Então você sabe como as plantas obtêm energia do sol, não é? Bem, agora, com este dispositivo, você pode agir de forma semelhante! Mas em vez do sol, pode ser qualquer fonte de luz próxima e agora você pode se curar! Mas não se plante no solo, tá?"
 			tasks: [{
 				id: "740690F141F69486"
 				item: "things:moss_necklace"
 				type: "item"
 			}]
-			title: "Photosynthesis"
+			title: "Fotossíntese"
 			x: -7.5d
 			y: -2.0d
 		}
@@ -1572,13 +1572,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "So this item is not meant to be consumed at all, just keep it in your inventory and you may or may not end up receiving the effects of your drunken potions without drinking any."
+			subtitle: "Então, este item não deve ser consumido de forma alguma, apenas mantenha-o em seu inventário e você pode ou não acabar recebendo os efeitos de suas poções bebidas sem beber nenhuma."
 			tasks: [{
 				id: "1AC06B83421ABE3F"
 				item: "things:placebo"
 				type: "item"
 			}]
-			title: "Take your Medicine!"
+			title: "Vá se Medicar!"
 			x: -7.5d
 			y: 3.0d
 		}
@@ -1590,7 +1590,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "So this tome in particular, is similar to the Recall Potion, but you need displacement pages that can be crafted and if one opens the tome, they can charge it with pearls and save a location that they can teleport to."
+			subtitle: "Então este tomo em particular é semelhante à Poção de Recuo, mas você precisa de páginas de deslocamento que podem ser fabricadas e se alguém abre o tomo, pode carregá-lo com pérolas e salvar uma localização para a qual podem se teletransportar."
 			tasks: [{
 				id: "37B038540064B1A8"
 				item: {
@@ -1600,7 +1600,7 @@
 				}
 				type: "item"
 			}]
-			title: "A Book of Teleportation"
+			title: "Um Livro de Teletransporte"
 			x: -8.5d
 			y: -2.0d
 		}
@@ -1612,7 +1612,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Used for the Displacement Tome in order to teleport and write down locations that you are at and can teleport to anytime."
+			subtitle: "Usado para o Tomo de Deslocamento para teletransportar e registrar locais em que você está e pode teletransportar-se a qualquer momento."
 			tasks: [{
 				id: "19EB0369FF336DBC"
 				item: "things:displacement_page"
@@ -1629,7 +1629,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "To improve one's mining efficiency, one must wear the proper protection as a miner! And wearing this glove will help you!"
+			subtitle: "Para melhorar a eficiência na mineração, é necessário usar a proteção adequada como um mineiro! E usar esta luva vai te ajudar!"
 			tasks: [{
 				id: "0499EDDDAC4C6DC2"
 				item: "things:mining_gloves"
@@ -1646,13 +1646,13 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "If you felt like you just want that extra power in your fist, then wear the riot gauntlet and make havoc! No punching cute things though."
+			subtitle: "Se você sentir que só precisa daquele poder extra no punho, então use a manopla de motim e cause estragos! Mas evite bater em coisas fofas."
 			tasks: [{
 				id: "0C2D6B00D65EA0FF"
 				item: "things:riot_gauntlet"
 				type: "item"
 			}]
-			title: "Start a Riot!"
+			title: "Inicie um Motim!"
 			x: -9.5d
 			y: 3.0d
 		}
@@ -1664,7 +1664,7 @@
 				type: "xp"
 				xp: 150
 			}]
-			subtitle: "You know how Ghasts and Blazes are always shooting fireballs at you? Now you can do that with this handy scepter, but remember to carry ammunition."
+			subtitle: "Você sabe como Ghasts e Blazes estão sempre lançando bolas de fogo em você? Agora você pode fazer isso com este cetro útil, mas lembre-se de levar munição."
 			tasks: [{
 				id: "2791624BE309C469"
 				item: {
@@ -1676,7 +1676,7 @@
 				}
 				type: "item"
 			}]
-			title: "Portable Ghast"
+			title: "Ghast de bolso"
 			x: -10.5d
 			y: -2.0d
 		}
@@ -1688,13 +1688,13 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Hades has created a powerful crystal condensing his fire powers and whoever wears it will be immune to fire and even lava damage."
+			subtitle: "Hades criou um cristal poderoso condensando seus poderes de fogo e quem o usar será imune a danos causados pelo fogo e até mesmo pela lava."
 			tasks: [{
 				id: "5619ABB285A91B3E"
 				item: "things:hades_crystal"
 				type: "item"
 			}]
-			title: "Crystallized Hades Fire"
+			title: "Chama de Hades Cristalizada"
 			x: -15.5d
 			y: -2.0d
 		}
@@ -1706,7 +1706,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Can't swim fast? Just swim harder!"
+			subtitle: "Não consegue nadar rápido? Apenas nade com mais força!"
 			tasks: [{
 				id: "3B7C57D0ADB2E524"
 				item: "things:enchanted_wax_gland"
@@ -1723,7 +1723,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "These magnets are interesting, as they can pull in any item, even if they're not made of metal at all. Wonder if you can pull gravity?"
+			subtitle: "Esses imãs são interessantes, pois podem atrair qualquer item, mesmo que não sejam feitos de metal. Será que dá para anular a gravidade?"
 			tasks: [{
 				id: "0ED4389D2DE96D6F"
 				item: "things:item_magnet"
@@ -1740,13 +1740,13 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Normally, one being light as a rabbit is an exaggeration, but this thing takes things literally by allowing the wearer to be so light that they can jump really high. Don't break any ankles."
+			subtitle: "Normalmente, dizer que alguém é leve como um coelho é exagero, mas este objeto leva as coisas ao pé da letra, permitindo que o usuário seja tão leve que possa pular muito alto. Cuidado para não torcer os tornozelos."
 			tasks: [{
 				id: "4FF645FA651F5B6C"
 				item: "things:rabbit_foot_charm"
 				type: "item"
 			}]
-			title: "Light as a Rabbit"
+			title: "Leve como um coelho"
 			x: -11.5d
 			y: -2.0d
 		}
@@ -1758,13 +1758,13 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Be as lucky as a leprachaun and turn all your deadly spuds into golden apples."
+			subtitle: "Seja tão sortudo quanto um duende e transforme todas as suas batatas mortais em maçãs douradas."
 			tasks: [{
 				id: "50F81BEBBC971BF4"
 				item: "things:luck_of_the_irish"
 				type: "item"
 			}]
-			title: "POTATO!!!"
+			title: "BATATA!!!"
 			x: -11.5d
 			y: 3.0d
 		}
@@ -1776,13 +1776,13 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Are you annoyed with mending or having durability at all? Then craft yourself the most powerful material known to man, and make your item indestructible! Don't let it touch cacti though."
+			subtitle: "Está irritado com a recuperação ou com a durabilidade de seus itens? Então, crie o material mais poderoso conhecido pelo homem e torne seu item indestrutível! Mas não o deixe tocar em cactos."
 			tasks: [{
 				id: "2BB7B474A0C06420"
 				item: "things:hardening_catalyst"
 				type: "item"
 			}]
-			title: "Bedrock Tough"
+			title: "Resistente como bedrock"
 			x: -15.5d
 			y: 3.0d
 		}
@@ -1794,7 +1794,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "They're comfy socks, okay?"
+			subtitle: "São meias confortáveis, tá?"
 			tasks: [{
 				id: "62689266DE895C38"
 				item: "things:socks"
@@ -1811,7 +1811,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Always feeling short compared to others and can't reach? Then grab yourself the Arm Extender for only 10.99!!"
+			subtitle: "Sempre se sentindo baixo em comparação com os outros e não consegue alcançar? Então pegue o Extensor de Braço por apenas 10,99!!"
 			tasks: [{
 				id: "21849F05E6C47B3D"
 				item: "things:arm_extender"
@@ -1829,13 +1829,13 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "These boots will minimize the amount of fall damage the wearer experience by a huge margin, but just because the damage is less, doesn't mean you should be more reckless."
+			subtitle: "Essas botas minimizarão a quantidade de dano por queda que o usuário experimenta em uma grande margem, mas apenas porque o dano é menor, não significa que você deva ser mais imprudente."
 			tasks: [{
 				id: "5A99C1AB6C12F650"
 				item: "things:shock_absorber"
 				type: "item"
 			}]
-			title: "Kinetic Energy? I hardly even know it."
+			title: "Energia cinética? Eu mal sei oque significa."
 			x: -13.5d
 			y: -2.0d
 		}
@@ -1847,13 +1847,13 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "This watch is very odd and cannot be repaired at all, but it has the magical powers to increase effects by 50%"
+			subtitle: "Este relógio é muito estranho e não pode ser reparado de jeito nenhum, mas tem poderes mágicos para aumentar os efeitos em 50%."
 			tasks: [{
 				id: "6E8E5AF2A9B06E79"
 				item: "things:broken_watch"
 				type: "item"
 			}]
-			title: "What Time is It?"
+			title: "Que Horas São?"
 			x: -12.5d
 			y: -2.0d
 		}
@@ -1865,13 +1865,13 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "A Gleaming Compound is a very precious material that is used to make more powerful Things, as they are very rare, they are definitely worth a lot just to get one."
+			subtitle: "Um Composto Brilhante é um material muito precioso usado para fazer coisas mais poderosas, já que são muito raros, definitivamente valem muito apenas para conseguir um."
 			tasks: [{
 				id: "2975F72974E5A7CB"
 				item: "things:gleaming_compound"
 				type: "item"
 			}]
-			title: "Shiny Red Stone"
+			title: "Pedra Vermelha Brilhante"
 			x: -4.5d
 			y: 3.0d
 		}
@@ -2363,5 +2363,6 @@
 			y: 15.5d
 		}
 	]
-	title: " &9Collectibles"
+	title: " &9Colecionaveis"
 }
+
