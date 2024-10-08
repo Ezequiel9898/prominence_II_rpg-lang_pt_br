@@ -24,15 +24,15 @@
 			]
 			shape: "circle"
 			size: 2.0d
-			subtitle: "To open and Entere the &5End portal&r, you will need to use the eyes from the End Remastered. You will need to &2Explore Structures &rto find them, but some of them can be &6Crafted"
+			subtitle: "Para abrir e entrar no &5Portal do End&r, você precisara usar os olhos do End Remastered. Você devera &2Explorar Estruturas &rpara encontra-los, mas há alguns que podem ser &6Criados"
 			tasks: [{
 				dimension: "minecraft:the_end"
 				icon: "minecraft:end_stone"
 				id: "42642531FFCE3EBA"
-				title: "Enter The End"
+				title: "Entrando no The End"
 				type: "dimension"
 			}]
-			title: "Enter &5The End"
+			title: "Entrando no &5The End"
 			x: -0.5d
 			y: -0.5d
 		}
@@ -49,7 +49,7 @@
 				biome: "betterend:chorus_forest"
 				icon: "minecraft:chorus_flower"
 				id: "174E4FFFE6872705"
-				title: "Visit &9the Chorus Forest"
+				title: "Visite &9a Chorus Forest"
 				type: "biome"
 			}]
 			x: -3.5d
@@ -68,7 +68,7 @@
 				biome: "betterend:crystal_mountains"
 				icon: "betterend:crystal_shards"
 				id: "7CB1BDA68A99590D"
-				title: "Visit &9the Crystal Mountains "
+				title: "Visite &9a Crystal Mountains "
 				type: "biome"
 			}]
 			x: -2.5d
@@ -87,7 +87,7 @@
 				biome: "betterend:foggy_mushroomland"
 				icon: "farmersdelight:red_mushroom_colony"
 				id: "50E4623D931BADB2"
-				title: "Visit &9the Foggy Mushroomland"
+				title: "Visite &9a Foggy Mushroomland"
 				type: "biome"
 			}]
 			x: -3.5d
@@ -106,7 +106,7 @@
 				biome: "betterend:shadow_forest"
 				icon: "betterend:shadow_berry_cooked"
 				id: "4C8B040483BDE011"
-				title: "Visit &9the Shadow Forest"
+				title: "Visite &9a Shadow Forest"
 				type: "biome"
 			}]
 			x: -2.5d
@@ -195,7 +195,7 @@
 					type: "item"
 				}
 			]
-			title: "Craft the Crystalite Armor"
+			title: "Crie a armadura de Crystalite "
 			x: -0.5d
 			y: -3.0d
 		}
@@ -271,10 +271,11 @@
 					type: "item"
 				}
 			]
-			title: "Craft the Aeternium Armor"
+			title: "Crie a armadura de Aeternium"
 			x: -0.5d
 			y: 2.0d
 		}
 	]
 	title: " &dThe End"
 }
+

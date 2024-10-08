@@ -67,7 +67,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The &6rover&r is a land vehicle capable of driving on the rough terrain of &emoons &6and &bplanets&r. It's &aexceptionally fast&r, has an &binventory &6capable of &astoring eight items &6and has &atwo seats &6for &cmultiple riders&r. To use it, fill the rover with &cfuel &6(&eshift-click&r and place &cfuel buckets &6in the &cleft input slot&r).&r"
+			subtitle: "O &6rover&r é um veículo terrestre capaz de rodar em terrenos difíceis de &eluas &6e &bplanetas&r. É &aexcepcionalmente rápido&r, tem um &binventário &6capaz de &aarmazenar oito itens &6e dois acentos para &cmultiplos tripulantes&r. Para usá-lo complete o Rover com &cfuel &6(&eclique esquerdo&r e coloque os &cbaldes de combustível &6 no &cespaço de entrada esquerdo&r).&r"
 			tasks: [{
 				id: "2420E6A9EF34A16A"
 				item: {
@@ -77,7 +77,7 @@
 						BotariumData: { }
 					}
 				}
-				title: "Craft a &cRover"
+				title: "Construa um &cRover"
 				type: "item"
 			}]
 			x: -12.0d
@@ -91,14 +91,14 @@
 				type: "xp_levels"
 				xp_levels: 3
 			}]
-			subtitle: "The &bsolar panel&r is an upgraded version of the &ccoal generator&r, procucing more energy per tick while being &6self-reliant&r. Its power generation depends on the planet's distance from the &csun &6and &bfog&r. Because of this, it is more efficient to place &bsolar panels&r close to the &csun&r. &bsolar panels&r also produce more energy in &borbit&r, as there is no &catmosphere&r blocking the &dlight&r.&r"
+			subtitle: "O &bPainel Solar&r é uma versão melhorada do &cgerador à carvão&r, produzindo mais energia por tick  além de ser &6autossuficiente&r. Sua geração depende da distância do planeta até o &csol &6e &bneblina&r. Por conta disso é mais eficiente colocar &bpainéis solares&r próximo ao &csol&r. &bPainéis solares&r também produzem mais energia em &borbita&r, já que não há &catmosfera&r bloqueando a &dluz&r.&r"
 			tasks: [{
 				count: 8L
 				id: "656527BE1FB18DCD"
 				item: "ad_astra:solar_panel"
 				type: "item"
 			}]
-			title: "Craft a &2Solar Panel"
+			title: "Construa um &2Painel Solar"
 			x: -8.0d
 			y: 4.0d
 		}
@@ -114,7 +114,7 @@
 				icon: "artifacts:villager_hat"
 				id: "39DADB020A3127DD"
 				structure: "ad_astra:lunarian_village"
-				title: "Find a &cLunarian Vilalge"
+				title: "Encontre uma &cVila Lunariana"
 				type: "structure"
 			}]
 			x: -13.5d
@@ -132,7 +132,7 @@
 				icon: "minecraft:spawner"
 				id: "20770BC2F96F95DE"
 				structure: "ad_astra:moon_dungeon"
-				title: "Find a &dMoon Dungeon"
+				title: "Encontre uma &dMasmorra Lunar"
 				type: "structure"
 			}]
 			x: -15.5d
@@ -152,7 +152,7 @@
 				type: "kill"
 				value: 25L
 			}]
-			title: "Defeat &4Corrupted Lunarian"
+			title: "Derrote um &4Lunarian Corrompido"
 			x: -18.5d
 			y: 3.0d
 		}
@@ -170,7 +170,7 @@
 				type: "kill"
 				value: 25L
 			}]
-			title: "Defeat &4Star Crawler"
+			title: "Derrote um &4Rastejante Estrelar"
 			x: -17.0d
 			y: 3.0d
 		}
@@ -202,7 +202,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The &boxygen distributor&r is a powerful machine that distributes &boxygen&r in a sealed room, allowing any &clife&r inside to survive. It works exactly like an &coxygen loader&r, where you insert &bwater&r into the tank, but instead of giving you &boxygen&r, the &boxygen&r is distributed into the &cair&r."
+			subtitle: "O &bdistribuidor de oxigênio&r é uma máquina poderosa que distribui &boxigênio&r em um cômodo selado, permitindo que qualquer &cvida&r dentro sobreviva. Funciona exatamente como um &cCarregador de oxigênio&r, onde você insere &bÁgua&r dentro do tanque, mas em vez de te dar &boxigênio&r, o &boxigênio&r é distribuído no &car&r."
 			tasks: [{
 				id: "5830D54B457E3F31"
 				item: "ad_astra:oxygen_distributor"
@@ -220,11 +220,11 @@
 				type: "xp_levels"
 				xp_levels: 3
 			}]
-			subtitle: "The &bwater pump&r is essential for keeping the &boxygen distributor&r running infinitely. To use it, place an &binfinite water source&r below, then place the &bwater pump&r above one of the water blocks, and then place the &boxygen distributor&r adjacent to it. Make sure to supply both the &bwater pump&r and the &boxygen distributor&r with sufficient &cpower&r.&r"
+			subtitle: "A &bbomba de água&r é essencial para manter o &bdistribuidor de oxigênio&r funcionando infinitamente. Para usá-lo, coloque uma &bfonte de água infinita&r abaixo, depois coloque a &bbomba de água&r acima de um dos blocos de água e, em seguida, coloque o &bdistribuidor de oxigênio&r ao lado dele. Certifique-se de fornecer &cenergia&r suficiente tanto para a &bbomba de água&r quanto para o &bdistribuidor de oxigênio&r.&r"
 			tasks: [{
 				id: "023D11EA29EC6BD1"
 				item: "ad_astra:water_pump"
-				title: "Craft a &bWater Pump"
+				title: "Construa uma &bBomba d'água"
 				type: "item"
 			}]
 			x: -8.0d
@@ -244,10 +244,10 @@
 			size: 1.5d
 			tasks: [{
 				id: "50D08E13E1C12010"
-				title: "Exploration"
+				title: "Exploração"
 				type: "checkmark"
 			}]
-			title: "Exploration"
+			title: "Exploração"
 			x: -13.5d
 			y: 3.0d
 		}
@@ -276,7 +276,7 @@
 				id: "49A3CFE389CAC7F3"
 				type: "dimension"
 			}]
-			title: "Moon"
+			title: "Lua"
 			x: -10.5d
 			y: 3.0d
 		}
@@ -292,7 +292,7 @@
 				icon: "ad_astra:moon_pillar"
 				id: "5A9149C836DFD320"
 				structure: "ad_astra:lunar_tower"
-				title: "Find a &eLunar Tower"
+				title: "Encontre uma &eTorre Lunar"
 				type: "structure"
 			}]
 			x: -13.5d
@@ -327,7 +327,7 @@
 						BotariumData: { }
 					}
 				}
-				title: "Craft a &2Tier 2 &4Rocket"
+				title: "Construa um Foguete de &2Nível 2&4"
 				type: "item"
 			}]
 			x: -10.5d
@@ -358,14 +358,14 @@
 			]
 			shape: "circle"
 			size: 1.5d
-			subtitle: "Now that you have explored the &emoon&r and worked with &ddesh&r, you want to take it further and go to the &cred planet&r. Building a &ctier two rocket&r capable of travelling to &bMars&r is similar to building the &btier one rocket&r, but with &ddesh materials&r instead of &bsteel&r. Construct the parts, build the rocket in the &bNASA workbench&r, fuel it up, and off you go to &bMars&r!&r"
+			subtitle: "Agora que você explorou a &elua&r e trabalhou com &ddesh&r, você quer ir além e ir para o &cplaneta vermelho&r. Construir um foguete de &cnível dois&r capaz de viajar para &bMarte&r é semelhante à construção do foguete de &bnível um&r, mas com &dmateriais desh&r em vez de &baço&r. Construa as peças, construa o foguete na &bbancada da NASA&r, abasteça-o e vá para &bMarte&r!&r"
 			tasks: [{
 				dimension: "ad_astra:mars"
 				icon: "ad_astra:mars_globe"
 				id: "605F5BA9DE3193A1"
 				type: "dimension"
 			}]
-			title: "to &4Mars"
+			title: "Pra &4Marte"
 			x: -10.5d
 			y: 9.75d
 		}
@@ -390,7 +390,7 @@
 				item: "ad_astra:launch_pad"
 				type: "item"
 			}]
-			title: "Craft a &8Launch Pad"
+			title: "Construa um &8Plataforma de lançamento"
 			x: -12.0d
 			y: 7.5d
 		}
@@ -412,16 +412,17 @@
 			]
 			shape: "circle"
 			size: 1.5d
-			subtitle: "The &dDesh Ingot&r is a crafting component in &bAd Astra&r. It's found in caves on &eThe Moon&r, mainly under Y level 2. Aside from the &cTier 2 Rocket&r, &dDesh&r is also a component in the &cTier 1 Rover&r, as well as the &cOxygen Distributor&r.&r"
+			subtitle: "O &dlingote Desh&r é um componente de criação no &bAd Astra&r. Ele é encontrado em cavernas na &eLua&r, principalmente sob o nível Y 2. Além do &cfoguete de nível 2&r, o &dDesh&r também é um componente do &cRover de nível 1&r, bem como do &cDistribuidor de oxigênio&r.&r"
 			tasks: [{
 				id: "01E552E7FCA5D4E3"
 				item: "ad_astra:desh_ingot"
 				type: "item"
 			}]
-			title: "Obtain &6Desh"
+			title: "Obtenha &6Desh"
 			x: -10.5d
 			y: 5.5d
 		}
 	]
-	title: " &fMoon"
+	title: " &fLua"
 }
+

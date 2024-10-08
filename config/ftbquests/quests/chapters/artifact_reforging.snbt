@@ -72,7 +72,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and instructions]"
+			subtitle: "&8[Clique para ler a história e instruções]"
 			tasks: [
 				{
 					id: "035441107821B3C1"
@@ -82,11 +82,11 @@
 				{
 					id: "56A625D024CDB2DE"
 					item: "things:hardening_catalyst"
-					title: "Make a Hardening Crystal"
+					title: "Fabricar um Cristal de Endurecimento"
 					type: "item"
 				}
 			]
-			title: "&cS'kellak's Forge"
+			title: "&cForja de S'kellak"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -100,13 +100,15 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
-				""
+				"Pode ser forjado usando uma Essência da Ira e uma Lâmina do Lich Desperto, juntamente com o Núcleo Derretido."
+				" "
+				" "
+				"Este item é uma homenagem à Frostmourne do World of Warcraft."
 				"&8Português"
 			]
 			id: "341DB238063321BF"
 			shape: "hexagon"
-			subtitle: "A cursed sword that holds the power of an eternal winter. The Frostmourne is a runic artifact infused with soulfrost magic. Legend says whoever wields it will become the ruler of the Death Knights, the Lich King."
+			subtitle: "Uma espada amaldiçoada que detém o poder de um inverno eterno. A Frostmourne é um artefato rúnico infundido com magia de geada de alma. A lenda diz que quem a empunhar se tornará o governante dos Cavaleiros da Morte, o Lich Rei."
 			tasks: [{
 				id: "7F239D03EBB09534"
 				item: {
@@ -131,13 +133,16 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Pode ser forjado usando duas Bordas Derretidas junto com o Núcleo Derretido."
+				" "
+				" "
+				"&8Este item é uma homenagem ao Fyr'alath do World of Warcraft."
 				""
 				"&8Português"
 			]
 			id: "6D1B83D633AB7558"
 			shape: "hexagon"
-			subtitle: "An agonizing soulfire weapon that gives great resistance to its wielder. Oriented for tanking, but has great fire damage."
+			subtitle: "Uma arma de soulfire agonizante que oferece grande resistência ao seu portador. Orientada para tanque, mas tem grande dano de fogo."
 			tasks: [{
 				id: "52D24DAEDFD19F9A"
 				item: {
@@ -159,13 +164,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&ePode ser forjado usando uma Essência Demoníaca e um Rasga-almas, juntamente com o Núcleo Derretido."
 				""
 				"&8Português"
 			]
 			id: "5D03084D09D2A997"
 			shape: "hexagon"
-			subtitle: "&7A'zhar is a demon trapped in a scythe form by S'kellak, making this soulfire weapon no ally, be careful when using it because it will try to betray you."
+			subtitle: "&7A'zhar é um demônio aprisionado em forma de foice por S'kellak, tornando esta arma de soulfire um aliado indesejável. Tenha cuidado ao usá-la, pois ela tentará traí-lo."
 			tasks: [{
 				id: "43F5AAA9405EE27D"
 				item: {
@@ -187,13 +192,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&ePode ser forjado usando a Essência da Glória e uma Forja Estelar, juntamente com o Núcleo Derretido."
 				""
 				"&8Português"
 			]
 			id: "1CE7763C1889255C"
 			shape: "hexagon"
-			subtitle: "Forged from remnants of a dying star, the Supernova is an astral weapon that can deal damage using all magic elements, and obliterate any targets with astral bursts."
+			subtitle: "Forjada a partir de fragmentos de uma estrela morrendo, a Supernova é uma arma astral que pode causar dano usando todos os elementos mágicos e obliterar qualquer alvo com explosões astrais."
 			tasks: [{
 				id: "6B6E9C04C7D69E89"
 				item: {
@@ -215,13 +220,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&ePode ser forjado usando uma Essência da Ira e um Punho da Fúria, juntamente com o Núcleo Derretido."
 				""
 				"&8Português"
 			]
 			id: "211326D6B6C33A25"
 			shape: "hexagon"
-			subtitle: "This soulfire fist can enrage anyone if also wielding its sister weapon; the Fist of Fury, making it a lethal choice for martial artists, using its powerful punches that burn the enemy's soul."
+			subtitle: "Este punho de soulfire pode enfurecer qualquer um se também empunhando sua arma irmã, o Punho da Fúria, tornando-o uma escolha letal para monges com golpes poderosos que queimam seus inimigos."
 			tasks: [{
 				id: "3D838C3D611886A5"
 				item: {
@@ -243,13 +248,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&ePode ser forjado usando uma Essência Demoníaca e uma Thunderbrand, juntamente com o Núcleo Derretido."
 				""
 				"&8Português"
 			]
 			id: "50EB37F863EA810B"
 			shape: "hexagon"
-			subtitle: "A molten polearm, made out of Cinderstone and Noctisteel, infused with lightning, used by the long gone leader of the Serkonid race."
+			subtitle: "Uma alabarda derretida infundida com relâmpagos, ela perfura armaduras e eletrocuta inimigos próximos."
 			tasks: [{
 				id: "22CACA94593603A7"
 				item: {
@@ -271,13 +276,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&ePode ser forjado usando uma Essência da Glória e uma Essência da Ira. Para liberar as espadas gêmeas, é preciso usar a Essência de Ash'edar."
 				""
 				"&8Português"
 			]
 			id: "29425DCD7396CE49"
 			shape: "hexagon"
-			subtitle: "&7A pair of astral twin swords that harness the power of the Sun and Moon, using Arcane and Fire powers."
+			subtitle: "&7Um par de espadas gêmeas astrais que aproveitam o poder do Sol e da Lua, utilizando poderes Arcanos e de Fogo."
 			tasks: [{
 				id: "37DE8677AEA5721E"
 				item: "prominent:ashedar_essence"
@@ -298,13 +303,13 @@
 			}
 			id: "6313DD656A95E8C0"
 			shape: "hexagon"
-			subtitle: "&7This Artifact is being forged by S'kellak."
+			subtitle: "&7Este Artefato está sendo forjado por S'kellak."
 			tasks: [{
 				id: "22C4A6A4C9A0B862"
-				title: "&6Coming soon!"
+				title: "&6Em breve!"
 				type: "custom"
 			}]
-			title: "&6&kEkavar, Great Cinderstone Staff"
+			title: "&6&kEkavar, Grande Cajado de Cinderstone"
 			x: -1.0d
 			y: -2.5d
 		}
@@ -320,13 +325,13 @@
 			}
 			id: "4C2EFCB93288D047"
 			shape: "hexagon"
-			subtitle: "&7This Artifact is being forged by S'kellak."
+			subtitle: "&7Este Artefato está sendo forjado por S'kellak."
 			tasks: [{
 				id: "02901AAD817F6D45"
-				title: "&6Coming soon!"
+				title: "&6Em breve!"
 				type: "custom"
 			}]
-			title: "&9&kOrion, The Hunter"
+			title: "&9&kOrion, O Caçador"
 			x: 2.5d
 			y: 0.0d
 		}
@@ -343,7 +348,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Todos os artefatos são aprimoráveis usando sua &6Árvore de Aprimoramento&7"
+				""
+				"&7Assim que você forjar seu próprio Artefato, você desbloqueará sua Árvore de Aprimoramento. Você pode acessá-la pressionando &6N&7 e clicando no ícone do Núcleo Derretido no canto superior esquerdo."
+				""
+				"&7Todas as Árvores de Aprimoramento têm até &67 nós&7 que você pode selecionar, com diferentes caminhos a seguir."
+				""
+				"&7Para desbloquear nós, você precisará fortalecer seu artefato usando &6Resíduos Derretidos&7, que são recompensados em missões ou fabricáveis usando Essências Míticas."
 				""
 				"&8Português"
 			]
@@ -356,7 +367,7 @@
 			}]
 			shape: "diamond"
 			size: 1.65d
-			subtitle: "&8[Click to read instructions]"
+			subtitle: "&8[Clique para ler as instruções]"
 			tasks: [
 				{
 					id: "559B1BA85C721A6D"
@@ -375,5 +386,6 @@
 			y: 2.475d
 		}
 	]
-	title: "&c&l S'kellak's Forge"
+	title: "&c&l Forja de S'kellak"
 }
+

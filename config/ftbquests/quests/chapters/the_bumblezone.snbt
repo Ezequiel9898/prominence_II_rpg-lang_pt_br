@@ -18,15 +18,15 @@
 			}]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "Welcome, curious adventurer! I suppose I should ask you how you got in here, but no matter, the world of the bees is what you see before you, explore the world and see what Bee culture can you learn."
+			subtitle: "Bem-vindo, aventureiro curioso! Suponho que deveria perguntar como você entrou aqui, mas não importa, o mundo das abelhas é o que você vê diante de você, explore o mundo e veja que cultura de abelhas você pode aprender."
 			tasks: [{
 				dimension: "the_bumblezone:the_bumblezone"
 				icon: "minecraft:bee_nest"
 				id: "094A0B7C390130EF"
-				title: "Go to the Bumblezone"
+				title: "Vá para a Bumblezone"
 				type: "dimension"
 			}]
-			title: "World of Bee and Honey"
+			title: "Mundo das Abelhas e Mel"
 			x: -0.5d
 			y: 0.0d
 		}
@@ -38,7 +38,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "What's with the air in this place? It will definitely be not good for those who have allergies, this place is full of pollen!"
+			subtitle: "O que há com o ar neste lugar? Certamente não será bom para quem tem alergias, este lugar está cheio de pólen!"
 			tasks: [
 				{
 					count: 16L
@@ -62,7 +62,7 @@
 					type: "item"
 				}
 			]
-			title: "Hive's Air Pollen-tion"
+			title: "Polinização do Ar da Colmeia"
 			x: -1.5d
 			y: 4.0d
 		}
@@ -92,7 +92,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Okay, while there's no actual jam that bees made, but at least there are music discs to listen to."
+			subtitle: "Ok, embora não haja geleia feita pelas abelhas, pelo menos há discos de música para ouvir."
 			tasks: [
 				{
 					id: "396393F172D13E1E"
@@ -135,7 +135,7 @@
 					type: "item"
 				}
 			]
-			title: "Bee Jams"
+			title: "Melodias das Abelhas"
 			x: 0.5d
 			y: 4.0d
 		}
@@ -155,7 +155,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "How did the bees come up with the weapons? Their own stingers? Their own honey?"
+			subtitle: "Como as abelhas inventaram as armas? Com seus próprios ferrões? Com seu próprio mel?"
 			tasks: [
 				{
 					id: "119C263D70857316"
@@ -196,7 +196,7 @@
 					type: "item"
 				}
 			]
-			title: "Bee Weaponry"
+			title: "Armas das Abelhas"
 			x: 3.0d
 			y: 14.5d
 		}
@@ -210,7 +210,7 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			subtitle: "I wonder why is there a compass made of honey? Maybe it leads somewhere important in this large hive... Why's it sticking to my hand?"
+			subtitle: "Me pergunto por que há uma bússola feita de mel? Talvez ela leve a algum lugar importante neste grande favo... Por que ela está grudando na minha mão?"
 			tasks: [{
 				id: "314E0B959B386388"
 				item: {
@@ -231,7 +231,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A maze? This looks very unsafe, I probably shouldn't go in here without any safety first."
+			subtitle: "Um labirinto? Isso parece muito inseguro, provavelmente não devo entrar aqui sem nenhuma segurança primeiro."
 			tasks: [
 				{
 					id: "72B19162E39280E2"
@@ -257,11 +257,11 @@
 					icon: "the_bumblezone:honey_crystal_shards"
 					id: "1D3FC21D04DF05B2"
 					structure: "the_bumblezone:cell_maze"
-					title: "Find a Cell Maze"
+					title: "Encontre um Labirinto Celular"
 					type: "structure"
 				}
 			]
-			title: "Cell Maze?"
+			title: "Labirinto Celular?"
 			x: -0.5d
 			y: 10.0d
 		}
@@ -283,7 +283,7 @@
 				}
 				id: "026654F5006802CE"
 				structure: "the_bumblezone:sempiternal_sanctum_blue"
-				title: "Find the Sempiternal Sanctum Blue"
+				title: "Encontre o Azul do Santuário Sempre Eterno"
 				type: "structure"
 			}]
 			x: -2.0d
@@ -307,7 +307,7 @@
 				}
 				id: "70CF21FB5F2B81C3"
 				structure: "the_bumblezone:sempiternal_sanctum_green"
-				title: "Find the Sempirternal Sanctum Green"
+				title: "Encontre o Verde do Santuário Sempre Eterno"
 				type: "structure"
 			}]
 			x: 2.0d
@@ -331,7 +331,7 @@
 				}
 				id: "21800782215F1EBF"
 				structure: "the_bumblezone:sempiternal_sanctum_purple"
-				title: "Find the Sempirternal Sanctum Purple"
+				title: "Encontre o Roxo do Santuário Sempre Eterno"
 				type: "structure"
 			}]
 			x: -3.5d
@@ -350,7 +350,7 @@
 				}
 				id: "1069ECE91757590C"
 				structure: "#the_bumblezone:honey_compass/sempiternal_sanctums/red"
-				title: "Find the Sempiternal Sanctum Red"
+				title: "Encontre o Vermelho do Santuário Sempre Eterno"
 				type: "structure"
 			}]
 			x: -3.0d
@@ -374,7 +374,7 @@
 				}
 				id: "24ADA1FE7305C9C6"
 				structure: "the_bumblezone:sempiternal_sanctum_white"
-				title: "Find the Sempiternal Sanctum White"
+				title: "Encontre o Branco do Santuário Sempre Eterno"
 				type: "structure"
 			}]
 			x: 1.0d
@@ -398,7 +398,7 @@
 				}
 				id: "63BEA72E5A7DCF1F"
 				structure: "the_bumblezone:sempiternal_sanctum_yellow"
-				title: "Find the Sempiternal Sanctum Yellow"
+				title: "Encontre o Amarelo do Santuário Sempre Eterno"
 				type: "structure"
 			}]
 			x: 2.5d
@@ -412,7 +412,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Many bee warriors have fallen and this shrine is to dedicate the fallen warriors, with a stinger spear of one of the most prominent bee warriors to have ever lived."
+			subtitle: "Muitos guerreiros abelhas caíram e este santuário é dedicado aos guerreiros caídos, com uma lança de ferrão de um dos guerreiros abelhas mais proeminentes que já existiram."
 			tasks: [{
 				icon: {
 					Count: 1b
@@ -423,10 +423,10 @@
 				}
 				id: "60EBEED85691EF2F"
 				structure: "the_bumblezone:stinger_spear_shrine"
-				title: "Find the Stinger Spear Shrine"
+				title: "Encontre o Santuário da Lança de Ferrão"
 				type: "structure"
 			}]
-			title: "Stinger Spear Shrine"
+			title: "Santuário da Lança de Ferrão"
 			x: 1.5d
 			y: 3.0d
 		}
@@ -438,15 +438,15 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Bees having a subway seems out of place considering how modern this technology is, but at least travel is fun."
+			subtitle: "As abelhas terem um metrô parece fora de lugar considerando o quão moderna é essa tecnologia, mas pelo menos a viagem é divertida."
 			tasks: [{
 				icon: "the_bumblezone:windy_air"
 				id: "64FC28F523C427D2"
 				structure: "the_bumblezone:subway"
-				title: "Find a Subway"
+				title: "Encontre um Metrô"
 				type: "structure"
 			}]
-			title: "Subway"
+			title: "Metrô"
 			x: -2.5d
 			y: 3.0d
 		}
@@ -458,7 +458,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Meet up with Her Majesty, the Queen Bee. She is willing to be impartial and trade with you items and maybe even send you some tasks worth doing."
+			subtitle: "Encontre-se com Sua Majestade, a Rainha Abelha. Ela está disposta a ser imparcial e negociar itens com você e talvez até mesmo lhe atribuir algumas tarefas que valem a pena realizar."
 			tasks: [{
 				icon: {
 					Count: 1b
@@ -467,10 +467,10 @@
 				}
 				id: "2118C4EF58105BEB"
 				structure: "the_bumblezone:throne_pillar"
-				title: "Find the Throne Pillar"
+				title: "Encontre o Pilar do Trono"
 				type: "structure"
 			}]
-			title: "Queen Bee's Throne"
+			title: "Trono da Rainha Abelha"
 			x: -0.5d
 			y: 15.0d
 		}
@@ -499,13 +499,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "Congratulations. You have now earn the favor of the Queen Bee! Now you are one of her kin and the bees will no longer attack you, but perhaps there is more to explore."
+			subtitle: "Parabéns. Você agora ganhou o favor da Rainha Abelha! Agora você é um dos dela e as abelhas não vão mais atacá-lo, mas talvez haja mais para explorar."
 			tasks: [{
 				id: "1885038F0C08454B"
 				item: "the_bumblezone:essence_of_the_bees"
 				type: "item"
 			}]
-			title: "One of Us! One of Us!"
+			title: "Um de Nós! Um de Nós!"
 			x: -0.5d
 			y: 17.5d
 		}
@@ -525,7 +525,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "What a majestic set of armor worn by the bee warriors. While not very powerful, it is a very nice looking armor."
+			subtitle: "Que conjunto de armadura majestoso usado pelos guerreiros abelhas. Embora não seja muito poderoso, é uma armadura muito bonita."
 			tasks: [
 				{
 					id: "27A36C84442BD4A7"
@@ -536,7 +536,7 @@
 							value: "the_bumblezone:armors/helmets"
 						}
 					}
-					title: "Bee Helmet"
+					title: "Capacete de Abelha"
 					type: "item"
 				}
 				{
@@ -548,7 +548,7 @@
 							value: "the_bumblezone:armors/chestplates"
 						}
 					}
-					title: "Bee Chestplate"
+					title: "Peitoral de Abelha"
 					type: "item"
 				}
 				{
@@ -560,7 +560,7 @@
 							value: "the_bumblezone:armors/leggings"
 						}
 					}
-					title: "Bee Leggings"
+					title: "Calças de Abelha"
 					type: "item"
 				}
 				{
@@ -572,26 +572,26 @@
 							value: "the_bumblezone:armors/boots"
 						}
 					}
-					title: "Bee Boots"
+					title: "Botas de Abelha"
 					type: "item"
 				}
 			]
-			title: "The Bee Armor"
+			title: "A Armadura de Abelha"
 			x: -4.0d
 			y: 14.5d
 		}
 		{
 			dependencies: ["4E9477A4D0A322D5"]
 			id: "152E438018A29730"
-			subtitle: "A stream of pollination? I'm unsure of the purpose of such a place, but there is plenty of pollen and sugar water to use."
+			subtitle: "Um rio polimerizado? Estou incerto sobre o propósito de um lugar assim, mas há bastante pólen e água açucarada para usar."
 			tasks: [{
 				icon: "the_bumblezone:sugar_water_bucket"
 				id: "39BD856AE9E09B33"
 				structure: "the_bumblezone:pollinated_stream"
-				title: "Find a Pollinated Stream"
+				title: "Encontre um rio polimerizado"
 				type: "structure"
 			}]
-			title: "Pollinated Stream"
+			title: "Rio polimerizado"
 			x: -3.5d
 			y: 2.0d
 		}
@@ -603,12 +603,12 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "I suppose this is a bee's way of living in luxury, a hotel, based around honey! I wonder how much it costs to spend a night inside."
+			subtitle: "Suponho que esta seja a maneira das abelhas de viverem com luxo, um hotel, baseado em mel! Fico imaginando quanto custa passar uma noite lá dentro."
 			tasks: [{
 				icon: "the_bumblezone:royal_jelly_block"
 				id: "06A852BC383BFB22"
 				structure: "the_bumblezone:honitel"
-				title: "Find a Honitel"
+				title: "Encontre um Melotel"
 				type: "structure"
 			}]
 			x: 2.5d
@@ -622,12 +622,12 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Very curious, there's a villager in the hive raising honey slimes? I wonder how they ended up in here. Maybe they made friends with the bees."
+			subtitle: "Muito curioso, há um aldeão na colmeia criando slimes de mel? Fico imaginando como eles acabaram aqui. Talvez tenham feito amizade com as abelhas."
 			tasks: [{
 				icon: "minecraft:slime_ball"
 				id: "49280FF78B9CAD65"
 				structure: "the_bumblezone:honey_slime_ranch"
-				title: "Find a Slime Ranch"
+				title: "Encontre um Rancho de Slime"
 				type: "structure"
 			}]
 			title: "Slime Ranch"
@@ -642,12 +642,12 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This is getting ridiculous, how are there pirate bees? What are they trying to steal anyway?"
+			subtitle: "Isso está ficando ridículo, como pode haver abelhas piratas? O que elas estão tentando roubar afinal?"
 			tasks: [{
 				icon: "minecraft:yellow_banner"
 				id: "521C68398D00E371"
 				structure: "the_bumblezone:pirate_ship"
-				title: "Find a Pirate Ship"
+				title: "Encontre um Navio Pirata"
 				type: "structure"
 			}]
 			x: -4.5d
@@ -661,15 +661,15 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Such a massive flower in the hive! It might be normal or small size in the overworld, but I wonder how it'd got so massive."
+			subtitle: "Que flor enorme na colmeia! Pode ser normal ou de tamanho pequeno no mundo exterior, mas fico imaginando como ela ficou tão gigantesca."
 			tasks: [{
 				icon: "the_bumblezone:honey_crystal"
 				id: "40377F875E7C6A21"
 				structure: "the_bumblezone:overgrown_flower"
-				title: "Find an Overgrown Flower"
+				title: "Encontre uma Flor Gigante"
 				type: "structure"
 			}]
-			title: "Overgrown Flower"
+			title: "Flor Gigante"
 			x: 3.5d
 			y: 0.0d
 		}
@@ -681,15 +681,15 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "I wonder if this is how bees were first discovered, and brought to the present, frozen in ice like humans."
+			subtitle: "Eu me pergunto se foi assim que as abelhas foram descobertas pela primeira vez e trazidas para o presente, congeladas no gelo como os humanos."
 			tasks: [{
 				icon: "minecraft:blue_ice"
 				id: "3F2FE2E19E44F4F1"
 				structure: "the_bumblezone:ice_monolith"
-				title: "Find an Ice Monolith"
+				title: "Encontre um Monólito de Gelo"
 				type: "structure"
 			}]
-			title: "Ice Monolith"
+			title: "Monólito de Gelo"
 			x: 3.0d
 			y: -2.0d
 		}
@@ -701,15 +701,15 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Why do bees need a parkour course if they can fly? Well, at least we can try to make it to the top and find something."
+			subtitle: "Por que as abelhas precisam de uma pista de parkour se elas podem voar? Bem, pelo menos podemos tentar chegar ao topo e encontrar algo."
 			tasks: [{
 				icon: "the_bumblezone:super_candle_red"
 				id: "2A1BC2AB647871D2"
 				structure: "the_bumblezone:candle_parkour"
-				title: "Find a Candle Parkour"
+				title: "Encontre um Parkour de Velas"
 				type: "structure"
 			}]
-			title: "Candle Parkour"
+			title: "Parkour de Velas"
 			x: 2.5d
 			y: -3.0d
 		}
@@ -734,13 +734,13 @@
 			}]
 			shape: "pentagon"
 			size: 1.25d
-			subtitle: "The Queen Bee must've cared for such gardens as there is a special flower that grants enchanting powers."
+			subtitle: "A Rainha Abelha deve ter cuidado de jardins assim, já que há uma flor especial que concede poderes encantadores."
 			tasks: [
 				{
 					icon: "the_bumblezone:crystalline_flower"
 					id: "00347893AE03252D"
 					structure: "the_bumblezone:hanging_garden"
-					title: "Find the Hanging Gardens"
+					title: "Encontre os Jardins Suspensos"
 					type: "structure"
 				}
 				{
@@ -754,7 +754,7 @@
 					type: "item"
 				}
 			]
-			title: "&eThe Crystalline Flower"
+			title: "Jardins Suspensos"
 			x: -0.5d
 			y: -5.5d
 		}
@@ -767,14 +767,14 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Who knew bees can have a house inside of a hive? Well, a little odd that the house is shaped like an actual bee. I hope we're not intruding their space."
+			subtitle: "Quem diria que as abelhas podem ter uma casa dentro de uma colmeia? Bem, um pouco estranho que a casa seja em forma de uma abelha real. Espero que não estejamos invadindo o espaço delas."
 			tasks: [{
 				id: "56EA7542F4676A4B"
 				structure: "the_bumblezone:bee_house"
-				title: "Find a Bee House"
+				title: "Encontre uma Casa de Abelha"
 				type: "structure"
 			}]
-			title: "Bee House?!"
+			title: "Casa de Abelha?!"
 			x: -0.5d
 			y: -2.0d
 		}
@@ -787,14 +787,14 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Based on the appearance, it seems that bees would fly around these hoops in the past, but now they're just an ancient relic of the past in this hive."
+			subtitle: "Pela aparência, parece que as abelhas voavam ao redor desses aros no passado, mas agora eles são apenas uma relíquia antiga do passado nesta colmeia."
 			tasks: [{
 				id: "41597F4CBF0C7E52"
 				structure: "the_bumblezone:ancient_hoops"
-				title: "Find the Ancient Hoops"
+				title: "Encontre os Aros Antigos"
 				type: "structure"
 			}]
-			title: "Ancient Hoops"
+			title: "Aros Antigos"
 			x: 0.5d
 			y: -4.0d
 		}
@@ -806,30 +806,30 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "So this is how they make music, they also dance too."
+			subtitle: "Então é assim que eles fazem música, eles também dançam."
 			tasks: [{
 				icon: "the_bumblezone:carvable_wax_music"
 				id: "6A445E2CE2DD0C21"
 				structure: "the_bumblezone:dance_floor"
-				title: "Find the Dance Floor"
+				title: "Encontre a Pista de Dança"
 				type: "structure"
 			}]
-			title: "Dance Floor"
+			title: "Pista de Dança"
 			x: -4.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["4E9477A4D0A322D5"]
 			id: "4C1276D733165FCE"
-			subtitle: "A very small hive temple, must've been another place of worship for the bees."
+			subtitle: "Um templo de colmeia muito pequeno, deve ter sido outro local de culto para as abelhas."
 			tasks: [{
 				icon: "minecraft:honey_block"
 				id: "4FAAC46C321AE79F"
 				structure: "the_bumblezone:hive_temple"
-				title: "Find a Hive Temple"
+				title: "Encontre um Templo de Colmeia"
 				type: "structure"
 			}]
-			title: "Hive Temple"
+			title: "Templo de Colmeia"
 			x: -3.5d
 			y: -3.0d
 		}
@@ -837,13 +837,13 @@
 			dependencies: ["4E9477A4D0A322D5"]
 			icon: "minecraft:honey_bottle"
 			id: "1FE844E12BA3660A"
-			subtitle: "So there's a fountain for honey. I suppose that's another way to show the bees' love for honey."
+			subtitle: "Então, há uma fonte de mel. Suponho que seja outra forma de mostrar o amor das abelhas pelo mel."
 			tasks: [{
 				id: "4B90BFEC05C6179C"
 				structure: "the_bumblezone:honey_fountain"
 				type: "structure"
 			}]
-			title: "Honey Fountain"
+			title: "Fonte de Mel"
 			x: -2.5d
 			y: -3.5d
 		}
@@ -855,7 +855,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Are the bees training themselves to be able to use projectile weapons? They sure are smart."
+			subtitle: "As abelhas estão se treinando para serem capazes de usar armas de projéteis? Elas realmente são inteligentes."
 			tasks: [{
 				icon: {
 					Count: 1b
@@ -867,10 +867,10 @@
 				}
 				id: "7E0AC99F6EF65E3A"
 				structure: "the_bumblezone:cannon_range"
-				title: "Find a Cannon Range"
+				title: "Encontre um Campo com Canhões"
 				type: "structure"
 			}]
-			title: "Cannon Range"
+			title: "Campo com Canhões"
 			x: 3.5d
 			y: -1.0d
 		}
@@ -882,15 +882,15 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "There's too much honey! How do the bees keep producing more without getting tired? Maybe we should call it Government Honey in the future."
+			subtitle: "Há muito mel! Como as abelhas continuam produzindo mais sem ficarem cansadas? Talvez devêssemos chamá-lo de Mel Governamental no futuro."
 			tasks: [{
 				icon: "the_bumblezone:honey_bucket"
 				id: "16A4D6926C4FE612"
 				structure: "the_bumblezone:honey_cave_room"
-				title: "Find a Honey Cave Room"
+				title: "Encontre uma Sala de Caverna de Mel"
 				type: "structure"
 			}]
-			title: "Honey Cave Room"
+			title: "Sala de Caverna de Mel"
 			x: -1.5d
 			y: -4.0d
 		}
@@ -903,14 +903,14 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "A battle cube seems to be some sort of spider dungeon covered in massive webs, maybe this will be helpful among your tasks later."
+			subtitle: "Um cubo de batalha parece ser uma espécie de masmorra de aranhas coberta por teias enormes, talvez isso seja útil entre suas tarefas mais tarde."
 			tasks: [{
 				id: "63D7913F49061453"
 				structure: "the_bumblezone:battle_cubes"
-				title: "Find a Battle Cube"
+				title: "Encontre um Cubo de Batalha"
 				type: "structure"
 			}]
-			title: "Battle Cubes"
+			title: "Cubo de Batalha"
 			x: 1.5d
 			y: -3.5d
 		}
@@ -923,32 +923,33 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Mm.. an ancient shrine? I wonder if this is how the bees worship their Queen.."
+			subtitle: "Mm.. um santuário antigo? Eu me pergunto se é assim que as abelhas adoram sua Rainha.."
 			tasks: [{
 				id: "02982EB50F5338C0"
 				structure: "the_bumblezone:ancient_shrine"
-				title: "Find an Ancient Shrine"
+				title: "Encontre um Santuário Antigo"
 				type: "structure"
 			}]
-			title: "Ancient Shrine"
+			title: "Santuário Antigo"
 			x: -4.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["4E9477A4D0A322D5"]
 			id: "085633C89B01DBD9"
-			subtitle: "How is there a large cherry tree in this hive? I'm very curious how this size is scaled in the outside world."
+			subtitle: "Como há uma grande cerejeira nesta colmeia? Estou muito curioso para saber como esse tamanho é escalado no mundo exterior."
 			tasks: [{
 				icon: "minecraft:cherry_sapling"
 				id: "562748B9BD91F4FE"
 				structure: "the_bumblezone:cherry_veteran_tree"
-				title: "Find a Cherry Tree"
+				title: "Encontre uma Cerejeira"
 				type: "structure"
 			}]
-			title: "Cherry Veteran Tree"
+			title: "A grande arvore de cerejeira"
 			x: 3.0d
 			y: 1.0d
 		}
 	]
-	title: " &6The Bumblezone"
+	title: " &6A Bumblezone"
 }
+

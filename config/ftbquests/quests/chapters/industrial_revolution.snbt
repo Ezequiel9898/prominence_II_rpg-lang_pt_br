@@ -15,13 +15,13 @@
 				item: "indrev:guide_book"
 				type: "item"
 			}]
-			subtitle: "Welcome to Industrial Revolution, a Tech mod that offers tools, weapons and ways of generating resources."
+			subtitle: "Bem-vindo à Revolução Industrial, um mod de Tecnologia que oferece ferramentas, armas e formas de gerar recursos."
 			tasks: [{
 				id: "0F631934C103EDFA"
-				title: "Welcome to Industrial Revolution"
+				title: "Bem-vindo à Revolução Industrial"
 				type: "checkmark"
 			}]
-			title: "Welcome to Industrial Revolution!"
+			title: "Bem-vindo à Revolução Industrial!"
 			x: -2.0d
 			y: -0.5d
 		}
@@ -106,7 +106,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "A turquoise dust with helpful properties for making machines."
+			subtitle: "Um pó turquesa com propriedades úteis para fazer máquinas."
 			tasks: [{
 				id: "22D23AA53B2D0362"
 				item: "indrev:nikolite_dust"
@@ -123,7 +123,7 @@
 				type: "xp"
 				xp: 60
 			}]
-			subtitle: "An iron ingot enhanced via infusion with Nikolite."
+			subtitle: "Um lingote de ferro aprimorado por infusão com Nikolite."
 			tasks: [{
 				id: "38A727856663A1E5"
 				item: "indrev:nikolite_ingot"
@@ -140,7 +140,7 @@
 				type: "xp"
 				xp: 80
 			}]
-			subtitle: "Infusing Nikolite Dust with Diamond Dust seems to enhance its properties."
+			subtitle: "A infusão de Poeira de Nikolite com Poeira de Diamante parece melhorar suas propriedades."
 			tasks: [{
 				id: "1AC296A4FC960449"
 				item: "indrev:enriched_nikolite_dust"
@@ -157,7 +157,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An ingot sparking with the energy of Enriched Nikolite."
+			subtitle: "Um lingote irradiando a energia do Nikolite Enriquecido."
 			tasks: [{
 				id: "4A79A79E92FD11ED"
 				item: "indrev:enriched_nikolite_ingot"
@@ -174,7 +174,7 @@
 				type: "xp"
 				xp: 60
 			}]
-			subtitle: "Allows for the upgrading of machines to MK2, this speeds up processing and allows for 2 enhancers to be installed."
+			subtitle: "Permite a atualização de máquinas para o nível MK2, acelerando o processamento e permitindo a instalação de 2 aprimoradores."
 			tasks: [{
 				id: "4A6086EE8638877E"
 				item: "indrev:tier_upgrade_mk2"
@@ -191,7 +191,7 @@
 				type: "xp"
 				xp: 80
 			}]
-			subtitle: "Allows for the upgrading of machines to MK3, this speeds up processing and allows for 3 enhancers to be installed."
+			subtitle: "Permite a atualização de máquinas para o nível MK3, acelerando o processamento e permitindo a instalação de 3 aprimoradores."
 			tasks: [{
 				id: "3003CAAF0A0E1043"
 				item: "indrev:tier_upgrade_mk3"
@@ -208,7 +208,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Allows for the upgrading of machines to MK4, this speeds up processing and allows for 4 enhancers to be installed."
+			subtitle: "Permite a atualização de máquinas para o nível MK4, acelerando o processamento e permitindo a instalação de 4 aprimoradores."
 			tasks: [{
 				id: "081EC201A8162C39"
 				item: "indrev:tier_upgrade_mk4"
@@ -227,7 +227,7 @@
 				xp: 1000
 			}]
 			size: 1.5d
-			subtitle: "The Mining Rig Computer allows you to generate ores using rf. \\n\\nTo set it up you need: \\n1. A Mining Rig Computer.\\n2. 1-8 Mining Rig Drills.\\n3. 1-8 Drill Heads.\\n4. An Encoded Ore Data Card.\\n\\nNote: Higher tier drill heads allow for faster generation of ores."
+			subtitle: "O Computador de Mineração permite gerar minérios usando RF. \\n\\nPara configurá-lo, você precisa de: \\n1. Um Computador de Mineração.\\n2. 1-8 Brocas para Computador de Mineração.\\n3. 1-8 Cabeças de Broca.\\n4. Um Cartão de Dados de Minério Codificado.\\n\\nObservação: Cabeças de broca de nível superior permitem uma geração mais rápida de minérios."
 			tasks: [
 				{
 					id: "27749ADE514D74C7"
@@ -277,7 +277,7 @@
 							]
 						}
 					}
-					title: "Drill Head"
+					title: "Cabeças de Broca"
 					type: "item"
 				}
 			]
@@ -292,7 +292,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "The base of tier 1 machines."
+			subtitle: "A base das máquinas de nível 1."
 			tasks: [{
 				id: "3C1713111B82178E"
 				item: "indrev:circuit_mk1"
@@ -312,7 +312,7 @@
 				type: "xp"
 				xp: 60
 			}]
-			subtitle: "The base of tier 2 machines."
+			subtitle: "A base das máquinas de nível 2."
 			tasks: [{
 				id: "283EF189CEEDE8CF"
 				item: "indrev:circuit_mk2"
@@ -332,7 +332,7 @@
 				type: "xp"
 				xp: 80
 			}]
-			subtitle: "The base of tier 3 machines."
+			subtitle: "A base das máquinas de nível 3."
 			tasks: [{
 				id: "20B586B0085CFFB6"
 				item: "indrev:circuit_mk3"
@@ -352,7 +352,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The base of tier 4 machines."
+			subtitle: "A base das máquinas de nível 4."
 			tasks: [{
 				id: "6143C60A56C29E38"
 				item: "indrev:circuit_mk4"
@@ -364,13 +364,13 @@
 		{
 			dependencies: ["32DE8281608AE114"]
 			id: "4EFD04B00ADBD50E"
-			subtitle: "The screwdriver allows for the configuration of input and output sides of machines as well as the energy cube."
+			subtitle: "A chave de fenda permite a configuração dos lados de entrada e saída das máquinas, assim como do cubo de energia."
 			tasks: [{
 				id: "0336F4103F460751"
 				item: "indrev:screwdriver"
 				type: "item"
 			}]
-			title: "Machine Configuration"
+			title: "Configuração da Máquina"
 			x: -3.0d
 			y: 1.0d
 		}
@@ -382,7 +382,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A simple machine that uses LF to smelt items."
+			subtitle: "Uma máquina simples que usa LF para fundir itens."
 			tasks: [{
 				id: "006643CD4ACB0DD5"
 				item: "indrev:electric_furnace_mk1"
@@ -400,7 +400,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Highest tier of the Electric Furnace, allowing for 5 items too be processed at once."
+			subtitle: "Maior nível do Forno Elétrico, permitindo o processamento de 5 itens de uma vez."
 			tasks: [
 				{
 					id: "16CEFF263293C772"
@@ -459,7 +459,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Allows for the pulverization of a multitude of materials."
+			subtitle: "Permite a pulverização de uma variedade de materiais."
 			tasks: [{
 				id: "3259088F99EA9060"
 				item: "indrev:pulverizer_mk1"
@@ -477,7 +477,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "The highest-tier pulverizer, allowing for 5 items too be processed at once."
+			subtitle: "A pulverizadora de mais alto nível, permitindo que 5 itens sejam processados ao mesmo tempo."
 			tasks: [
 				{
 					id: "7B8DBCDA7DEBD0E2"
@@ -532,7 +532,7 @@
 			dependencies: ["0362B2FF4E5681B2"]
 			id: "71D3FB31485B9F05"
 			size: 1.5d
-			subtitle: "The basis of most Industrial Revolution machines."
+			subtitle: "A base da maioria das máquinas da Revolução Industrial."
 			tasks: [
 				{
 					id: "1792BD2A7CB4D3BE"
@@ -557,7 +557,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "In order to use an fluid pipe you need a retriever servo or output servo."
+			subtitle: "Para usar um cano de fluido, você precisa de um servomecanismo de recuperação ou de saída."
 			tasks: [{
 				id: "5633521FA0CD7BB7"
 				item: "indrev:fluid_pipe_mk1"
@@ -636,7 +636,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A Retriever Servo attempts to pull into the machine its pointing into from all other machines that are connected to the pipes."
+			subtitle: "Um Servomecanismo de Recuperação tenta puxar para dentro da máquina para a qual está apontando de todas as outras máquinas conectadas aos tubos."
 			tasks: [{
 				id: "5F6EB1B1786EEBDF"
 				item: {
@@ -662,7 +662,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A Retriever Servo attempts to pull from machine its pointing into into other machines that are connected to the pipes."
+			subtitle: "Um Servomecanismo de Recuperação tenta puxar da máquina para a qual está apontando para outras máquinas conectadas aos tubos."
 			tasks: [{
 				id: "12790B91DDF80C81"
 				item: {
@@ -684,7 +684,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "In order to use an item pipe you need a retriever servo or output servo."
+			subtitle: "Para usar um tubo de item, você precisa de um servomecanismo de recuperação ou de um servomecanismo de saída."
 			tasks: [{
 				id: "1141AC2BFE66C951"
 				item: "indrev:item_pipe_mk1"
@@ -758,7 +758,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Lets you make plates without the use of a hammer, as well as the creation of enhancers to improve the performance of your machines."
+			subtitle: "Permite fazer placas sem o uso de um martelo, além da criação de aprimoradores para melhorar o desempenho de suas máquinas."
 			tasks: [{
 				id: "5FFFF0490FAC7779"
 				item: "indrev:compressor_mk1"
@@ -776,7 +776,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Highest tier of the Compressor, allowing for 5 items too be processed at once."
+			subtitle: "Maior nível do Compressor, permitindo processar 5 itens de uma vez."
 			tasks: [
 				{
 					id: "1A9600EC4FC50D2F"
@@ -835,7 +835,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Vital in the creation of higher tier materials as it's the only machine capable of infusing nikolite dust with other materials to enhance its capabilities."
+			subtitle: "Vital na criação de materiais de nível superior, pois é a única máquina capaz de infundir pó de nikolito com outros materiais para aprimorar suas capacidades."
 			tasks: [{
 				id: "0162EED060A620C9"
 				item: "indrev:solid_infuser_mk1"
@@ -853,7 +853,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Highest tier of the solid infuser, allowing for 5 items too be processed at once."
+			subtitle: "O nível mais alto do infusor sólido, permitindo processar até 5 itens de uma vez."
 			tasks: [
 				{
 					id: "6DE1A8C5F2A3931E"
@@ -912,7 +912,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A machine allowing for the extraction of more planks per log, as well as sawdust."
+			subtitle: "Uma máquina que permite a extração de mais tábuas por tora, bem como serragem."
 			tasks: [{
 				id: "02B367974E248910"
 				item: "indrev:sawmill_mk1"
@@ -929,7 +929,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest-tier Sawmill."
+			subtitle: "O Sawmill de nível mais alto."
 			tasks: [{
 				id: "6A07E6DD472ED08A"
 				item: "indrev:sawmill_mk4"
@@ -946,7 +946,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Allows for the automatic placing of saplings and chopping of trees. Requires an axe to function."
+			subtitle: "Permite o plantio automático de mudas e o corte de árvores. Requer um machado para funcionar."
 			tasks: [{
 				id: "29354D1557D10A42"
 				item: "indrev:chopper_mk1"
@@ -963,7 +963,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Allows for the automatic harvesting and planting of crops."
+			subtitle: "Permite a colheita e o plantio automáticos de cultivos."
 			tasks: [{
 				id: "0A8A1824D486651B"
 				item: "indrev:farmer_mk1"
@@ -980,7 +980,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A machine that kills mobs using the supplied sword."
+			subtitle: "Uma máquina que mata mobs usando a espada fornecida."
 			tasks: [{
 				id: "424163F9D3A8DCC0"
 				item: "indrev:slaughter_mk1"
@@ -997,7 +997,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A machine that can automatically breed and kill animals."
+			subtitle: "Uma máquina que pode automaticamente reproduzir e matar animais."
 			tasks: [{
 				id: "16DBCD671C99E72E"
 				item: "indrev:rancher_mk1"
@@ -1014,7 +1014,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Automatically collects any liquid above it."
+			subtitle: "Coleta automaticamente qualquer líquido acima dele."
 			tasks: [{
 				id: "6BCA806FB997839F"
 				item: "indrev:drain_mk1"
@@ -1031,7 +1031,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Allows for the extraction of liquids found in the world."
+			subtitle: "Permite a extração de líquidos encontrados no mundo."
 			tasks: [{
 				id: "304662C834225F42"
 				item: "indrev:pump_mk1"
@@ -1048,7 +1048,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A basic form of LF storage."
+			subtitle: "Uma forma básica de armazenamento de LF."
 			tasks: [{
 				id: "7CF9120CCA224B49"
 				item: "indrev:lazuli_flux_container_mk1"
@@ -1065,7 +1065,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest tier energy storage in Industrial Revolution."
+			subtitle: "O armazenamento de energia de maior nível em Industrial Revolution."
 			tasks: [{
 				id: "0BCC0932F9AEA74A"
 				item: "indrev:lazuli_flux_container_mk4"
@@ -1082,7 +1082,7 @@
 				type: "xp"
 				xp: 60
 			}]
-			subtitle: "Equivalent to a Iron Pickaxe, uses LF instead of durability."
+			subtitle: "Igual a uma Picareta de Ferro, usa LF em vez de durabilidade."
 			tasks: [{
 				id: "3E1786F8F3301991"
 				item: "indrev:mining_drill_mk2"
@@ -1099,7 +1099,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Equivalent to a Stone Pickaxe, uses LF instead of durability."
+			subtitle: "Igual a uma Picareta de Pedra, usa LF em vez de durabilidade."
 			tasks: [{
 				id: "592EDAF86DC224FE"
 				item: "indrev:mining_drill_mk1"
@@ -1116,7 +1116,7 @@
 				type: "xp"
 				xp: 80
 			}]
-			subtitle: "Equivalent to a Diamond Pickaxe, uses LF instead of durability."
+			subtitle: "Igual a uma Picareta de Diamante, usa LF em vez de durabilidade."
 			tasks: [{
 				id: "1561749937B55522"
 				item: "indrev:mining_drill_mk3"
@@ -1134,7 +1134,7 @@
 				xp: 150
 			}]
 			size: 1.25d
-			subtitle: "Equivalent to a Netherite Pickaxe, uses LF instead of durability.\\n\\n This tool also allows for modules to be installed using the Modular Workbench."
+			subtitle: "Igual a uma Picareta de Netherite, usa LF em vez de durabilidade.\\n\\n Este ferramenta também permite a instalação de módulos usando a Bancada Modular."
 			tasks: [{
 				id: "5249D4CAA3D43FD5"
 				item: "indrev:mining_drill_mk4"
@@ -1152,7 +1152,7 @@
 				type: "xp"
 				xp: 400
 			}]
-			subtitle: "In order to use the Mining Rig Computer you're going to need a encoded ore data card.\\n\\nThis can be created in the Data Card Encoder by supplying 64 of the ore you want to encode and an Ore Data Card. \\n\\nYou can also increase the richness of the cards by using Enriched Nikolite at 16 per 1%. Higher Richness levels increase the amount of ores gained per operation."
+			subtitle: "Para usar o Computador de Perfuração, você vai precisar de um cartão de dados de minério codificado.\\n\\nIsso pode ser criado no Codificador de Cartão de Dados, fornecendo 64 do minério que você deseja codificar e um Cartão de Dados de Minério.\\n\\nVocê também pode aumentar a riqueza dos cartões usando Nikolite Enriquecido, a uma taxa de 16 por 1%. Níveis de riqueza mais altos aumentam a quantidade de minérios obtidos por operação."
 			tasks: [
 				{
 					id: "01E20AAC5727E0FB"
@@ -1189,7 +1189,7 @@
 					xp: 50
 				}
 			]
-			subtitle: "A machine that allows for automatic fishing. Requires a fishing rod and a water source block adjacent to the machine."
+			subtitle: "Uma máquina que permite a pesca automática. Requer uma vara de pescar e um bloco de fonte de água adjacente à máquina."
 			tasks: [{
 				id: "622A1326F071D08B"
 				item: "indrev:fisher_mk2"
@@ -1206,7 +1206,7 @@
 				type: "xp"
 				xp: 75
 			}]
-			subtitle: "A passive form of power gen, needing only sunlight to function."
+			subtitle: "Uma forma passiva de geração de energia, que só precisa da luz solar para funcionar."
 			tasks: [{
 				id: "251D7A4D050376D7"
 				item: "indrev:solar_generator_mk1"
@@ -1223,7 +1223,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An upgrade to the Solar Generator."
+			subtitle: "Um upgrade para o Gerador Solar."
 			tasks: [{
 				id: "1B446742F5601191"
 				item: "indrev:solar_generator_mk3"
@@ -1240,7 +1240,7 @@
 				type: "xp"
 				xp: 75
 			}]
-			subtitle: "The most basic generator, consuming burnable fuels to produce LF."
+			subtitle: "O gerador mais básico, consumindo combustíveis que podem ser queimados para produzir LF."
 			tasks: [{
 				id: "0A6F900672307E3C"
 				item: "indrev:coal_generator_mk1"
@@ -1257,7 +1257,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A generator that allows for the seeds and other plant matter to be used as a means of power generation if first turned into biomass."
+			subtitle: "Um gerador que permite que as sementes e outros materiais vegetais sejam usados como meio de geração de energia se primeiro transformados em biomassa."
 			tasks: [{
 				id: "68C755DE9DE014A6"
 				item: "indrev:biomass_generator_mk3"
@@ -1274,7 +1274,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest LF/t generator in Industrial Revolution. It consumes lava to generate LF."
+			subtitle: "O gerador de LF/t mais alto da Revolução Industrial. Ele consome lava para gerar LF."
 			tasks: [{
 				id: "5EA67D9DB04812FA"
 				item: "indrev:heat_generator_mk4"
@@ -1291,7 +1291,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "A small device that reads the energy stored in a machine as well as the potential LF consumption of said machine.\\n\\nThis can be particularly useful when trying to figure out the LF consumption of machines with enhancers in them."
+			subtitle: "Um pequeno dispositivo que lê a energia armazenada em uma máquina, bem como o potencial de consumo de LF dessa máquina.\\n\\nIsso pode ser particularmente útil ao tentar descobrir o consumo de LF de máquinas com aprimoradores nelas."
 			tasks: [{
 				id: "2B5BB6332505B4C7"
 				item: "indrev:energy_reader"
@@ -1310,7 +1310,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "Step by step for charging a Core of Modularity: \\n\\n1. Place down your capsule with the Laser Emitter(s) facing it with a 3 block gap between it/them and the Capsule. \\n\\n2. Place your Core of Modularity (uncharged) in the Capsule.\\n\\n3. Power the Laser Emitter(s) by routing LF into the back of it/them.\\n\\n4. Apply a redstone signal to your Laser Emitter(s)\\n\\nIf you want to automate the shutdown of your lasers it may be helpful to know that a comparator outputs a signal when the Capsule is empty or done crafting."
+			subtitle: "Passo a passo para carregar um Núcleo de Modularidade:\\n\\n1. Coloque sua cápsula com o(s) Emissor(es) de Laser voltado(s) para ela, com um espaço de 3 blocos entre ele(s) e a Cápsula.\\n\\n2. Coloque seu Núcleo de Modularidade (não carregado) na Cápsula.\\n\\n3. Alimente o(s) Emissor(es) de Laser direcionando LF para a parte de trás dele(s).\\n\\n4. Aplique um sinal de redstone ao(s) Emissor(es) de Laser.\\n\\nSe você deseja automatizar o desligamento dos seus lasers, pode ser útil saber que um comparador emite um sinal quando a Cápsula está vazia ou concluiu a criação."
 			tasks: [
 				{
 					id: "722D007879784300"
@@ -1335,7 +1335,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Used to charge cores of modularity.\\n\\nBe careful to not apply a redstone signal to your laser emitter when the capsule is empty as this will destroy the capsule. Also, applying a redstone signal to the laser emitter when it's not facing a Capsule will result in it exploding after a bit of time."
+			subtitle: "Usado para carregar núcleos de modularidade.\\n\\nTenha cuidado para não aplicar um sinal de redstone ao seu emissor de laser quando a cápsula estiver vazia, pois isso destruirá a cápsula. Além disso, aplicar um sinal de redstone ao emissor de laser quando ele não estiver voltado para uma Cápsula resultará em uma explosão após um certo tempo."
 			tasks: [
 				{
 					id: "55D740096391D07C"
@@ -1360,7 +1360,7 @@
 				xp: 150
 			}]
 			size: 1.25d
-			subtitle: "A Helmet that allows for the installation of modules."
+			subtitle: "Um capacete que permite a instalação de módulos."
 			tasks: [{
 				id: "13279A65486B3B7D"
 				item: {
@@ -1382,7 +1382,7 @@
 				xp: 150
 			}]
 			size: 1.25d
-			subtitle: "A Chestplate that allows for the installation of modules."
+			subtitle: "Um peitoral que permite a instalação de módulos."
 			tasks: [{
 				id: "18F4272FADDD55D5"
 				item: {
@@ -1404,7 +1404,7 @@
 				xp: 150
 			}]
 			size: 1.25d
-			subtitle: "A pair of Leggings that allows for the installation of modules."
+			subtitle: "Calças que permitem a instalação de módulos."
 			tasks: [{
 				id: "53BB342EBDD0D957"
 				item: {
@@ -1426,7 +1426,7 @@
 				xp: 150
 			}]
 			size: 1.25d
-			subtitle: "A pair of Boots that allows for the installation of modules."
+			subtitle: "Botas que permitem a instalação de módulos."
 			tasks: [{
 				id: "09DBCD31FE861696"
 				item: {
@@ -1491,7 +1491,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Can be found as dungeon loot."
+			subtitle: "Pode ser encontrado como saque de masmorras."
 			tasks: [{
 				id: "645E1AFF80FEF744"
 				item: {
@@ -1542,10 +1542,10 @@
 						]
 					}
 				}
-				title: "Any Color Module"
+				title: "Módulo de Qualquer Cor"
 				type: "item"
 			}]
-			title: "Color Modules"
+			title: "Módulos de Cor"
 			x: 14.5d
 			y: 3.5d
 		}
@@ -1653,7 +1653,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Used for creating plates before making a compressor."
+			subtitle: "Usado para criar placas antes de fazer um compressor."
 			tasks: [{
 				id: "462B8764930866AB"
 				item: {
@@ -1879,7 +1879,7 @@
 		{
 			dependencies: ["32DE8281608AE114"]
 			id: "39FF583B7278103A"
-			subtitle: "A tool that allows you to rotate blocks and break machines by right-clicking while crouching."
+			subtitle: "Uma ferramenta que permite girar blocos e quebrar máquinas ao clicar com o botão direito enquanto estiver agachado."
 			tasks: [{
 				id: "4923ECBCEF56D65E"
 				item: "indrev:wrench"
@@ -1933,7 +1933,7 @@
 					type: "item"
 				}
 			]
-			title: "Heat"
+			title: "Calor"
 			x: -2.0d
 			y: 1.5d
 		}
@@ -1945,7 +1945,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Mainly used to make coolant and processing ores. Can also make wither-proof obsidian."
+			subtitle: "Principalmente usado para fazer refrigerante e processar minérios. Também pode ser usado para fazer obsidiana à prova de Wither."
 			tasks: [{
 				id: "777FADC55E95A59E"
 				item: "indrev:fluid_infuser_mk1"
@@ -1962,7 +1962,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest-tier fluid infuser."
+			subtitle: "O infusor de fluido de maior nível."
 			tasks: [{
 				id: "5257ED14B6EC4D92"
 				item: "indrev:fluid_infuser_mk4"
@@ -1979,7 +1979,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest-tier Slaughter."
+			subtitle: "O matadouro de maior nível."
 			tasks: [{
 				id: "448EF11D0E1E48F1"
 				item: "indrev:slaughter_mk4"
@@ -1996,7 +1996,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest-tier Farmer."
+			subtitle: "O Agricultor de maior nível."
 			tasks: [{
 				id: "44BA665696CDDB11"
 				item: "indrev:farmer_mk4"
@@ -2013,7 +2013,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest-tier Chopper."
+			subtitle: "O Cortador de maior nível."
 			tasks: [{
 				id: "51C83F19BDC775FD"
 				item: "indrev:chopper_mk4"
@@ -2030,7 +2030,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest-tier Rancher."
+			subtitle: "O Criador de Animais de maior nível."
 			tasks: [{
 				id: "32CF695BBF3AECD2"
 				item: "indrev:rancher_mk4"
@@ -2047,12 +2047,12 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Industrial Revolution offers up to 5x ore processing, some might find this particularly helpful for processing ancient debree into netherite scrap. \\n\\nThe last step in the chain is always smelting the dust into ingots/scrap."
+			subtitle: "A Revolução Industrial oferece até 5x processamento de minério, alguns podem achar isso particularmente útil para processar destroços antigos em fragmentos de netherita. \\n\\nO último passo na cadeia é sempre a fundição do pó em lingotes/fragmentos."
 			tasks: [{
 				id: "61BE53AEEA11BAEA"
 				type: "checkmark"
 			}]
-			title: "Ore Processing"
+			title: "Processamento de Minério"
 			x: -6.0d
 			y: 2.5d
 		}
@@ -2060,7 +2060,7 @@
 			dependencies: ["4292881C886EFF62"]
 			hide_dependency_lines: true
 			id: "6EB3ECAF7609F249"
-			subtitle: "A machine whose sole purpose is turning molten ores into chunks."
+			subtitle: "Uma máquina cujo único propósito é transformar minérios fundidos em pedaços."
 			tasks: [{
 				id: "5E26DBC2C821BBC4"
 				item: "indrev:condenser_mk4"
@@ -2073,7 +2073,7 @@
 			dependencies: ["4292881C886EFF62"]
 			hide_dependency_lines: true
 			id: "40FB62E7F03ECC79"
-			subtitle: "A machine capable of melting ores and metals into their liquid counterpart."
+			subtitle: "Uma máquina capaz de fundir minérios e metais em seu equivalente líquido."
 			tasks: [{
 				id: "1414CEC8E1C8DDA9"
 				item: "indrev:smelter_mk4"
@@ -2087,7 +2087,7 @@
 			hide_dependency_lines: true
 			icon: "indrev:sulfuric_acid_bucket"
 			id: "68F96CDEBCA50C50"
-			subtitle: "You can create sulfuric acid by fluid infusing water with sulfur dust."
+			subtitle: "Você pode criar ácido sulfúrico infundindo fluidos de água com pó de enxofre."
 			tasks: [
 				{
 					id: "61E8D4CC1FF116C2"
@@ -2100,7 +2100,7 @@
 					type: "item"
 				}
 			]
-			title: "Sulfuric Acid"
+			title: "Ácido Sulfúrico"
 			x: -7.0d
 			y: 6.0d
 		}
@@ -2149,10 +2149,10 @@
 						]
 					}
 				}
-				title: "Any Ore Dust"
+				title: "Qualquer Pó de Minério"
 				type: "item"
 			}]
-			title: "3x Ores"
+			title: "3x Minérios"
 			x: -6.5d
 			y: 3.5d
 		}
@@ -2162,7 +2162,7 @@
 				"386E055582494003"
 			]
 			id: "2DEF643F1186CED5"
-			subtitle: "The first step in 5x ore processing is fluid infusing your ore with Sulfuric Acid. After that you continue with it in the 4x processing line."
+			subtitle: "O primeiro passo no processamento de minérios 5x é infundir fluido em seu minério com Ácido Sulfúrico. Depois disso, você continua com ele na linha de processamento 4x."
 			tasks: [{
 				id: "286C16BA6A019704"
 				item: {
@@ -2205,10 +2205,10 @@
 						]
 					}
 				}
-				title: "Any Purified Ore"
+				title: "Qualquer Minério Purificado"
 				type: "item"
 			}]
-			title: "5x Ores"
+			title: "5x Minérios"
 			x: -6.0d
 			y: 6.0d
 		}
@@ -2219,7 +2219,7 @@
 				"40FB62E7F03ECC79"
 			]
 			id: "386E055582494003"
-			subtitle: "To 4x your ores you first melt it into a liquid and then put it in the condenser to get ore chunks. After that you just do the same stuff you did for 3x."
+			subtitle: "Para multiplicar seus minérios por 4, primeiro você os funde em um líquido e então os coloca no condensador para obter pedaços de minério. Depois disso, basta fazer as mesmas etapas que você fez para multiplicar por 3."
 			tasks: [
 				{
 					id: "1C11ED00265719E1"
@@ -2259,7 +2259,7 @@
 							]
 						}
 					}
-					title: "Any Ore Chunk"
+					title: "Qualquer Pedaço de Minério"
 					type: "item"
 				}
 				{
@@ -2300,11 +2300,11 @@
 							]
 						}
 					}
-					title: "Any Molten Bucket of Molten Metal"
+					title: "Qualquer Balde de Metal Derretido"
 					type: "item"
 				}
 			]
-			title: "4x Ores"
+			title: "4x Minérios"
 			x: -5.5d
 			y: 4.5d
 		}
@@ -2316,7 +2316,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The base for all enhancers."
+			subtitle: "A base para todos os aprimoradores."
 			tasks: [{
 				id: "4950AD9878049B7F"
 				item: "indrev:empty_enhancer"
@@ -2333,7 +2333,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Increases the LF capacity of a machine by 25k LF per upgrade."
+			subtitle: "Aumenta a capacidade de LF de uma máquina em 25 mil LF por aprimoramento."
 			tasks: [{
 				id: "7E21A3FB2E9D8F4C"
 				item: "indrev:buffer_enhancer"
@@ -2414,7 +2414,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A block that allows you to charge the items in your hand and your armor when standing on it. Connect power to the bottom of the block."
+			subtitle: "Um bloco que permite carregar os itens em sua mão e sua armadura quando você está em cima dele. Conecte energia à parte inferior do bloco."
 			tasks: [{
 				id: "60FE57C7D20CB98F"
 				item: "indrev:charge_pad_mk4"
@@ -2431,7 +2431,7 @@
 				type: "xp"
 				xp: 75
 			}]
-			subtitle: "A machine to create biomass for the biomass generator."
+			subtitle: "Uma máquina para criar biomassa para o gerador de biomassa."
 			tasks: [{
 				id: "4EC7BE99AB922C68"
 				item: "indrev:recycler_mk2"
@@ -2441,5 +2441,6 @@
 			y: -3.0d
 		}
 	]
-	title: " &bIndustrial Revolution"
+	title: " &bRevolução Industrial"
 }
+

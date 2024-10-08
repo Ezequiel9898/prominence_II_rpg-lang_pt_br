@@ -27,7 +27,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&6&lSimply Swords&r oferece mais de &a&l15&r tipos de armas para o jogador utilizar."
+				""
+				"Ele também possui o conjunto exclusivo de recursos de &b&n&lPoderes Rúnicos&r, que podem ser atribuídos às armas através de &n&bsoquetes&r!"
 				""
 				"&8Português"
 			]
@@ -59,11 +61,11 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "One of Many Sockets!"
+			subtitle: "Um dos Muitos Soquetes!"
 			tasks: [
 				{
 					id: "6461B5E43F7DF63E"
-					title: "&d&lSimply Swords!"
+					title: "&d&lSimplesmente Espadas!"
 					type: "checkmark"
 				}
 				{
@@ -84,7 +86,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&c&lRemanescentes Potencializados&r são criados derretendo armas únicas."
+				""
+				"Eles são usados na criação de &9&lGemas Runicidas&r e &6&lGemas do Nether Fundido&r."
 				""
 				"&8Português"
 			]
@@ -107,7 +111,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A Pain to Make..."
+			subtitle: "Um Trabalho para Fazer..."
 			tasks: [{
 				id: "5DF612576542C997"
 				item: "simplyswords:empowered_remnant"
@@ -125,7 +129,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Para fazê-lo, combine uma &bTableta Rúnica&r com um &cRemanescente Potencializado&r em uma Mesa de Ferraria."
+				""
+				"Clique para identificar qual poder você obteve."
 				""
 				"&8Português"
 			]
@@ -148,7 +154,7 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Made with &klol&r"
+			subtitle: "Feito com &klol&r"
 			tasks: [{
 				id: "5C78E6FA3E4F93CB"
 				item: {
@@ -170,7 +176,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Para fazer isso, combine um &cRemanescente Potencializado&r com um &6Lingote de Netherita&r em uma Mesa de Ferraria."
+				""
+				"Clique para identificar qual poder você obteve."
 				""
 				"&8Português"
 			]
@@ -193,7 +201,7 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Made with Ash."
+			subtitle: "Feito com Cinzas."
 			tasks: [{
 				id: "1F673D38D2BBDA24"
 				item: {
@@ -213,7 +221,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Este será o primeiro passo para &bdescobrir soquetes&r e &9poderes rúnicos&r!"
 				""
 				"&8Português"
 				]
@@ -223,7 +231,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Unique Indeed."
+			subtitle: "Verdadeiramente Único."
 			tasks: [{
 				id: "0D8720163BD20211"
 				item: {
@@ -233,7 +241,7 @@
 						value: "simplyswords:uniques"
 					}
 				}
-				title: "Obtain a &6Unique&r Weapon."
+				title: "Obtenha uma Arma &6Única&r."
 				type: "item"
 			}]
 			x: -10.0d
@@ -251,7 +259,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"A evolução final da &b&lLâmina do Lich Adormecido&r que você recebeu."
+				""
+				"Suga &balmas&r e fornece &eabsorção&r. Passe o cursor para ler mais informações."
 				""
 				"&8Português"
 			]
@@ -274,7 +284,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A Horrible Fate."
+			subtitle: "Um Destino Horrível."
 			tasks: [{
 				id: "259CEEA1DEF460EC"
 				item: {
@@ -307,13 +317,13 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Collect the Rest of the Uniques!"
+			subtitle: "Coletar o Restante das Únicas!"
 			tasks: [{
 				id: "673BEC88D5083E14"
-				title: "Collect Them All!"
+				title: "Colete Todos Eles!"
 				type: "checkmark"
 			}]
-			title: "&l&bRunic Overload..."
+			title: "&l&Sobrecarga Rúnica..."
 			x: -10.0d
 			y: -6.5d
 		}
@@ -350,7 +360,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Burning Hot."
+			subtitle: "Queimando Quente."
 			tasks: [
 				{
 					id: "25E1716F6BED844C"
@@ -386,7 +396,7 @@
 					type: "item"
 				}
 			]
-			title: "&6&n&lFirey Depths..."
+			title: "&6&n&lProfundezas Flamejantes..."
 			x: -11.5d
 			y: -7.5d
 		}
@@ -412,7 +422,7 @@
 					xp_levels: 10
 				}
 			]
-			subtitle: "Don't Doze Off!"
+			subtitle: "Não Cochile!"
 			tasks: [
 				{
 					id: "40DF72334515BC94"
@@ -459,7 +469,7 @@
 					type: "item"
 				}
 			]
-			title: "&n&b&lSoulscapade!"
+			title: "&n&b&lCaminho das Almas!"
 			x: -8.5d
 			y: -7.5d
 		}
@@ -485,7 +495,7 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Sharp and Cold to the Touch!"
+			subtitle: "Afiado e Frio ao Toque!"
 			tasks: [
 				{
 					id: "160CA89905A2A539"
@@ -521,7 +531,7 @@
 					type: "item"
 				}
 			]
-			title: "&d&n&lCrystalline Thrust."
+			title: "&d&n&lInvestida Cristalina."
 			x: -11.5d
 			y: -5.5d
 		}
@@ -533,7 +543,7 @@
 				item: "simplyswords:empowered_remnant"
 				type: "item"
 			}]
-			subtitle: "Dormant Power Lies Beneath..."
+			subtitle: "O Poder Adormecido Repousa Abaixo..."
 			tasks: [{
 				id: "0F8DD51E27AD3B4A"
 				item: {
@@ -604,7 +614,7 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Tainted and Twisted."
+			subtitle: "Contaminado e Torcido"
 			tasks: [{
 				id: "7B79D2A0339B4CFC"
 				item: {
@@ -644,7 +654,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Pure Light."
+			subtitle: "Pura Luz."
 			tasks: [{
 				id: "1CECDA302A1F41AE"
 				item: {
@@ -685,7 +695,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Death Awaits."
+			subtitle: "A Morte Aguarda"
 			tasks: [{
 				id: "31C29D8D28776CF2"
 				item: {
@@ -723,7 +733,7 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Quite the Shock."
+			subtitle: "Bastante Chocante"
 			tasks: [
 				{
 					id: "7732EAA92E6455BA"
@@ -759,7 +769,7 @@
 					type: "item"
 				}
 			]
-			title: "&n&b&lHigh Potential!"
+			title: "&n&b&lAlto Potencial!"
 			x: -8.5d
 			y: -5.5d
 		}
@@ -789,7 +799,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A Magical STING!"
+			subtitle: "Uma Picada Mágica!"
 			tasks: [{
 				id: "068033145A55BB5F"
 				item: {
@@ -830,7 +840,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Smells Awful in the Heat."
+			subtitle: "Cheira terrível no calor."
 			tasks: [{
 				id: "4B5E527B4C808313"
 				item: {
@@ -846,5 +856,6 @@
 			y: -6.5d
 		}
 	]
-	title: " &eGear: &7Simply Swords"
+	title: " &eGear: &6Simply Swords"
 }
+

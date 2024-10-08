@@ -245,15 +245,15 @@
 				""
 				"&7&oThou may find the Gauntlet locked within a monolithic prison. Shatter its eye, and thou shalt unleash the now corrupted beeing."
 				""
-				"&8English"
+				"&8Inglês"
 				"{@pagebreak}"
 				"&eNivel Recomendado: 15"
 				""
-				"&7&oEl Guantelete, una vez el vigilante y primer heraldo del Nether, ahora ha caído por el oscuro abrazo del Vacío. Esclavizado como uno de sus heraldos, amenaza con la destrucción de su propio reino, el Nether."
+				"&7&oO Gauntlet, outrora o vigilante e primeiro arauto do Nether, agora caiu ao abraço sombrio do Vazio. Escravizado como um dos arautos do Vazio, agora ameaça destruir seu próprio reino, o Nether."
 				""
-				"&7&oPuedes encontrar el Guantelete encerrado dentro de una prisión monolítica. Rompe su ojo y desatarás a la bestia ahora corrompida."
+				"&7&oVocê pode encontrar O Gauntlet trancado dentro de um monolíto. Quebre seu olho, e você libertará o ser agora corrompido."
 				""
-				"&8Español"
+				"&8Português"
 			]
 			id: "1B76F8D3B54F3FE6"
 			rewards: [
@@ -281,7 +281,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "bosses_of_mass_destruction:gauntlet"
 				icon: {
@@ -292,11 +292,11 @@
 					}
 				}
 				id: "0F843C913D775125"
-				title: "Kill the Nether Gauntlet"
+				title: "Mate o Nether Gauntlet"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&cGauntlet, First Herald of the Nether"
+			title: "&cGauntlet, O Primeiro Arauto do Nether"
 			x: -13.5d
 			y: 0.5d
 		}
@@ -314,7 +314,23 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eNivel Recomendado: 10"
+				""
+				"&7&oLas almas de los antiguos reyes del Reino de Ly'rell, quienes han fallecido hace mucho tiempo, han sido resucitadas y corruptas por el Vacío, formando un gran monstruo ahora conocido como el Liche Nocturno."
+				""
+				"&7&oEn los biomas más fríos, en la cima de los restos de una gran torre rota, yacen ellos atrapados."
+				""
+				"&7&oPara encontrar esta estructura, usa las Estrellas de Alma, caídas de criaturas no muertas, que te guiarán hasta la torre."
+				""
+				"&8Español"
+				"{@pagebreak}"
+				"&eNivel Recomendado: 10"
+				""
+				"&7&oAs almas dos antigos reis do Reino de Ly'rell, a muito desfalecidos, foram ressuscitadas e corrompidas pelo Vazio, agora conhecidas como um único monstro chamado o Lich Noturno."
+				""
+				"&7&oO Lich Noturno habita na superfície do Overworld. Procure-o nos biomas mais frios, dentro dos restos de uma torre quebrada."
+				""
+				"&7&oPara encontrar esta estrutura, use Estrelas das Almas que caem das criaturas mortas-vivas, elas o guiarão até a torre."
 				""
 				"&8Português"
 			]
@@ -347,18 +363,18 @@
 						}
 					}
 					id: "6B577BDBE2FCAB16"
-					title: "&9Defeat the Night Lich"
+					title: "&9Derrote o Lich Noturno"
 					type: "advancement"
 				}
 				{
 					count: 4L
 					id: "3B40E2130DDD7AD3"
 					item: "bosses_of_mass_destruction:soul_star"
-					title: "Obtain and use at least 4 Soul Stars"
+					title: "Obtenha e use pelo menos 4 Estrelas das Almas"
 					type: "item"
 				}
 			]
-			title: "&9The Night Lich, King of All Kings"
+			title: "&9O Lich Noturno, Rei de todos os Reis"
 			x: -12.0d
 			y: -1.5d
 		}
@@ -374,7 +390,22 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eNivel Recomendado: 25"
+				""
+				"&7El Gólem de Piedra Negra, el último Heraldo del Nether, es un formidable golem que puede ser invocado a través de su propio ritual dentro del Nether."
+				""
+				"&7Construye una plataforma de 9x9 utilizando cualquier tipo de Piedra Negra, con soportes de Piedra Negra Pulida Cincelada en cada esquina."
+				"&7Coloca un fragmento de piedra negra dorada sobre cada soporte para comenzar el ritual."
+				""
+				"&8Español"
+				""
+				"{@pagebreak}"
+				"&eNivel Recomendado: 25"
+				""
+				"&7O Golem de Pedra Negra, o último Arauto do Nether, é uma criatura formidável que pode ser invocada através de seu ritual dentro do Nether."
+				""
+				"&7Construa uma plataforma de 9x9 de qualquer tipo de Pedra Negra, com Suportes de Pedra Negra Polida Talhada em cada canto."
+				"&7Coloque um fragmento de pedra negra dourada sobre cada suporte para iniciar o ritual."
 				""
 				"&8Português"
 			]
@@ -393,7 +424,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "adventurez:blackstone_golem"
 				icon: {
@@ -404,11 +435,11 @@
 					}
 				}
 				id: "5663873E5843130D"
-				title: "Kill the Blackstone Golem"
+				title: "Mate o Blackstone Golem"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&cThe Blackstone Golem"
+			title: "&cO Blackstone Golem"
 			x: -11.979761904761915d
 			y: 2.0059523809523796d
 		}
@@ -423,7 +454,20 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eNivel Recomendado: 35"
+				""
+				"&7Los Restos del Viejo Campeón se encuentran en su tumba, oculta bajo tierra en el Supramundo. Esta figura esquelética, que alguna vez fue un gran campeón, ha sido poseída por otro ser."
+				""
+				"&8Sus ataques giran en torno a si está protegido, alternando entre posturas defensivas y ataques."
+				""
+				"&8Español"
+				""
+				"{@pagebreak}"
+				"&eNivel Recomendado: 35"
+				""
+				"&7Os Restos do Velho Campeão podem ser encontrados em sua sepultura, escondida no subterrâneo do Overworld. Esta figura esqueletóide, que foi um grande campeão, agora foi possuído por outro ser."
+				""
+				"&8Seus ataques se dão em torno de se ele está se protegendo, alternando entre as posturas de defesa e de ataque."
 				""
 				"&8Português"
 			]
@@ -448,7 +492,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "soulsweapons:draugr_boss"
 				icon: {
@@ -463,7 +507,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			title: "&9The Remains of an Old Champion"
+			title: "&9Os Restos de um Antigo Campião"
 			x: -7.5d
 			y: 2.0d
 		}
@@ -478,7 +522,20 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eNivel Recomendado: 40"
+				""
+				"&7Obsidilith, el monolito viviente, es el pilar de la influencia del vacío en El End."
+				""
+				"&7Ubicado en su propia plataforma, una estructura gigantesca y extraña, que se encuentra flotando en El End. Para invocarlo, usa un ojo de ender en la cima de su plataforma."
+				""
+				"&8Español"
+				""
+				"{@pagebreak}"
+				"&eNivel Recomendado: 40"
+				""
+				"&7Obsidilith, o monólito vivo, é o pilar da influência do vazio no End."
+				""
+				"&7Localizado em sua própria plataforma, uma enorme estrutura ancestral que pode ser encontrada flutuando no End. Para fazê-la aparecer, use um Olho do Fim no topo de sua plataforma."
 				""
 				"&8Português"
 			]
@@ -507,7 +564,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "bosses_of_mass_destruction:obsidilith"
 				icon: {
@@ -518,11 +575,11 @@
 					}
 				}
 				id: "722BFEAA5498B1FC"
-				title: "Kill the &5Obsidilith"
+				title: "Mate o &5Obsidilith"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&dPillar of the Void, Obsidilith"
+			title: "&dPilar do Vazio,Obsidilith"
 			x: -7.5d
 			y: 0.0d
 		}
@@ -537,7 +594,20 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eNivel Recomendado: 50"
+				""
+				"&7La esencia pura del End, el \"Ender\", ha sido corrompida por la presencia del vacío. El Ojo del Ender debe ser derrotado para restablecer el equilibrio en la ahora desolada dimensión."
+				""
+				"&7El Ojo solo puede ser invocado en un Santuario del Ojo. El Santuario se construye sobre una plataforma de obsidiana de 5x5 y una capa central de obsidiana llorosa de 3x3. En cada borde se debe colocar una barra de ender. En la cima del santuario, deberás tú sacrificar el huevo de dragón. El Ojo solo puede ser invocado en la dimensión del End."
+				""
+				"&8Español"
+				""
+				"{@pagebreak}"
+				"&eNivel Recomendado: 50"
+				""
+				"&7A essência bruta do fim, o \"Ender\", foi corrompida pela presença do vazio. O Olho do Fim precisa ser derrotado para restabelecer o equilíbrio na dimensão agora desolada."
+				""
+				"&7O Olho só pode ser invocado em um Santuário do Olho. O Santuário é construído com uma plataforma de obsidiana de base 5×5 e uma camada de obsidiana chorona de 3×3 centralizada. Em todas as bordas, uma Lâmpadas do End deve ser colocada. No topo do santuário, você deve sacrificar o ovo do dragão. O Olho só pode ser chamado na dimensão do End."
 				""
 				"&8Português"
 			]
@@ -593,16 +663,16 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "adventurez:the_eye"
 				icon: "minecraft:ender_eye"
 				id: "5A3673477EA57892"
-				title: "Kill The Eye"
+				title: "Mate O Olho"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&dEssence of Ender, The Eye"
+			title: "&dEssencia do Ender, O Olho"
 			x: -3.668367346938794d
 			y: 0.030612244897938012d
 		}
@@ -650,7 +720,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "minecells:conjunctivius"
 				icon: {
@@ -661,11 +731,11 @@
 					}
 				}
 				id: "009152F0C0BE39FA"
-				title: "Defeat Conjunctivius"
+				title: "Derrote Conjunctivius"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&9Conjuctivius, Watcher of the Prison"
+			title: "&8&lPrison&f&l: &9&lConjuctivius"
 			x: -9.5d
 			y: 3.0d
 		}
@@ -712,7 +782,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "minecraft:ender_dragon"
 				icon: {
@@ -723,11 +793,11 @@
 					}
 				}
 				id: "028D2778B20852AA"
-				title: "Kill the Ender Dragon"
+				title: "Mate O Dragão do End"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&dJean, The Fallen Dragon"
+			title: "&e&lEnd&f&l: &9&lO Dragão do End"
 			x: -9.5d
 			y: 0.5d
 		}
@@ -739,7 +809,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7&oNas profundezas de &6Vaaz&r, o vulcão onde tudo se originou, vive &cS'kellak&r, o criador de todas as coisas."
+				""
+				"Ele mantém o &eequilíbrio&r em todas as dimensões e travou inúmeras batalhas para evitar a &cdestruição dos reinos&r."
 				""
 				"&8Português"
 			]
@@ -753,13 +825,13 @@
 			id: "343EF47C470616FF"
 			shape: "square"
 			size: 1.5d
-			subtitle: "&8[Click to read lore piece]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "0C6DB9DA67E14C1A"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "The Beginning of Creation"
+			title: "O Começo da Criação"
 			x: -12.0d
 			y: -8.5d
 		}
@@ -773,7 +845,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Mas agora, depois de &eeras de batalhas&r, &cS'kellak&r está mais fraco do que nunca. E uma nova ameaça se aproxima, uma força faminta para acabar com o mundo, conhecida como &dThe Void&r."
+				""
+				"&cS'kellak&r conteve a invasão do vazio por um longo tempo, mas agora com ele em seu momento mais fraco, eles planejam uma invasão em &ctodas as dimensões&r, corrompendo o que antes eram criaturas pacíficas e transformando-as em &daberrações mortais&r."
 				""
 				"&8Português"
 			]
@@ -782,13 +856,13 @@
 			id: "7AE1542456418BCD"
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore piece]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "64C1384346BEE406"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "The Shadow's Surge"
+			title: "Uma nova ameaça"
 			x: -12.0d
 			y: -6.0d
 		}
@@ -802,7 +876,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&cS'kellak&r encontrou uma fonte de desequilíbrio nos reinos. &aTodas as dimensões&r foram afetadas pela presença do &dvoid&r."
+				""
+				"O que antes eram criaturas pacíficas se transformaram em &daberrações poderosas&r por sua corrupção. &cO destino dos reinos depende de você."
 				""
 				"&8Português"
 			]
@@ -811,13 +887,13 @@
 			id: "7CBAFED315D614C3"
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "&8[Click to read more]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "444189B4E513644B"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&6&lChapter I: &eThe Void's Invasion"
+			title: "&6&lCapitulo 1: &eA invasão do Void"
 			x: -12.0d
 			y: -3.5d
 		}
@@ -833,7 +909,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Com a derrota das &4Ameaças Dimensionais&r e a restauração do equilíbrio do reino, &cS'kellak&r, a chama eterna, falou diretamente com o campeão."
+				""
+				"\"&3Em reconhecimento ao seu valor e dedicação&r,\" &e&o A voz de S'kellak ressoou,&r \"&3Eu concedo a você um fragmento de minha essência, o&r &cNúcleo Fundido&r.\""
+				""
+				"&6Este presente&r, iluminado pela presença ígnea de &cS'kellak&r, significou tanto o triunfo do herói quanto uma promessa de proteção contínua para seu mundo."
 				""
 				"&8Português"
 			]
@@ -849,13 +929,13 @@
 			}]
 			shape: "diamond"
 			size: 1.0d
-			subtitle: "&8[Click to read lore]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "388209961991648D"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&eS'kellak's Reward"
+			title: "&eRecompensa de S'kellak"
 			x: -3.6479591836734855d
 			y: -1.5408163265306314d
 		}
@@ -869,7 +949,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eA sombra do Void foi derrotada&7, mas sua essência escapou do vazio e formou uma fenda no End. Algo está vindo."
+				""
+				"&7No fundo do End, vozes estranhas agora estão sussurrando &8&o\"O Rei de Amarelo está próximo\"&r."
 				""
 				"&8Português"
 			]
@@ -883,13 +965,13 @@
 			}]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "&8[Click to read lore]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "25E42BD5FCDFACD1"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&6&lChapter II:&e A New End"
+			title: "&6&lCapitulo 2:&e Um novo End"
 			x: -2.4976190476190467d
 			y: 3.377380952380989d
 		}
@@ -904,7 +986,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&eA invasão foi interrompida, por enquanto.&r"
+				""
+				"\"&3Devemos nos preparar para o que está por vir — uma nova forma de magia com a qual não estamos familiarizados, conhecida como &9a corrupção&3. Vou embarcar em uma busca para descobrir um novo material que possa nos oferecer uma chance de lutar contra ele.&r"
+				""
+				"&3Quanto a você, aquele &cnúcleo derretido&3 nada mais é do que um recipiente. Você precisará das &eessências dos seres antigos&3. Uma vez aproveitadas, essas essências irão capacitá-lo para forjar os artefatos formidáveis. É sua missão obtê-los.&r\" &e&oS'kellak explicou."
 				""
 				"&8Português"
 			]
@@ -924,13 +1010,13 @@
 			}]
 			shape: "diamond"
 			size: 1.25d
-			subtitle: "&8[Click to read lore]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "308FF619B83911E7"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&eAn Unknown Power"
+			title: "&eUm poder desconhecido"
 			x: -3.681122448979579d
 			y: 4.250000000000007d
 		}
@@ -945,7 +1031,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Essência do &cDecaying King&7, que pode ser encontrado no &cNether&r."
+				""
+				"&8Ele foi amaldiçoado por aqueles a quem ele pensava serem seus aliados. Seu reino foi sitiado e caiu sob o mar de lava, e o rei só pôde assistir impotente enquanto sua mente e corpo definhavam lentamente."
 				""
 				"&8Português"
 			]
@@ -965,16 +1053,16 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "&7Full of hatred and corruption."
+			subtitle: "&7Cheio de ódio e corrupção."
 			tasks: [{
 				entity: "soulsweapons:accursed_lord_boss"
 				icon: "bewitchment:demon_heart"
 				id: "277B6B1BC747DB9D"
-				title: "&7Defeat the &cDecaying King"
+				title: "&7Derrote o &cDecaying King"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&cDemonic Essence"
+			title: "&cEssência Demoníaca"
 			x: -5.216836734693885d
 			y: 3.2857142857142847d
 		}
@@ -987,7 +1075,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7O &6Old Champion's Remains&7 podem ser encontrados no Túmulo do Antigo Campeão, esta figura esquelética, que já foi um grande campeão, agora foi possuída por outro ser."
+				""
+				"&8Seus ataques giram em torno se ele estiver protegido, alternando entre as posturas de proteção com os ataques."
 				""
 				"&8Português"
 			]
@@ -1007,16 +1097,16 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "&7From who was once a champion"
+			subtitle: "&7De quem já foi campeão"
 			tasks: [{
 				entity: "soulsweapons:moonknight"
 				icon: "moretotems:skeletal_totem_of_undying"
 				id: "433CB31E80566625"
-				title: "Defeat the &dFallen Icon"
+				title: "Derrote o &6Old Champion's Remains"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&6Essence of Glory"
+			title: "&6Essência da Glória"
 			x: -5.609693877551017d
 			y: 4.214285714285722d
 		}
@@ -1051,16 +1141,16 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "&7From the spirit of a great leader"
+			subtitle: "&7Do espírito de um grande líder"
 			tasks: [{
 				entity: "aquamirae:captain_cornelia"
 				icon: "mythicupgrades:aquamarine"
 				id: "0A7FC00545E75EB6"
-				title: "&7Defeat the &dGhost of Captain Cornelia"
+				title: "&7Derrote o &dGhost of Captain Cornelia"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&bEssence of Wrath"
+			title: "&bEssência da Ira"
 			x: -5.216836734693871d
 			y: 5.142857142857146d
 		}
@@ -1071,7 +1161,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7A semente primitiva da criação, o &9Abismo Primordial&7 tem a maior influência dos horrores cósmicos. É uma terra corrompida com seu próprio tipo de vida corrompida, conhecida como &9aberrações&7."
 				""
 				"&8Português"
 			]
@@ -1092,15 +1182,15 @@
 			]
 			shape: "octagon"
 			size: 1.2d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				biome: "eldritch_end:primordial_abyss"
 				icon: "eldritch_end:abysmal_fronds"
 				id: "5849FCE25177F4E9"
-				title: "Visit the Primordial Abyss"
+				title: "Visite o Abismo Primordial"
 				type: "biome"
 			}]
-			title: "&9The Primordial Abyss"
+			title: "&9O Abismo Primordial"
 			x: 0.24642857142856656d
 			y: 3.9452380952381034d
 		}
@@ -1111,7 +1201,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Os desertos hasturianos são uma terra desolada cheia de espinhos conhecidos como &eSpire Spikes&7. Alguns desses espinhos possuem um metal desconhecido abençoado por Hastur. Poderia ser a melhor forma de combater a corrupção."
 				""
 				"&8Português"
 			]
@@ -1132,15 +1222,15 @@
 			]
 			shape: "octagon"
 			size: 1.2d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				biome: "minecraft:plains"
 				icon: "eldritch_end:hasturian_moss"
 				id: "3C7ECD7B595CB560"
-				title: "Visit the Hasturian Wastes"
+				title: "Visite os Hasturian Wastes"
 				type: "biome"
 			}]
-			title: "&6The Hasturian Wastes"
+			title: "&6Os Hasturian Wastes"
 			x: 0.2617346938775569d
 			y: 5.034523809523826d
 		}
@@ -1160,20 +1250,20 @@
 			id: "5472D472A72B4DB9"
 			shape: "diamond"
 			size: 1.25d
-			subtitle: "&8[Click to read lore]"
+			subtitle: "&8[Clique para ler a história]"
 			tasks: [{
 				id: "07CED6DB48113EC0"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&eVoid's Influence"
+			title: "&eInfluência do Void"
 			x: -1.073979591836732d
 			y: 4.250000000000007d
 		}
 		{
 			dependencies: ["601BDBA6DF073CB0"]
 			description: [
-				"&eThe Aberrations.&7 They are horrific creatures that live in the Primordial Abyss. Be careful with them, when they hit you, they will apply &9corruption&7 to you, which is stackable. You don't want them to hit you multiple times."
+				"&eAs Aberrações.&7 Eles são criaturas horríveis que vivem no Abismo Primordial. Tenha cuidado com eles, quando eles atingirem você, eles aplicarão &9corruption&7 em você, o que é acumulável. Você não quer que eles batam em você várias vezes."
 				""
 				"&8Inglês"
 				"{@pagebreak}"
@@ -1201,16 +1291,16 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "eldritch_end:aberration"
 				icon: "eldritch_end:aberration_limb"
 				id: "5320BD9556152B9B"
-				title: "&8Purge the aberrations"
+				title: "&8Purgue as aberrações"
 				type: "kill"
 				value: 50L
 			}]
-			title: "&ePurging the Aberrations"
+			title: "&ePurgando as Aberrações"
 			x: 1.5474489795918345d
 			y: 3.932482993197297d
 		}
@@ -1221,7 +1311,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7O metal dos Spire Spikes, &2Etyr&7, tem um atributo único, é &2resistente à corrupção&7. Poderíamos usar esse metal para evitar que os horrores cósmicos corrompam o End."
 				""
 				"&8Português"
 			]
@@ -1240,7 +1330,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler as indicações]"
 			tasks: [{
 				id: "3E1F65C1ABAE9FCB"
 				item: "eldritch_end:etyr_ingot"
@@ -1259,7 +1349,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7Vamos começar os preparativos para a invocação."
+				""
+				"&7Primeiro, precisaremos de um pedestal de invocação."
 				""
 				"&8Português"
 			]
@@ -1278,13 +1370,13 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				id: "09F7148E11D7AB38"
 				item: "archon:summoning_pedestal"
 				type: "item"
 			}]
-			title: "&eImprisonment of the Void"
+			title: "&eAprisionamento do Vazio"
 			x: -4.0d
 			y: 8.0d
 		}
@@ -1295,7 +1387,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&3\"Não há nada mais durável do que pedra-de-lava para isso, forjada diretamente das profundezas de Vaaz. Isso deve ser suficiente para aprisionar sua essência, mas receio que não sei o que você poderia desencadear no processo\" &e&oSays S'kellak"
 				""
 				"&8Português"
 			]
@@ -1307,7 +1399,7 @@
 				type: "item"
 			}]
 			shape: "octagon"
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				id: "28BE3CCC9574A4ED"
 				title: "Continue"
@@ -1324,7 +1416,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&3\"Está esperando por você. Leve esse pedestal para o fim e coloque um pouco da essência do fim, uma gema do fim, uma pérola do ender e um cristal do fim. Esteja preparado, e não se esqueça de aprisioná-lo. Você tem minha benção, criança.\" &e&oS'kellak diz"
 				""
 				"&8Português"
 			]
@@ -1342,7 +1434,7 @@
 				}
 			]
 			shape: "octagon"
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [
 				{
 					id: "1920BD6A823B9D7E"
@@ -1365,7 +1457,7 @@
 					type: "item"
 				}
 			]
-			title: "&eAn Uncanny Ritual"
+			title: "&eUm Ritual Misterioso"
 			x: -9.5d
 			y: 9.0d
 		}
@@ -1378,7 +1470,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&7No fundo da fenda do fim, uma entidade do tamanho de um humano pode ser vista lançando algum tipo de feitiço. Seu ritual será capaz de interrompê-lo e forçá-lo a vir até você."
+				""
+				"&dNull &7é um chefe poderoso e ágil, ele teleportará toda vez que você o atingir e convocará lacaios para atacá-lo. Certifique-se de nunca parar de atacá-lo, senão ele se curará."
 				""
 				"&8Português"
 			]
@@ -1399,7 +1493,7 @@
 						}
 					}
 					id: "0BCF26135D1E3843"
-					title: "&eUnlock Mythic Challenges"
+					title: "&eDestrave Desafios Míticos"
 					type: "advancement"
 				}
 				{
@@ -1415,16 +1509,16 @@
 			]
 			shape: "pentagon"
 			size: 1.45d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				entity: "archon:null"
 				icon: "powah:ender_core"
 				id: "1A0B9A7E5B466268"
-				title: "&dSummon and Defeat Null"
+				title: "&d&lInvocar e Derrotar Null"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&eThe Void's Essence: &dNull"
+			title: "&eA Essência do Vazio: &dNull"
 			x: -11.6d
 			y: 7.975d
 		}
@@ -1439,7 +1533,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&3\"Isso ainda não acabou. Aquilo não passava de uma sombra, e agora com este abismo, temo que não seremos capazes de fazer isso.\""
+				""
+				"&r&3A menos... usemos o próprio poder deles contra eles. Poderíamos aprisionar um dos arautos do vazio dentro de um recipiente, e com isso, reunir seu poder. Mas primeiro, faça-se uma arma melhor, eu farei o recipiente.\" &e&o Diz S'kellak."
+				""
+				"&6Siga a linha de missões &cForja de S'kellak&6 para mais informações sobre forjar artefatos."
 				""
 				"&8Português"
 			]
@@ -1463,7 +1561,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				id: "27B44E04748B6582"
 				item: {
@@ -1473,10 +1571,10 @@
 						value: "prominent:artifacts"
 					}
 				}
-				title: "&6Forge your Artifact"
+				title: "&6Forjar seu Artefato"
 				type: "item"
 			}]
-			title: "&eThe End's Rift"
+			title: "&eO Abismo do Fim"
 			x: -2.5d
 			y: 6.5d
 		}
@@ -1489,7 +1587,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Antes do aprisionamento de Null, ele lançou o feitiço com sucesso. Uma grande criatura monstruosa surgiu do abismo."
+				""
+				"O Ser sem Rosto está aqui, outro dos arautos do vazio. É a raiz da corrupção."
 				""
 				"&8Português"
 			]
@@ -1498,13 +1598,13 @@
 			id: "245E77F81FB78B58"
 			shape: "diamond"
 			size: 1.25d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				id: "55B2EEFDAFAC3D0C"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&6&lChapter III: &eThe Face of The Void"
+			title: "&6&lCapitulo III: &eA Face do Vazio"
 			x: -14.529931972789107d
 			y: 8.483333333333348d
 		}
@@ -1523,7 +1623,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"&dDesafios Míticos&7 são encontros de fim de jogo desbloqueados após derrotar Null. Eles são pesadelos infundidos pelo vazio, criados pelo agora libertado ser Sem Rosto."
+				""
+				"&7Cada luta bem-sucedida concederá a você uma ampulheta nova com um nível mais alto. Quanto maior o nível, mais forte é o pesadelo."
+				""
+				"&cMorrendo contra um chefe mítico falhará o desafio e invocará uma nova ampulheta de nível inferior."
+				""
+				"&7Você pode convocá-los com uma &dAmpulheta do Vazio&7. Se você perder sua ampulheta, pode obter uma nova de Null, mas seu nível será 1."
 				""
 				"&8Português"
 			]
@@ -1539,13 +1645,13 @@
 			}
 			id: "78E3D778D84410AE"
 			shape: "diamond"
-			subtitle: "&8[Click to read indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [{
 				id: "44E571FD07C153AC"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&dMythic Challenges"
+			title: "&d&lDesafios Míticos"
 			x: -11.573979591836732d
 			y: 9.392857142857139d
 		}
@@ -1805,5 +1911,6 @@
 			y: 13.678571428571402d
 		}
 	]
-	title: " &d&lVoid's Invasion"
+	title: " &dInvasão do Void"
 }
+

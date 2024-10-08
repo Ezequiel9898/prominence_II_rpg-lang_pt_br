@@ -29,14 +29,14 @@
 			}]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "The portal to the &8Prison &rdimension spawns randomly throughout the &aOverworld&r. If you have, at any point, been in possession of a &bdiamond&r, the portal will already be activated."
+			subtitle: "O portal para a dimensão &8Prisão &raparece aleatoriamente por todo o &aOverworld&r. Se você tiver, em algum momento, possuído um &bdiamante&r, o portal já estará ativado."
 			tasks: [{
 				dimension: "minecells:prison"
 				icon: "graveyard:dark_iron_bars"
 				id: "0E868C4F785876CA"
 				type: "dimension"
 			}]
-			title: "&8Enter the Prison"
+			title: "&8Entrar na Prisão"
 			x: 0.0d
 			y: 1.5d
 		}
@@ -66,7 +66,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "Spawns in &1The Lair&r, which can be found underground in the &8Prison &rdimension. To deal damage to the &dConjunctivius&r, you must first kill the tentacles."
+			subtitle: "Aparece em &1The Lair&r, que pode ser encontrado subterrâneo na dimensão &8Prisão &r. Para causar dano ao &dConjunctivius&r, você deve primeiro matar os tentáculos."
 			tasks: [{
 				entity: "minecells:conjunctivius"
 				icon: {
@@ -77,11 +77,11 @@
 					}
 				}
 				id: "60BB85E2901C9AFB"
-				title: "Defeat Conjunctivius"
+				title: "Derrotar o Conjunctivius"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&lBossfight: &d&lConjunctivius"
+			title: "&lBatalha de Chefes: &d&lConjunctivius"
 			x: -2.25d
 			y: 1.5d
 		}
@@ -90,22 +90,22 @@
 			id: "3C8D91F2793CECAD"
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "Going through the elevator found in the last floor of the prision will get you to the Promenade.\\n \\n&eIt is suggested to bring a waystone or a pocket wormhole with you to come back to your home."
+			subtitle: "Passar pelo elevador encontrado no último andar da prisão levará você ao Promenade.\n \n&eÉ sugerido que você leve uma pedra de retorno com você para voltar à sua casa."
 			tasks: [{
 				dimension: "minecells:promenade"
 				icon: "minecells:promenade_torch"
 				id: "3D4982DEF40E26A6"
-				title: "Visit the Promenade"
+				title: "Visitar o Promenade"
 				type: "dimension"
 			}]
-			title: "&7Enter the &cPromenade"
+			title: "&7Entrar no &cPromenade"
 			x: 2.4642857142857153d
 			y: 1.5178571428571388d
 		}
 		{
 			dependencies: ["58E9FDE95BB414C8"]
 			id: "618580FC7F5FFBD0"
-			subtitle: "Cell Crafters allow you to make various melee and ranged weapons for your armory in the Mine Cells."
+			subtitle: "Cell Crafters permitem que você crie várias armas de corpo a corpo e à distância para o seu arsenal do Mine Cells."
 			tasks: [{
 				icon: "minecells:cell_crafter"
 				id: "57DD47C8EC79E9E4"
@@ -122,7 +122,7 @@
 		{
 			dependencies: ["0D23A31DAF3866F4"]
 			id: "58E9FDE95BB414C8"
-			subtitle: "Monster Cells drop from monsters in the &8Prison &rdimension."
+			subtitle: "Monster Cells caem de monstros na dimensão &8Prison &rdimension."
 			tasks: [{
 				id: "5A6C4572411834AA"
 				item: "minecells:monster_cell"
@@ -135,16 +135,17 @@
 		{
 			dependencies: ["58E9FDE95BB414C8"]
 			id: "364E9528AE5F1047"
-			subtitle: "Some weapons that can be made in the Cell Crafter require Cell-Infused Steel to make. Keep this in mind."
+			subtitle: "Algumas armas que podem ser feitas no Cell Crafter requerem Aço Infundido com Células para serem criadas. Tenha isso em mente."
 			tasks: [{
 				id: "492AFFEA634E0376"
 				item: "minecells:cell_infused_steel"
 				type: "item"
 			}]
-			title: "Craft Some &bCell-Infused &rSteel"
+			title: "Crie &rAço &bInfundido com Células"
 			x: 1.0d
 			y: 0.0d
 		}
 	]
-	title: " &7The Prison"
+	title: " &7A Prisão"
 }
+

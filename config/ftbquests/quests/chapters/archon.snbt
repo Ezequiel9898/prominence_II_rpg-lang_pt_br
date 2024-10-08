@@ -30,11 +30,11 @@
 					type: "item"
 				}
 			]
-			subtitle: "Welcome to the world of runes. This is where we make use of runes and mana to create magic spells, weaponry and even armor. Are you ready to learn the world of sorcery and runes?"
+			subtitle: "Bem-vindo ao mundo das runas. Aqui é onde utilizamos runas e mana para criar feitiços mágicos, armas e até mesmo armaduras. Você está pronto para aprender o mundo da feitiçaria e das runas?"
 			tasks: [
 				{
 					id: "4A5671A5B0CD7CD3"
-					title: "Are you ready to become a Sorcerer?"
+					title: "Você está pronto para se tornar um Feiticeiro?"
 					type: "checkmark"
 				}
 				{
@@ -43,7 +43,7 @@
 					type: "item"
 				}
 			]
-			title: "First Magic Steps"
+			title: "Primeiros Passos na Magia"
 			x: 0.0d
 			y: -2.0d
 		}
@@ -55,7 +55,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Fire Gems are found in the depths of the Nether, one must be careful when gathering them when even near lava sources."
+			subtitle: "As Gemas de Fogo são encontradas nas profundezas do Nether, deve-se ter cuidado ao coletá-las mesmo perto de fontes de lava."
 			tasks: [{
 				id: "4A81B9B926A33E09"
 				item: "archon:fire_gem"
@@ -67,7 +67,7 @@
 		{
 			dependencies: ["66AC80AD26AE6447"]
 			id: "6363A885C35A534B"
-			subtitle: "Water Gems are found deep in the seas, one must prepare to dive for long periods of time or risk drowning."
+			subtitle: "As Gemas de Água são encontradas nas profundezas dos mares, deve-se estar preparado para mergulhar por longos períodos de tempo ou correr o risco de se afogar."
 			tasks: [{
 				id: "5C1019658A74F37A"
 				item: "archon:water_gem"
@@ -79,7 +79,7 @@
 		{
 			dependencies: ["62AA08A21BAD0109"]
 			id: "596D88086910FE78"
-			subtitle: "Beneath the depths of the world are Earth Gems, finding them will be no small task as the world underground is huge."
+			subtitle: "Nas profundezas do mundo estão as Gemas da Terra, encontrá-las não será uma tarefa fácil, já que o mundo subterrâneo é imenso."
 			tasks: [{
 				id: "166125A8F31A4AF4"
 				item: "archon:earth_gem"
@@ -91,7 +91,7 @@
 		{
 			dependencies: ["444BFAF1CC19067C"]
 			id: "08939A23C3D3451C"
-			subtitle: "Beyond the skies are Sky Gems found in small clouds, very difficult to obtain unless you have the ability to build up or fly."
+			subtitle: "Além dos céus estão as Gemas do Céu encontradas em pequenas nuvens, muito difíceis de obter a menos que você tenha a habilidade de construir para cima ou voar."
 			tasks: [{
 				id: "5A5C7E62D273A057"
 				item: "archon:sky_gem"
@@ -103,7 +103,7 @@
 		{
 			dependencies: ["74B92B1059A13E09"]
 			id: "01258A1B33747993"
-			subtitle: "Beyond the void lie the End Gems found within End Islands, they will be very difficult to find unless you're determined enough."
+			subtitle: "Além do vazio, estão as Gemas do Fim encontradas dentro das Ilhas do Fim, elas serão muito difíceis de encontrar a menos que você esteja determinado o suficiente."
 			tasks: [{
 				id: "6811A109A2B99E71"
 				item: "archon:end_gem"
@@ -128,7 +128,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You'll need this altar if you wanna trade with a Wizard Villager who will sell you magic runes to use."
+			subtitle: "Você precisará deste altar se quiser negociar com um Aldeão Feiticeiro que venderá runas mágicas para você usar."
 			tasks: [{
 				id: "3D5E38B785675C22"
 				item: "runes:crafting_altar"
@@ -145,7 +145,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This Rune is used around Arcane Magic."
+			subtitle: "Esta runa é usada em torno da Magia Arcana."
 			tasks: [{
 				id: "117A13189352B7B8"
 				item: "runes:arcane_stone"
@@ -162,7 +162,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This Rune is used around Fire Magic."
+			subtitle: "Esta runa é usada em torno da Magia do Fogo."
 			tasks: [{
 				id: "57392B3F4BF2BA2C"
 				item: "runes:fire_stone"
@@ -179,7 +179,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This Rune is used around Frost Magic."
+			subtitle: "Esta runa é usada em torno da Magia de Gelo."
 			tasks: [{
 				id: "558F12C5E1FE953B"
 				item: "runes:frost_stone"
@@ -195,7 +195,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Você também pode segurar o canalizador em sua mão secundária e um bloco do metal escolhido para trabalhar."
 				""
 				"&8Português"
 			]
@@ -213,13 +213,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "The Channeler is a wand that can infuse mana into certain blocks that will create its crafted version or a new magic material. Test out some materials."
+			subtitle: "O Canalizador é uma varinha que pode infundir mana em determinados blocos para criar sua versão fabricada ou um novo material mágico. Teste alguns materiais."
 			tasks: [{
 				id: "1F130DEA61749920"
 				item: "archon:channeler"
 				type: "item"
 			}]
-			title: "Alchemy on a Stick"
+			title: "Alquimia em um Bastão"
 			x: 0.0d
 			y: 1.5d
 		}
@@ -231,14 +231,14 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Spires are tall towers found in forest and mountain biomes that contain certain loot found there. Watch out for leeches!"
+			subtitle: "As Torres são torres altas encontradas em biomas de floresta e montanha que contêm certos itens saqueáveis. Cuidado com as sanguessugas!"
 			tasks: [{
 				id: "22D665001A85F2BD"
 				structure: "archon:spire"
-				title: "Find a Spire"
+				title: "Encontre uma Torre"
 				type: "structure"
 			}]
-			title: "Find a Spire"
+			title: "Encontre uma Torre"
 			x: 4.5d
 			y: 0.0d
 		}
@@ -253,7 +253,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "These Ancient Scrolls are used to help enhance a person's mana by either increasing one's capacity or mana regeneration capability."
+			subtitle: "Esses Pergaminhos Antigos são usados para ajudar a aumentar a mana de uma pessoa, seja aumentando sua capacidade ou sua capacidade de regeneração de mana."
 			tasks: [
 				{
 					id: "320435EC60BCA545"
@@ -271,7 +271,7 @@
 					type: "item"
 				}
 			]
-			title: "Are they made of Papyrus?"
+			title: "Eles são feitos de Papiro?"
 			x: 9.0d
 			y: 0.5d
 		}
@@ -291,20 +291,20 @@
 					type: "item"
 				}
 			]
-			subtitle: "Looks like you figured out how to use the Channeler. Maybe you can do more with this material?"
+			subtitle: "Parece que você descobriu como usar o Canalizador. Talvez você possa fazer mais com este material?"
 			tasks: [{
 				id: "202BB1E0C0815F14"
 				item: "archon:glisteel_ingot"
 				type: "item"
 			}]
-			title: "Sorcerer's Metal"
+			title: "Metal do Feiticeiro"
 			x: 0.0d
 			y: 6.5d
 		}
 		{
 			dependencies: ["4CA7E7DA58B3B6C7"]
 			id: "498575A162B584BA"
-			subtitle: "The Mask of Power boosts mana regeneration to 4 Mana per second while wearing it."
+			subtitle: "A Máscara do Poder aumenta a regeneração de mana para 4 de mana por segundo enquanto você a estiver usando."
 			tasks: [{
 				id: "5398332BD46C3DD3"
 				item: {
@@ -316,7 +316,7 @@
 				}
 				type: "item"
 			}]
-			title: "Sorcerer's Helmet"
+			title: "Elmo do Feiticeiro"
 			x: -1.0d
 			y: 5.5d
 		}
@@ -328,7 +328,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "A Mana Catalyst boosts the mana capacity of all player with an extra 50 Mana with the radius of 16 blocks."
+			subtitle: "Um Catalisador de Mana aumenta a capacidade de mana de todos os jogadores com mais 50 de Mana com um raio de 16 blocos."
 			tasks: [{
 				id: "72B068BE05DD165D"
 				item: "archon:mana_catalyst"
@@ -345,7 +345,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "An upgraded Mana Catalyst that boosts the mana capacity to 100 with a radius of 22 blocks."
+			subtitle: "Um Catalisador de Mana melhorado que aumenta a capacidade de mana para 100 com um raio de 22 blocos."
 			tasks: [{
 				id: "3409F3F1F5E5F4CF"
 				item: "archon:diamond_mana_catalyst"
@@ -362,7 +362,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "A powerful Mana Catalyst that boosts the mana capacity to 200 within the range of 34 blocks."
+			subtitle: "Um poderoso Catalisador de Mana que aumenta a capacidade de mana para 200 dentro do alcance de 34 blocos."
 			tasks: [{
 				id: "1D13EB7516BA9670"
 				item: "archon:netherite_mana_catalyst"
@@ -379,7 +379,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Sword allows the user to launch a small cloud of slowness to nearby targets."
+			subtitle: "A espada permite ao usuário lançar uma pequena nuvem de lentidão para alvos próximos."
 			tasks: [{
 				id: "54BBD82D93AC2563"
 				item: {
@@ -402,7 +402,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Staff allows the user to shoot out balls of water to damage targets."
+			subtitle: "O Cajado permite ao usuário disparar bolas de água para causar dano aos alvos."
 			tasks: [{
 				id: "66D32CBED1DC8820"
 				item: {
@@ -425,7 +425,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Charm allows the holder to walk on water when held in main hand and breathe underwater when inside the inventory."
+			subtitle: "O Amuleto permite que o portador ande sobre a água quando segurado na mão principal e respire debaixo d'água quando dentro do inventário."
 			tasks: [{
 				id: "7C184EBE6A7E8369"
 				item: "archon:sea_master_charm"
@@ -442,7 +442,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Bow launches a Ghast fireball and increases speed of the shot the longer the bow is pulled back."
+			subtitle: "O Arco lança uma bola de fogo do Ghast e aumenta a velocidade do tiro quanto mais tempo o arco é puxado para trás."
 			tasks: [{
 				id: "3755E9409961A81F"
 				item: {
@@ -465,7 +465,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Like The Wither, the Stave grants the user the ability to launch wither skulls against targets."
+			subtitle: "Assim como o Wither, o Cajado concede ao usuário a habilidade de lançar caveiras de Wither contra os alvos."
 			tasks: [{
 				id: "26CAABD2CBC8B780"
 				item: {
@@ -488,7 +488,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Coat grants the wearer fire resistance and the implosion ability to cause explosion damage, the more mana the higher the damage."
+			subtitle: "O Casaco concede ao usuário resistência ao fogo e a habilidade de implosão para causar dano por explosão, quanto mais mana, maior o dano."
 			tasks: [{
 				id: "7045685A90496FF7"
 				item: {
@@ -511,7 +511,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Bolt summons thunder strikes around you, but no fire will be created and will not damage the user."
+			subtitle: "O Raio convoca raios ao seu redor, mas não criará fogo e não causará dano ao usuário."
 			tasks: [{
 				id: "76713BCD490AF670"
 				item: {
@@ -534,7 +534,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Cleaver pulls in targets towards you."
+			subtitle: "O Cutelo atrai alvos em sua direção."
 			tasks: [{
 				id: "3D46814EB027476E"
 				item: {
@@ -557,7 +557,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Blade grants the wielder the ability to teleport 8 blocks in the direction they're facing."
+			subtitle: "A espada concede ao portador a habilidade de teleportar 8 blocos na direção em que estão virados."
 			tasks: [{
 				id: "1279B4ABCC1E83FA"
 				item: {
@@ -580,7 +580,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Scepter grants the wielder the ability to teleport 10 blocks away in the direction they're facing, but will always cause implosion damage."
+			subtitle: "O Cetro concede ao portador a habilidade de teleportar 10 blocos de distância na direção em que estão virados, mas sempre causará dano de implosão."
 			tasks: [{
 				id: "2FB7594EC933F904"
 				item: {
@@ -603,7 +603,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Mace slams the ground, flinging around nearby targets around the user into the air and receive fall damage. Does not damage pets."
+			subtitle: "A Maça bate no chão, arremessando alvos próximos ao usuário para o ar e fazendo com que recebam dano de queda. Não causa dano a animais de estimação."
 			tasks: [{
 				id: "0279E54654D52F0B"
 				item: {
@@ -626,7 +626,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Fist grants the user a few seconds of increased attack speed."
+			subtitle: "O Punho concede ao usuário alguns segundos de aumento na velocidade de ataque."
 			tasks: [{
 				id: "16B48CF0C7179D07"
 				item: {
@@ -649,7 +649,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Axe grants the user a few seconds of resistance and ability to deflect projectiles away from the user."
+			subtitle: "O Machado concede ao usuário alguns segundos de resistência e a habilidade de desviar projéteis para longe do usuário."
 			tasks: [{
 				id: "7F83BC7E74B126C2"
 				item: {
@@ -671,7 +671,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Os ingredientes para invocar os chefes estão em seu Grimório."
 				""
 				"&8Português"			
 			]
@@ -681,7 +681,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Pedestal is used to summon bosses using the right ingredients. You can shift click on it to remove all ingredients. Right click holding the ingredients onto the pedestal as there's no GUI."
+			subtitle: "O Pedestal é usado para invocar chefes usando os ingredientes corretos. Você pode clicar com o botão direito nele para remover todos os ingredientes. Clique com o botão direito segurando os ingredientes sobre o pedestal, pois não há uma GUI."
 			tasks: [{
 				id: "25802A48A70C6EF9"
 				item: "archon:summoning_pedestal"
@@ -698,7 +698,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Crusher turns all target souls into mana. 20 mana per mob kill, 30 mana per player kill, and 50 mana per boss kill."
+			subtitle: "O Triturador transforma todas as almas-alvo em mana. 20 mana por morte de monstro, 30 mana por morte de jogador e 50 mana por morte de chefe."
 			tasks: [{
 				id: "380768867D8D8CF1"
 				item: {
@@ -721,7 +721,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "The Scythe grants the wielder a chance to reap out souls from their preferred target. The Staff of Undead is used to summon minions when given a core."
+			subtitle: "A Foice concede ao portador a chance de colher almas de seu alvo preferido. O Cetro dos Mortos-vivos é usado para invocar lacaios quando fornecido com um núcleo."
 			tasks: [
 				{
 					id: "38E3369502B92326"
@@ -740,7 +740,7 @@
 					type: "item"
 				}
 			]
-			title: "Grim Reaper's Toys"
+			title: "Brinquedos do Ceifador Sinistro"
 			x: -2.0d
 			y: 6.5d
 		}
@@ -759,13 +759,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "A soul from any mob harvested by a soul scythe. It is a 5% chance to drop for every kill."
+			subtitle: "Uma alma de qualquer monstro coletada por uma foice de alma. Existe uma chance de 5% de ser dropada para cada morte."
 			tasks: [{
 				id: "120EF28A04618FCF"
 				item: "archon:creature_soul"
 				type: "item"
 			}]
-			title: "Soul of a Creature"
+			title: "Alma de uma Criatura"
 			x: -3.5d
 			y: 6.0d
 		}
@@ -785,13 +785,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "A soul from any player, witch, and illager, harvested by a soul scythe. It is a 5% chance to drop from the mentioned targets."
+			subtitle: "Uma alma de qualquer jogador, bruxa e ilager, colhida por uma foice de alma. Existe uma chance de 5% de ser dropada dos alvos mencionados."
 			tasks: [{
 				id: "6AD0A2F0318D0CD5"
 				item: "archon:player_soul"
 				type: "item"
 			}]
-			title: "Soul of a Player"
+			title: "Alma de um Jogador"
 			x: -2.0d
 			y: 8.0d
 		}
@@ -811,13 +811,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "A soul from a powerful entity, harvested by the soul scythe, will always drop."
+			subtitle: "Uma alma de uma entidade poderosa, colhida pela foice de alma, sempre será dropada."
 			tasks: [{
 				id: "0734F33F221A62FD"
 				item: "archon:boss_soul"
 				type: "item"
 			}]
-			title: "Soul of a Boss"
+			title: "Alma de um Chefe"
 			x: -3.5d
 			y: 7.5d
 		}
@@ -829,7 +829,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "You can use the soul core to summon a standard Skelt. They cannot be given any gear."
+			subtitle: "Você pode usar o núcleo de alma para invocar um Esqueleto padrão. Eles não podem receber nenhum equipamento."
 			tasks: [{
 				id: "3491D22B7FFC18E8"
 				item: "archon:soul_core_creature"
@@ -846,7 +846,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "You can use this soul core to summon a Skelt that can be given armor, both modded and vanilla. Cannot change their iron sword to any weapon."
+			subtitle: "Você pode usar este núcleo de alma para invocar um Esqueleto que pode receber armadura, tanto modded quanto vanilla. Não é possível trocar sua espada de ferro por outra arma."
 			tasks: [{
 				id: "3309C959FFA8D183"
 				item: "archon:soul_core_player"
@@ -863,7 +863,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "You can use this soul core to summon a giant Skelt. Good as a tank as they are quite slow but have a lot of HP and slow attack. You cannot give it any gear."
+			subtitle: "Você pode usar este núcleo de alma para invocar um Esqueleto gigante. Bom como um tanque, pois eles são bastante lentos, mas têm muitos pontos de vida e um ataque lento. Você não pode dar a ele nenhum equipamento."
 			tasks: [{
 				id: "13E79C17C3BA094D"
 				item: "archon:soul_core_boss"
@@ -887,13 +887,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "The Scripture Table grants the player the ability to craft spell tomes using various ingredients. Similar to alchemy."
+			subtitle: "A Mesa de Escritura concede ao jogador a habilidade de criar tomos de feitiço usando vários ingredientes. Similar à alquimia."
 			tasks: [{
 				id: "417F1BA3D82A6C67"
 				item: "archon:scripture_table"
 				type: "item"
 			}]
-			title: "Alchemy, but for Spellbooks"
+			title: "Alquimia, mas para Livros de Feitiços"
 			x: 3.5d
 			y: 1.0d
 		}
@@ -985,7 +985,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "The Wand of Fire, can only use fire spells that are found in the Nether."
+			subtitle: "A Varinha de Fogo só pode usar feitiços de fogo que são encontrados no Nether."
 			tasks: [{
 				id: "1035F0368F67CD69"
 				item: {
@@ -1008,7 +1008,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "The Wand of Sky, can only use sky spells found in villages."
+			subtitle: "A Varinha do Céu só pode usar feitiços do céu encontrados em aldeias."
 			tasks: [{
 				id: "611F65B429A0DF07"
 				item: {
@@ -1031,7 +1031,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "The Wand of Water, can only use water spells found in Ocean structures and fishing."
+			subtitle: "A Varinha da Água só pode usar feitiços de água encontrados em estruturas oceânicas e pescaria."
 			tasks: [{
 				id: "776C19E8B948579B"
 				item: {
@@ -1054,7 +1054,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "The Wand of End, can only use end spells found in End Cities or Strongholds."
+			subtitle: "A Varinha do Fim só pode usar feitiços do fim encontrados em Cidades do Fim ou Fortalezas."
 			tasks: [{
 				id: "72305223DA5927DF"
 				item: {
@@ -1077,7 +1077,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "The Wand of Earth, can only use earth spells found in temples and mineshafts."
+			subtitle: "A Varinha da Terra só pode usar feitiços da terra encontrados em templos e minas."
 			tasks: [{
 				id: "7AD3C9B9978B1421"
 				item: {
@@ -1122,7 +1122,7 @@
 					type: "item"
 				}
 			]
-			title: "Fire Spells"
+			title: "Feitiços de Fogo"
 			x: 5.5d
 			y: 1.0d
 		}
@@ -1156,7 +1156,7 @@
 					type: "item"
 				}
 			]
-			title: "Water Spells"
+			title: "Feitiços de Água"
 			x: 5.0d
 			y: 3.5d
 		}
@@ -1190,7 +1190,7 @@
 					type: "item"
 				}
 			]
-			title: "Sky Spells"
+			title: "Feitiços do Céu"
 			x: 6.0d
 			y: 2.0d
 		}
@@ -1258,7 +1258,7 @@
 					type: "item"
 				}
 			]
-			title: "End Spells"
+			title: "Feitiços do End"
 			x: 6.0d
 			y: 3.0d
 		}
@@ -1270,13 +1270,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "As the name implies, it contains lightning that can be released onto the ground when thrown. Can also be created when an empty bottle is struck by lightning."
+			subtitle: "Como o nome sugere, ele contém relâmpagos que podem ser liberados no chão quando lançado. Também pode ser criado quando uma garrafa vazia é atingida por um raio."
 			tasks: [{
 				id: "2C0E35986C988B35"
 				item: "archon:lightning_bottle"
 				type: "item"
 			}]
-			title: "Thor's Breath"
+			title: "Sopro de Thor"
 			x: 9.0d
 			y: -1.0d
 		}
@@ -1296,7 +1296,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Magical Bookshelves are not only good for decoration, but used by Wizard Villagers to allow trade with magical trinkets."
+			subtitle: "As Estantes Mágicas não são apenas boas para decoração, mas também são usadas por Aldeões Feiticeiros para permitir a troca de bugigangas mágicas."
 			tasks: [{
 				id: "27236DE839F10DFA"
 				item: "archon:magical_bookshelf"
@@ -1313,7 +1313,7 @@
 				type: "xp"
 				xp: 5
 			}]
-			subtitle: "Pixie Leaves are created with leaf blocks and channeler."
+			subtitle: "As Folhas de Pixie são criadas com blocos de folhas e o canalizador."
 			tasks: [{
 				id: "44C69C4B62C5A18C"
 				item: "archon:pixie_leaves"
@@ -1330,7 +1330,7 @@
 				type: "xp"
 				xp: 5
 			}]
-			subtitle: "Spry Dust is created by infusing sand with mana using the Channeler."
+			subtitle: "O Pó Spry é criado infundindo areia com mana usando o Canalizador."
 			tasks: [{
 				id: "56BEC1279C60C482"
 				item: "archon:spry_dust"
@@ -1355,7 +1355,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Wearing these boots grants the wearer to fertilize plants and crops using mana and by crouching."
+			subtitle: "Usar essas botas concede ao usuário a habilidade de fertilizar plantas e culturas usando mana e ao se agachar."
 			tasks: [{
 				id: "292102AC8D26DBAB"
 				item: {
@@ -1367,7 +1367,7 @@
 				}
 				type: "item"
 			}]
-			title: "Magical Farmer"
+			title: "Fazendeiro Mágico"
 			x: 1.0d
 			y: 4.0d
 		}
@@ -1379,13 +1379,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Combustion Charges are used to dig out a 7x7 area on the ground or wall, good for mining."
+			subtitle: "As Cargas de Combustão são usadas para cavar uma área de 7x7 no chão ou na parede, úteis para mineração."
 			tasks: [{
 				id: "7729E325FBDAC69E"
 				item: "archon:combustion_charge"
 				type: "item"
 			}]
-			title: "Ecofriendly TNT"
+			title: "TNT Ecologicamente Correto"
 			x: -1.0d
 			y: 4.0d
 		}
@@ -1397,7 +1397,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Fire Harvester increases mob loot chance related to fire."
+			subtitle: "O Colhedor de Fogo aumenta a chance de saque de mobs relacionados ao fogo."
 			tasks: [{
 				id: "4245080FFBF7FAB8"
 				item: {
@@ -1420,7 +1420,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Breezy Harvester increases mob loot chance related to wind or air."
+			subtitle: "O Colhedor Brisa aumenta a chance de saque de mobs relacionados ao vento ou ar."
 			tasks: [{
 				id: "322A63DA6ADF5CBB"
 				item: {
@@ -1443,7 +1443,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Soaking Harvester increases mob loot chance related to water."
+			subtitle: "O Colhedor Embebido aumenta a chance de saque de mobs relacionados à água."
 			tasks: [{
 				id: "38249728822F838A"
 				item: {
@@ -1466,7 +1466,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Warping Harvester increases mob loot chance related to the End."
+			subtitle: "O Colhedor de Distorção aumenta a chance de saque de mobs relacionados ao Fim."
 			tasks: [{
 				id: "2D176598582F1DDE"
 				item: {
@@ -1489,7 +1489,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "The Rocky Harvester increases mob loot chance related to the earth."
+			subtitle: "O Colhedor Rochoso aumenta a chance de saque de mobs relacionados à terra."
 			tasks: [{
 				id: "0ED01AE891B58E3D"
 				item: {
@@ -1512,7 +1512,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Small pouches used to store XP when needed. The pouch can store 200 XP."
+			subtitle: "Pequenas bolsas usadas para armazenar XP quando necessário. A bolsa pode armazenar 200 XP."
 			tasks: [{
 				id: "34872FD95C254318"
 				item: {
@@ -1535,7 +1535,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "An upgraded pouch that can store 400 XP."
+			subtitle: "Uma bolsa atualizada que pode armazenar 400 XP."
 			tasks: [{
 				id: "3733C69851295D5E"
 				item: {
@@ -1571,14 +1571,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "You must defeat this creature in order to harness the essence of the earth."
+			subtitle: "Você deve derrotar esta criatura para aproveitar a essência da terra."
 			tasks: [{
 				entity: "archon:tar"
 				id: "64F464705D0CF636"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the Earth Elemental"
+			title: "Derrote o Elemental da Terra"
 			x: 1.0d
 			y: 9.5d
 		}
@@ -1603,14 +1603,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "You must defeat this creature in order to harness the essence of the skies."
+			subtitle: "Você deve derrotar esta criatura para aproveitar a essência dos céus."
 			tasks: [{
 				entity: "archon:ayla"
 				id: "393F2822E6349AA9"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the Sky Elemental"
+			title: "Derrote o Elemental do Céu"
 			x: -1.0d
 			y: 9.5d
 		}
@@ -1635,14 +1635,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "You must defeat this creature in order to harness the essence of flame."
+			subtitle: "Você deve derrotar esta criatura para aproveitar a essência da chama."
 			tasks: [{
 				entity: "archon:inigo"
 				id: "096E0352AE193913"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the Fire Elemental"
+			title: "Derrote o Elemental do Fogo"
 			x: 1.0d
 			y: 11.5d
 		}
@@ -1667,14 +1667,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "You must defeat this creature in order to harness the essence of the seas."
+			subtitle: "Você deve derrotar esta criatura para aproveitar a essência dos mares."
 			tasks: [{
 				entity: "archon:leven"
 				id: "43D121342CCCEDE9"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the Water Elemental"
+			title: "Derrote o Elemental da Água"
 			x: -1.0d
 			y: 11.5d
 		}
@@ -1690,7 +1690,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Por favor, verifique os atalhos de teclado quando quiser alternar quais feitiços deseja usar e pressione 1, 2, 3 para alternar os feitiços."
 				""
 				"&8Português"
 			]
@@ -1700,13 +1700,13 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "The Spell Binding Table requires bookshelves surrounding it, and it allows the user to bind spells into a Spell weapon using lapis and XP."
+			subtitle: "A Mesa de Encantamento de Feitiços requer estantes de livros ao seu redor e permite ao usuário vincular feitiços em uma arma mágica usando lápis-lazúli e XP."
 			tasks: [{
 				id: "1AFCCC25DC5912D3"
 				item: "spell_engine:spell_binding"
 				type: "item"
 			}]
-			title: "Spellbinding!"
+			title: "Vincular Feitiços!"
 			x: 20.5d
 			y: -2.0d
 		}
@@ -1718,7 +1718,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "The Wizard Set is a standard magic set to for novice magic users. Maybe there's a way to gain more power?"
+			subtitle: "O Wizard Set é um conjunto de magia padrão para usuários iniciantes de magia. Talvez haja uma maneira de ganhar mais poder?"
 			tasks: [
 				{
 					id: "51E2350D9B99C322"
@@ -1776,7 +1776,7 @@
 					type: "item"
 				}
 			]
-			title: "Wizard's First Clothes"
+			title: "Primeiras roupas do mago"
 			x: 14.0d
 			y: -0.5d
 		}
@@ -1788,7 +1788,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "The Arcane Wizard Set grants the wearer increased arcane damage."
+			subtitle: "O Conjunto do Mago Arcano concede ao usuário maior dano arcano."
 			tasks: [
 				{
 					id: "27FAA1EB95E490A9"
@@ -1835,7 +1835,7 @@
 					type: "item"
 				}
 			]
-			title: "Arcane Wizard Set"
+			title: "Conjunto de Mago Arcano"
 			x: 14.0d
 			y: 1.5d
 		}
@@ -1847,7 +1847,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "The Frost Wizard Set grants the wearer increased frost damage."
+			subtitle: "O Conjunto de Mago de Gelo concede ao usuário maior dano de gelo."
 			tasks: [
 				{
 					id: "327547829D61E07C"
@@ -1894,7 +1894,7 @@
 					type: "item"
 				}
 			]
-			title: "Frost Wizard Set"
+			title: "Conjunto de Mago de Gelo"
 			x: 12.5d
 			y: 1.5d
 		}
@@ -1906,7 +1906,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "The Fire Wizard Set grants the wearer increased fire damage."
+			subtitle: "O Conjunto de Mago de Fogo concede ao usuário maior dano de fogo."
 			tasks: [
 				{
 					id: "7BD8E910979DE77D"
@@ -1953,7 +1953,7 @@
 					type: "item"
 				}
 			]
-			title: "Fire Wizard Set"
+			title: "Conjunto de Mago de Fogo"
 			x: 15.5d
 			y: 1.5d
 		}
@@ -2077,7 +2077,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You hold the fire wizard's final weapon. You can summon fireballs, flame breaths and even meteors."
+			subtitle: "Você segura a arma final do mago do fogo. Você pode invocar bolas de fogo, baforadas de chamas e até meteoros."
 			tasks: [{
 				id: "081C1A34BAEED0D2"
 				item: {
@@ -2089,7 +2089,7 @@
 				}
 				type: "item"
 			}]
-			title: "Fire Wizard's Sorcery"
+			title: "Feitiçaria do Mago do Fogo"
 			x: 15.5d
 			y: 6.5d
 		}
@@ -2213,7 +2213,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You hold the arcane wizard's final weapon. You can now increase arcane damage over time and shoot out lasers."
+			subtitle: "Você possui a arma final do mago arcano. Agora você pode aumentar o dano arcano ao longo do tempo e disparar lasers."
 			tasks: [{
 				id: "53C731B93D19BCA0"
 				item: {
@@ -2225,7 +2225,7 @@
 				}
 				type: "item"
 			}]
-			title: "Arcane Wizard's Sorcery"
+			title: "Feitiçaria do Mago Arcano"
 			x: 14.0d
 			y: 6.5d
 		}
@@ -2349,7 +2349,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You hold the frost wizard's final weapon. You can now slow and freeze enemies while shielding incoming damage with frost."
+			subtitle: "Você segura a arma final do mago do gelo. Agora você pode retardar e congelar inimigos enquanto protege os danos recebidos com gelo."
 			tasks: [{
 				id: "4E12E5BB950D0A6E"
 				item: {
@@ -2361,7 +2361,7 @@
 				}
 				type: "item"
 			}]
-			title: "Frost Wizard's Sorcery"
+			title: "Feitiçaria do Feiticeiro de Gelo"
 			x: 12.5d
 			y: 6.5d
 		}
@@ -2384,7 +2384,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "You're not dealing with only Wizards, but Monks as well."
+			subtitle: "Você não está lidando apenas com magos, mas também com monges."
 			tasks: [{
 				id: "00A1F659732D7A0D"
 				item: "paladins:monk_workbench"
@@ -2401,7 +2401,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "This is where your journey as a holy monk starts, are you ready to harness the power of light?"
+			subtitle: "É aqui que começa a sua jornada como monge sagrado. Você está pronto para aproveitar o poder da luz?"
 			tasks: [
 				{
 					id: "7D96A5644F0B89CE"
@@ -2448,7 +2448,7 @@
 					type: "item"
 				}
 			]
-			title: "Monk Trainee"
+			title: "Monge Estagiário"
 			x: 14.0d
 			y: -5.5d
 		}
@@ -2513,7 +2513,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You now hold the prior's strongest weapon. Decimate your enemies that blaspheme against your ideals."
+			subtitle: "Você agora possui a arma mais forte do sacerdote. Dizime seus inimigos que blasfemam contra seus ideais."
 			tasks: [{
 				id: "75C4F102B9C2958B"
 				item: {
@@ -2525,7 +2525,7 @@
 				}
 				type: "item"
 			}]
-			title: "Prior's Miracle"
+			title: "Milagre do sacerdote"
 			x: 11.5d
 			y: -11.0d
 		}
@@ -2633,7 +2633,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You now hold the paladin's strongest weapon. Swing your claymore against enemies that blaspheme against your ideals."
+			subtitle: "Você agora possui a arma mais forte do paladino. Balance sua claymore contra inimigos que blasfemam contra seus ideais."
 			tasks: [{
 				id: "5D6DB3BB06C2FAC7"
 				item: {
@@ -2645,7 +2645,7 @@
 				}
 				type: "item"
 			}]
-			title: "Paladin's Miracle"
+			title: "Milagre do Paladino"
 			x: 13.0d
 			y: -13.0d
 		}
@@ -2775,7 +2775,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You now hold the crusader's strongest weapon. Smash your enemies that blaspheme against your ideals."
+			subtitle: "Você agora possui a arma mais forte do cruzado. Esmague seus inimigos que blasfemam contra seus ideais."
 			tasks: [{
 				id: "1BC110139429C175"
 				item: {
@@ -2787,7 +2787,7 @@
 				}
 				type: "item"
 			}]
-			title: "Crusader's Miracle"
+			title: "Milagre do Cruzado"
 			x: 15.0d
 			y: -14.0d
 		}
@@ -2895,7 +2895,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "You now hold the priest's strongest weapon. Send judgement towards your enemies that blaspheme against your ideals."
+			subtitle: "Você agora possui a arma mais forte do Clérigo. Envie julgamento aos seus inimigos que blasfemam contra os seus ideais."
 			tasks: [{
 				id: "067FD6C39AE1EE6F"
 				item: {
@@ -2907,7 +2907,7 @@
 				}
 				type: "item"
 			}]
-			title: "Priest's Miracle"
+			title: "Milagre do Clérigo"
 			x: 16.5d
 			y: -13.0d
 		}
@@ -2919,7 +2919,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "You have chosen the path of the Prior, a superior in a religious order. Are you ready to swing your mace to victory?"
+			subtitle: "Você escolheu o caminho do Sacerdote, superior de ordem religiosa. Você está pronto para balançar sua maça para a vitória?"
 			tasks: [
 				{
 					id: "7924AEE7FC3FA45E"
@@ -2966,7 +2966,7 @@
 					type: "item"
 				}
 			]
-			title: "The Prior Set"
+			title: "O conjunto do Sacerdote"
 			x: 11.5d
 			y: -8.0d
 		}
@@ -2978,7 +2978,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "You have chosen the path of the Paladin, a holy knight of the sword. Are you ready to swing your claymore to victory?"
+			subtitle: "Você escolheu o caminho do Paladino, um cavaleiro sagrado da espada. Você está pronto para levar sua claymore à vitória?"
 			tasks: [
 				{
 					id: "63E5401B200F2467"
@@ -3025,7 +3025,7 @@
 					type: "item"
 				}
 			]
-			title: "The Paladin Set"
+			title: "O Conjunto do Paladino"
 			x: 13.0d
 			y: -8.0d
 		}
@@ -3037,7 +3037,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "You have chosen the path of the Crusader, a travelling holy knight of the hammer. Are you ready to swing your great hammer to victory?"
+			subtitle: "Você escolheu o caminho do Cruzado, um cavaleiro sagrado itinerante do martelo. Está pronto para brandir seu grande martelo para a vitória?"
 			tasks: [
 				{
 					id: "3408342049EBB14C"
@@ -3084,7 +3084,7 @@
 					type: "item"
 				}
 			]
-			title: "The Crusader Set"
+			title: "O Conjunto do Cruzado"
 			x: 15.0d
 			y: -8.0d
 		}
@@ -3096,7 +3096,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "You have chosen the path of the Priest, a leader of the church. Are you ready to wield your holy staff to victory?"
+			subtitle: "Você escolheu o caminho do Sacerdote, um líder da igreja. Você está pronto para empunhar seu bastão sagrado até a vitória?"
 			tasks: [
 				{
 					id: "1CCEAED1B260191E"
@@ -3143,10 +3143,11 @@
 					type: "item"
 				}
 			]
-			title: "The Priest Set"
+			title: "O Conjunto do Sacerdote"
 			x: 16.5d
 			y: -8.0d
 		}
 	]
-	title: " &bSpellcasting"
+	title: " &bLançamento de Feitiços"
 }
+

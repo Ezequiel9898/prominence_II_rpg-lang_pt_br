@@ -20,7 +20,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Certifique-se de ler o Livro das Sombras se quiser entender mais detalhadamente sobre Bewitchment."
 				""
 				"&8Português"
 			]
@@ -52,26 +52,26 @@
 					xp: 10
 				}
 			]
-			subtitle: "Hello there, I assume you're here because you want to become a witch, right? You've come to the right place.. this is where it begins, young witch."
+			subtitle: "Olá, presumo que você esteja aqui porque quer se tornar um bruxo, certo? Você veio ao lugar certo... aqui é onde começa, jovem bruxo."
 			tasks: [{
 				id: "705D52A6E5A9E57E"
 				item: "bewitchment:book_of_shadows"
 				type: "item"
 			}]
-			title: "Witch's First Steps"
+			title: "Primeiros Passos do Bruxo"
 			x: -0.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["5B558DB5BB091F2C"]
 			id: "040B557895367AF3"
-			subtitle: "An interesting tree, it has unique properties that allow it to 'bleed out', perhaps you'll find it useful for your future endeavors. They're found in Nether Fortresses."
+			subtitle: "Uma árvore interessante, ela possui propriedades únicas que permitem que ela 'sangre', talvez você a ache útil para suas empreitadas futuras. Elas são encontradas em Fortalezas do Nether."
 			tasks: [{
 				id: "6D8C5B0EEA1541D1"
 				item: "bewitchment:dragons_blood_sapling"
 				type: "item"
 			}]
-			title: "The Tree of Blood"
+			title: "A Árvore do Sangue"
 			x: 1.0d
 			y: 1.5d
 		}
@@ -83,13 +83,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This tree contains the essence of knowledge and intelligence, perhaps this will be useful in your future endeavors. They're found scattered around in forests."
+			subtitle: "Esta árvore contém a essência do conhecimento e da inteligência, talvez isso seja útil em suas empreitadas futuras. Elas são encontradas espalhadas por florestas."
 			tasks: [{
 				id: "650A616FA6E8AAE3"
 				item: "bewitchment:elder_sapling"
 				type: "item"
 			}]
-			title: "The Tree of Knowledge"
+			title: "A Árvore do Conhecimento"
 			x: -2.5d
 			y: 0.0d
 		}
@@ -101,13 +101,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "These trees have a smell of death around them, perhaps this will be useful with your endeavors later. They're found in taigas and swamps."
+			subtitle: "Essas árvores têm um cheiro de morte ao redor delas, talvez isso seja útil com suas empreitadas mais tarde. Elas são encontradas em taigas e pântanos."
 			tasks: [{
 				id: "04C1299FBCB9B22B"
 				item: "bewitchment:cypress_sapling"
 				type: "item"
 			}]
-			title: "The Tree of Death"
+			title: "A Árvore da Morte"
 			x: -2.0d
 			y: -1.5d
 		}
@@ -119,13 +119,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This tree has the properties of life itself, perhaps it'll be useful for your future endeavors. They're found in savannas."
+			subtitle: "Esta árvore possui as propriedades da própria vida, talvez seja útil para suas empreitadas futuras. Elas são encontradas em savanas."
 			tasks: [{
 				id: "08E08EB8164D241D"
 				item: "bewitchment:juniper_sapling"
 				type: "item"
 			}]
-			title: "The Tree of Life?"
+			title: "A Árvore da Vida?"
 			x: 1.5d
 			y: 0.0d
 		}
@@ -137,7 +137,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "A special knife for us witches, it's going to be important for our rituals and scratching trees. Take good care of it."
+			subtitle: "Uma faca especial para nós bruxos, ela será importante para nossos rituais e para fazer arranhões em árvores. Cuide bem dela."
 			tasks: [{
 				id: "2A7C00C48571951E"
 				item: {
@@ -149,7 +149,7 @@
 				}
 				type: "item"
 			}]
-			title: "A Witch's Knife"
+			title: "Uma Faca de Bruxo"
 			x: -0.5d
 			y: 2.0d
 		}
@@ -161,13 +161,13 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "This will be very fun for our uses. Getting taglocks of other players will allow us to bind them to a ritual."
+			subtitle: "Isso será muito divertido para nossos propósitos. Obter etiqutas de outros jogadores nos permitirá vinculá-los a um ritual."
 			tasks: [{
 				id: "30EC959F71E75DFE"
 				item: "bewitchment:taglock"
 				type: "item"
 			}]
-			title: "Targeted Essence"
+			title: "Essência Alvo"
 			x: -1.5d
 			y: 5.5d
 		}
@@ -179,14 +179,14 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "Ew, this is some weird goop that you got from a ghost.. well, it'll still be useful for what we need.."
+			subtitle: "Eca, isso é uma espécie de geleca estranha que você pegou de um fantasma... bem, ainda será útil para o que precisamos..."
 			tasks: [{
 				count: 5L
 				id: "655625747D981397"
 				item: "bewitchment:ectoplasm"
 				type: "item"
 			}]
-			title: "Ghost Essence"
+			title: "Essência de Fantasma"
 			x: 2.5d
 			y: 3.0d
 		}
@@ -198,13 +198,13 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "This is a very nice coffin, comfortable and dark enough for a player to sleep during the day time until night."
+			subtitle: "Este é um caixão muito agradável, confortável e escuro o suficiente para um jogador dormir durante o dia até a noite."
 			tasks: [{
 				id: "1FE7146F2C6B8B4A"
 				item: "bewitchment:white_coffin"
 				type: "item"
 			}]
-			title: "Vampire's Bed"
+			title: "Cama do Vampiro"
 			x: -3.0d
 			y: 4.5d
 		}
@@ -216,7 +216,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Having a poppet like this will make the target either cursed or protected, depending on how you use them, and there may be more than one type of poppet."
+			subtitle: "Ter um boneco como este fará com que o alvo seja amaldiçoado ou protegido, dependendo de como você os usa, e pode haver mais de um tipo de boneco."
 			tasks: [{
 				id: "77832168836C5A49"
 				item: {
@@ -234,13 +234,13 @@
 		{
 			dependencies: ["0A7DAD09DE18D900"]
 			id: "7B42BCEB958500A1"
-			subtitle: "Ever felt that you have too many poppets in your inventory? These shelves will be perfect for your needs."
+			subtitle: "Já sentiu que tem muitos bonecos em seu inventário? Estas prateleiras serão perfeitas para suas necessidades."
 			tasks: [{
 				id: "5AC910BBD1EBCFB3"
 				item: "bewitchment:oak_poppet_shelf"
 				type: "item"
 			}]
-			title: "Poppet Storage"
+			title: "Armazenamento de Bonecos"
 			x: 4.5d
 			y: 3.0d
 		}
@@ -251,7 +251,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Demon Hearts are useful in creating special magical items that may be beneficial to the witch, although they may be difficult to obtain as you need to summon these demons."
+			subtitle: "Corações de Demônio são úteis na criação de itens mágicos especiais que podem ser benéficos para o bruxo, embora possam ser difíceis de obter, pois você precisa invocar esses demônios."
 			tasks: [{
 				id: "071299DA2B65D59D"
 				item: "bewitchment:demon_heart"
@@ -268,13 +268,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "The cauldron is perfect to brew potions using special ingredients that you can grow and scrape from."
+			subtitle: "O caldeirão é perfeito para preparar poções usando ingredientes especiais que você pode cultivar e raspar."
 			tasks: [{
 				id: "7BE8B29B6762BB65"
 				item: "bewitchment:witch_cauldron"
 				type: "item"
 			}]
-			title: "The Smelly Cauldron"
+			title: "O Caldeirão Fedorento"
 			x: -0.5d
 			y: 8.0d
 		}
@@ -286,7 +286,7 @@
 				item: "bewitchment:bottle_of_blood"
 				type: "item"
 			}]
-			title: "Is this Wine?"
+			title: "Isso é Vinho?"
 			x: 0.5d
 			y: 5.5d
 		}
@@ -368,7 +368,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Besmircher is able to disguise themselves in front of demons and are able to trade with them."
+			subtitle: "O Besmircher é capaz de se disfarçar na frente de demônios e pode negociar com eles."
 			tasks: [
 				{
 					id: "77F363FBF7C865B4"
@@ -415,7 +415,7 @@
 					type: "item"
 				}
 			]
-			title: "Besmirchment Clothes"
+			title: "Roupas de Besmirchment"
 			x: -4.5d
 			y: 8.0d
 		}
@@ -431,7 +431,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Alchemist is a master of witch brews and can double the duration effects of said brews when one wears it."
+			subtitle: "O Alquimista é um mestre das poções de bruxaria e pode dobrar a duração dos efeitos das referidas poções quando usado."
 			tasks: [
 				{
 					id: "163035D24392B95B"
@@ -478,7 +478,7 @@
 					type: "item"
 				}
 			]
-			title: "Alchemist Clothing"
+			title: "Roupa de Alquimista"
 			x: 3.5d
 			y: 8.0d
 		}
@@ -494,7 +494,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "The Hedgewitcher is able to increase crop bounty when one wears such clothing."
+			subtitle: "O Hedgewitcher é capaz de aumentar a colheita de culturas quando se veste tal roupa."
 			tasks: [
 				{
 					id: "3CE518B01D80E6AD"
@@ -541,7 +541,7 @@
 					type: "item"
 				}
 			]
-			title: "Hedgewitch Clothing"
+			title: "Roupa de Hedgewitch"
 			x: -0.5d
 			y: 11.0d
 		}
@@ -553,13 +553,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "An altar carries the magical energy that us witches use in doing rituals. In order to increase the capacity, one must decorate their altar with the appropriate materials and plant more trees around it."
+			subtitle: "Um altar carrega a energia mágica que nós bruxas usamos em rituais. Para aumentar a capacidade, é preciso decorar o altar com os materiais apropriados e plantar mais árvores ao redor dele."
 			tasks: [{
 				id: "0C483FD414E64354"
 				item: "bewitchment:stone_witch_altar"
 				type: "item"
 			}]
-			title: "Witch's Energy Container"
+			title: "Recipiente de Energia da Bruxa"
 			x: 2.0d
 			y: 4.5d
 		}
@@ -571,13 +571,13 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "A braizer is used for cursing, incense and rituals so having one will be vital if we want to be successful, young witch."
+			subtitle: "Um braseiro é usado para amaldiçoar, queimar incenso e realizar rituais, então ter um será vital se quisermos ter sucesso, jovem bruxo."
 			tasks: [{
 				id: "1B7523FDC014B527"
 				item: "bewitchment:brazier"
 				type: "item"
 			}]
-			title: "Ritual Burner"
+			title: "Queimador de Ritual"
 			x: 3.5d
 			y: 4.5d
 		}
@@ -589,7 +589,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Chalk is important for a witch as they're the foundation of rituals as they need to draw a circle in order to activate. It's best to have one of each type of chalk ready."
+			subtitle: "O giz é importante para um bruxo, pois é a base dos rituais, já que precisam desenhar um círculo para ativar. É melhor ter um de cada tipo de giz pronto."
 			tasks: [
 				{
 					id: "112FD4CB4AE9DDF2"
@@ -636,7 +636,7 @@
 					type: "item"
 				}
 			]
-			title: "Chalk-Zone"
+			title: "Zona de Giz"
 			x: 3.5d
 			y: 5.5d
 		}
@@ -648,13 +648,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Salt is important in not just for food seasoning, but it is good for warding off evil spirits and demons that may go after you. Salt is good for barriers."
+			subtitle: "O sal é importante não apenas para temperar alimentos, mas também é bom para afastar espíritos malignos e demônios que possam vir atrás de você. O sal é bom para barreiras."
 			tasks: [{
 				id: "394C5E4C34E67F3A"
 				item: "bewitchment:salt"
 				type: "item"
 			}]
-			title: "Don't eat salt!"
+			title: "Não coma sal!"
 			x: -0.5d
 			y: -2.0d
 		}
@@ -666,13 +666,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "At least you can enjoy a nice snack while you use garlic for magic purposes."
+			subtitle: "Pelo menos você pode desfrutar de um lanche enquanto usa alho para fins mágicos."
 			tasks: [{
 				id: "13DD560CDE2751B0"
 				item: "bewitchment:garlic_bread"
 				type: "item"
 			}]
-			title: "Where's the Butter?"
+			title: "Onde está a Manteiga?"
 			x: 1.0d
 			y: -1.5d
 		}
@@ -683,7 +683,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Getting these two items are essential if you would like to make use of some items that are for curses or deooration. They're found by killing demons and demonhounds."
+			subtitle: "Obter esses dois itens é essencial se você quiser fazer uso de alguns itens que são para maldições ou decoração. Eles são encontrados matando demônios e cães-demoníacos."
 			tasks: [
 				{
 					id: "733D85357179B9B2"
@@ -696,7 +696,7 @@
 					type: "item"
 				}
 			]
-			title: "Demon Parts"
+			title: "Partes de Demônio"
 			x: 4.0d
 			y: -0.5d
 		}
@@ -708,7 +708,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A witch's item to be immune to fire at the cost of some magical energy. They're also fireproof."
+			subtitle: "Um item de bruxo para ser imune ao fogo ao custo de alguma energia mágica. Eles também são à prova de fogo."
 			tasks: [{
 				id: "2E37E9880EA11D4C"
 				item: "bewitchment:hellish_bauble"
@@ -725,13 +725,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "This will prevent any mob from spawning within a 24 block radius."
+			subtitle: "Isso evitará que qualquer criatura apareça dentro de um raio de 24 blocos."
 			tasks: [{
 				id: "7E0C9FFE8A4F16CF"
 				item: "bewitchment:glowing_bramble"
 				type: "item"
 			}]
-			title: "Natural Wall Lights"
+			title: "Luminárias de Parede Naturais"
 			x: -2.0d
 			y: 9.5d
 		}
@@ -743,13 +743,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Any mob who will come into contact with it will be teleported within a 64 block radius."
+			subtitle: "Qualquer criatura que entrar em contato com ele será teleportada dentro de um raio de 64 blocos."
 			tasks: [{
 				id: "59613A7AA45623A6"
 				item: "bewitchment:ender_bramble"
 				type: "item"
 			}]
-			title: "Away With You!"
+			title: "Fora com Você!"
 			x: -3.0d
 			y: 6.5d
 		}
@@ -761,13 +761,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "This bramble will grow a special fruit that can be used to create food items that will restore magical energy when consumed."
+			subtitle: "Este espinheiro crescerá uma fruta especial que pode ser usada para criar itens alimentares que restaurarão energia mágica quando consumidos."
 			tasks: [{
 				id: "222520A5F47C0EB4"
 				item: "bewitchment:fruiting_bramble"
 				type: "item"
 			}]
-			title: "Witch Bush"
+			title: "Arbusto de Bruxo"
 			x: 2.0d
 			y: 9.5d
 		}
@@ -779,13 +779,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Prevents from any entity from passing through, unless you sneak to get passed."
+			subtitle: "Impede que qualquer entidade passe através dele, a menos que você se agache para passar."
 			tasks: [{
 				id: "636E535F031DDD36"
 				item: "bewitchment:thick_bramble"
 				type: "item"
 			}]
-			title: "You SHALL NOT PASS! easily."
+			title: "Você NÃO PASSARÁ! facilmente."
 			x: 1.0d
 			y: 9.5d
 		}
@@ -797,13 +797,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Send any mob flying into the air when coming into contact."
+			subtitle: "Faça qualquer criatura voar para o ar ao entrar em contato."
 			tasks: [{
 				id: "1EC1EC2052EA4713"
 				item: "bewitchment:fleeting_bramble"
 				type: "item"
 			}]
-			title: "Springboard, but on a wall"
+			title: "Prancha de Mola, mas em uma parede"
 			x: 2.0d
 			y: 6.5d
 		}
@@ -815,13 +815,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Burns any mob that comes into contact with the bramble."
+			subtitle: "Queima qualquer criatura que entre em contato com o espinheiro."
 			tasks: [{
 				id: "13822D8C28661F37"
 				item: "bewitchment:scorched_bramble"
 				type: "item"
 			}]
-			title: "Firewall, but for entities, not viruses."
+			title: "Firewall, mas para entidades, não vírus."
 			x: -3.0d
 			y: 9.5d
 		}
@@ -833,7 +833,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "A witch's best friend. Used to create food items."
+			subtitle: "O melhor amigo de um bruxo. Usado para criar itens alimentares."
 			tasks: [{
 				id: "2D70BA17F299C0C9"
 				item: "bewitchment:witchberry"
@@ -862,10 +862,11 @@
 					type: "item"
 				}
 			]
-			title: "Witchberry Food"
+			title: "Comida de Bagas de Bruxa"
 			x: 5.0d
 			y: 9.5d
 		}
 	]
-	title: "&c Witchcraft \\& Rituals"
+	title: "&c Bruxaria \\& Rituais"
 }
+

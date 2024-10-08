@@ -35,13 +35,13 @@
 				}
 			]
 			shape: "gear"
-			subtitle: "The Charger provides a way to charge supported tools through the ME Network or manually using a crank. It can also be used to create Charged Certus Quartz Crystal from Certus Quartz Crystal, and Meteorite Compass from Compass."
+			subtitle: "O Carregador oferece uma maneira de carregar ferramentas compatíveis através da Rede ME ou manualmente usando uma manivela. Também pode ser usado para criar Cristal de Quartzo Certus Carregado a partir de Cristal de Quartzo Certus, e Bússola de Meteorito a partir de Bússola."
 			tasks: [{
 				id: "26755D4A4B6D447D"
 				item: "ae2:charger"
 				type: "item"
 			}]
-			title: "Preparing to Find Meteorites 1"
+			title: "Preparando-se para Encontrar Meteoritos 1"
 			x: -1.0d
 			y: 0.0d
 		}
@@ -53,13 +53,13 @@
 				type: "xp_levels"
 				xp_levels: 2
 			}]
-			subtitle: "To craft a meteorite compass, charge a normal compass in a Charger. This can be done very early by using a Wooden Crank.The Meteorite Compass points in the direction of the nearest Meteorite within a range of 2,700 blocks. If the compass is spinning rapidly there is Sky Stone in your chunk! If the compass is spinning slowly, then you need to explore more because you're out of range of the nearest Meteorite."
+			subtitle: "Para criar uma bússola de meteorito, carregue uma bússola normal em um Carregador. Isso pode ser feito muito cedo usando uma Manivela de Madeira. A Bússola de Meteorito aponta na direção do meteorito mais próximo dentro de um alcance de 2.700 blocos. Se a bússola estiver girando rapidamente, há Pedra do Céu em sua área! Se a bússola estiver girando lentamente, você precisa explorar mais porque está fora do alcance do meteorito mais próximo."
 			tasks: [{
 				id: "78C149237D81A6C9"
 				item: "ae2:meteorite_compass"
 				type: "item"
 			}]
-			title: "Preparing to Find Meteorites 2"
+			title: "Preparando-se para Encontrar Meteoritos 2"
 			x: 0.5d
 			y: 0.0d
 		}
@@ -79,7 +79,7 @@
 					xp_levels: 3
 				}
 			]
-			subtitle: "Before you head out to find your first Meteorite make sure to have an Iron Pickaxe or better. Meteorites are made out of a very hard material called Sky Stone which requires it. Make sure you mine to the center of the meteorite to collect the Certus Quartz Crystals, Certus Quartz Blocks and your Inscriber Presses!"
+			subtitle: "Antes de sair para encontrar seu primeiro Meteorito, certifique-se de ter um Pico de Ferro ou melhor. Meteoritos são feitos de um material muito duro chamado Pedra do Céu, que requer isso. Certifique-se de cavar até o centro do meteorito para coletar os Cristais de Quartzo Certus, Blocos de Quartzo Certus e suas Prensas de Inscrição!"
 			tasks: [
 				{
 					id: "48E8D095ECE464DA"
@@ -92,7 +92,7 @@
 					type: "item"
 				}
 			]
-			title: "Your First Meteorite"
+			title: "Seu Primeiro Meteorito"
 			x: 2.0d
 			y: 0.0d
 		}
@@ -104,7 +104,7 @@
 				type: "xp_levels"
 				xp_levels: 1
 			}]
-			subtitle: "Inscriber Presses are found in the Sky Chest at the center of a Meteorite. They can be used to create circuits in an Inscriber."
+			subtitle: "As Prensas de Inscrição são encontradas no Baú do Céu no centro de um Meteorito. Elas podem ser usadas para criar circuitos em um Inscriber."
 			tasks: [
 				{
 					id: "16939C6D195B1127"
@@ -127,7 +127,7 @@
 					type: "item"
 				}
 			]
-			title: "Inscriber Presses"
+			title: "Prensas de Inscrição"
 			x: 3.5d
 			y: 1.0d
 		}
@@ -147,7 +147,7 @@
 					xp_levels: 2
 				}
 			]
-			subtitle: "Now that you have some Certus Quartz Crystals it's time to charge them. Toss one into the Charger you made earlier and get to cranking!"
+			subtitle: "Agora que você tem alguns Cristais de Quartzo Certus, é hora de carregá-los. Jogue um deles no Carregador que você fez anteriormente e comece a girar a manivela!"
 			tasks: [{
 				id: "1281175EA867EDB4"
 				item: "ae2:charged_certus_quartz_crystal"
@@ -165,7 +165,7 @@
 				item: "ae2:charged_certus_quartz_crystal"
 				type: "item"
 			}]
-			subtitle: "This crystal possesses the unique ability to absorb and convert energy from one form to another, and is the foundation of all ME technology. Fluix Crystal is crafted by placing Charged Certus Quartz Crystal , Nether Quartz and Redstone Dust in water. It will quickly start to react, and result in a Fluix Crystal."
+			subtitle: "Este cristal possui a capacidade única de absorver e converter energia de uma forma para outra, e é a base de toda a tecnologia ME. O Cristal Fluix é criado colocando Cristal de Quartzo Certus Carregado, Quartzo do Nether e Pó de Redstone na água. Ele começará a reagir rapidamente e resultará em um Cristal Fluix."
 			tasks: [{
 				id: "13A7FC8BE40D58E0"
 				item: "ae2:fluix_crystal"
@@ -183,7 +183,7 @@
 				xp_levels: 2
 			}]
 			shape: "gear"
-			subtitle: "To craft the processors required for more advanced machines, you'll need the Inscriber. Each type of processor has an associated press, which you will find in meteorites. Each operation requires 1k AE charged up."
+			subtitle: "Para criar os processadores necessários para máquinas mais avançadas, você precisará do Inscriber. Cada tipo de processador tem uma prensa associada, que você encontrará em meteoritos. Cada operação requer 1k AE carregado."
 			tasks: [{
 				id: "16BB9E2C20ACE60D"
 				item: "ae2:inscriber"
@@ -213,7 +213,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A wrench made of Certus Quartz Crystal or Nether Quartz. Useful for rotating blocks, and removing individual parts from cables."
+			subtitle: "Uma chave inglesa feita de Cristal de Quartzo Certus ou Quartzo do Nether. Útil para girar blocos e remover partes individuais de cabos."
 			tasks: [{
 				id: "5EA3D64A96FA7D0D"
 				item: {
@@ -234,7 +234,7 @@
 				}
 				type: "item"
 			}]
-			title: "Rotating Your Machines"
+			title: "Rotacionando suas maquinas"
 			x: 6.5d
 			y: 1.0d
 		}
@@ -254,13 +254,13 @@
 					xp_levels: 1
 				}
 			]
-			subtitle: "A modified furnace capable of generating AE Power instead of smelting ores. When placed on an ME Network it will charge Energy Cell or power other Network Devices.The Vibration Chamber will burn almost any solid burnable fuel for power. It will slow, or accelerate the burn depending on how much power it is able to store vs what is wasted. Generates between 1 and 10 AE/t depending on its burn speed."
+			subtitle: "Uma fornalha modificada capaz de gerar Energia AE em vez de fundir minérios. Quando colocada em uma Rede ME, ela irá carregar Células de Energia ou fornecer energia para outros Dispositivos da Rede. A Câmara de Vibração queimará quase qualquer combustível sólido para gerar energia. Ela diminuirá ou acelerará a queima dependendo de quanto poder de armazenamento de energia ela é capaz de manter versus o que é desperdiçado. Gera entre 1 e 10 AE/t dependendo da velocidade de queima."
 			tasks: [{
 				id: "25A5962657B80ED5"
 				item: "ae2:vibration_chamber"
 				type: "item"
 			}]
-			title: "Powering your Network 2"
+			title: "Alimentando sua Rede 2"
 			x: 0.5d
 			y: -3.0d
 		}
@@ -279,7 +279,7 @@
 					xp_levels: 1
 				}
 			]
-			subtitle: "Stores up to 200,000 AE. They do not accept power directly, but are used to add additional power storage to an already existing ME Network."
+			subtitle: "Armazena até 200.000 AE. Eles não aceitam energia diretamente, mas são usados para adicionar armazenamento de energia adicional a uma Rede ME já existente."
 			tasks: [{
 				id: "6F08AD378A0958C5"
 				item: {
@@ -289,7 +289,7 @@
 				}
 				type: "item"
 			}]
-			title: "Storing Energy 1"
+			title: "Armazenando Energia 1"
 			x: 2.0d
 			y: -3.0d
 		}
@@ -312,7 +312,7 @@
 					xp_levels: 2
 				}
 			]
-			subtitle: "Stores AE energy up to 1.6 million units. They do not accept power directly but are used to add additional power storage to an already existing ME Network."
+			subtitle: "Armazena energia AE até 1,6 milhão de unidades. Eles não aceitam energia diretamente, mas são usados para adicionar armazenamento de energia adicional a uma Rede ME já existente."
 			tasks: [{
 				id: "3D4139F14C804ED4"
 				item: {
@@ -322,7 +322,7 @@
 				}
 				type: "item"
 			}]
-			title: "Storing Energy 2"
+			title: "Armazenando Energia 2"
 			x: 2.0d
 			y: -1.5d
 		}
@@ -334,13 +334,13 @@
 				xp_levels: 1
 			}]
 			shape: "gear"
-			subtitle: "The Energy Acceptor converts energy from external systems into AE and stores it in the network.The following energy systems are supported: Forge Energy / Redstone Flux 2 FE = 1 AE."
+			subtitle: "O Receptor de Energia converte energia de sistemas externos em AE e a armazena na rede. Os seguintes sistemas de energia são suportados: Forge Energy / Redstone Flux 2 FE = 1 AE."
 			tasks: [{
 				id: "362E208A454BEBF4"
 				item: "ae2:energy_acceptor"
 				type: "item"
 			}]
-			title: "Powering Your Network 1"
+			title: "Alimentando Sua Rede 1"
 			x: -1.0d
 			y: -3.0d
 		}
@@ -353,13 +353,13 @@
 				item: "ae2:certus_quartz_dust"
 				type: "item"
 			}]
-			subtitle: "A part designed to share energy between two ME Networks without sharing anything else, also used to craft Fluix ME Glass Cable."
+			subtitle: "Uma peça projetada para compartilhar energia entre duas Redes ME sem compartilhar mais nada, também usada para criar Cabo de Vidro ME Fluix."
 			tasks: [{
 				id: "2B2D067EEDAE889D"
 				item: "ae2:quartz_fiber"
 				type: "item"
 			}]
-			title: "Sharing Power Between Networks"
+			title: "Compartilhando Energia Entre Redes"
 			x: 3.5d
 			y: -3.0d
 		}
@@ -382,7 +382,7 @@
 					xp_levels: 1
 				}
 			]
-			subtitle: "Used in the creation of Calculation Processors in an Inscriber."
+			subtitle: "Usado na criação de Processadores de Cálculo em um Inscriber."
 			tasks: [{
 				id: "730C6C0DFD9ED426"
 				item: "ae2:printed_calculation_processor"
@@ -410,7 +410,7 @@
 					xp_levels: 1
 				}
 			]
-			subtitle: "Used in the creation of Engineering Processors in an Inscriber."
+			subtitle: "Usado na criação de Processadores de Engenharia em um Inscriber."
 			tasks: [{
 				id: "5F7A54FA2EF9E9AA"
 				item: "ae2:printed_engineering_processor"
@@ -438,7 +438,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Used in the creation of Logic Processors in an Inscriber."
+			subtitle: "Usado na criação de Processadores Lógicos em um Inscriber."
 			tasks: [{
 				id: "0F0C927B0578FE62"
 				item: "ae2:printed_logic_processor"
@@ -463,7 +463,7 @@
 					xp_levels: 2
 				}
 			]
-			subtitle: "Used in the creation of all Processors."
+			subtitle: "Usado na criação de todos os Processadores."
 			tasks: [{
 				id: "3B4ABFDA13975AB3"
 				item: "ae2:printed_silicon"
@@ -481,7 +481,7 @@
 				type: "item"
 			}]
 			shape: "circle"
-			subtitle: "Silicon can be crafted by smelting Certus Quartz Dust. It's used alongside an Inscriber and Inscriber Silicon Press to create Printed Silicon."
+			subtitle: "O Silício pode ser criado ao derreter o Pó de Quartzo Certus. Ele é usado juntamente com um Inscriber e uma Prensa de Silício do Inscriber para criar Silício Impresso."
 			tasks: [{
 				id: "24324D7D876CB420"
 				item: "ae2:silicon"
@@ -507,7 +507,7 @@
 					xp_levels: 1
 				}
 			]
-			subtitle: "Used to accelerate crystal growth, which allows you to create Certus Quartz Crystal andFluix Crystal from crystal dust. Must be powered by an ME Network via the top or bottom, and consumes a steady 8 ae/t while plugged in. Crystal Seeds must be in an adjacent water block to be effected, the seeds will shimmer more rapidly when in the presence of a powered Crystal Growth Accelerator. Can only connect to cables, or other networked machines on the top and bottom of the machine."
+			subtitle: "Usado para acelerar o crescimento de cristais, o que permite criar Cristal de Quartzo Certus e Cristal Fluix a partir de pó de cristal. Deve ser alimentado por uma Rede ME via a parte superior ou inferior, e consome constante 8 ae/t enquanto estiver conectado. As Sementes de Cristal devem estar em um bloco de água adjacente para serem afetadas; as sementes brilharão mais rapidamente na presença de um Acelerador de Crescimento de Cristal energizado. Só pode se conectar a cabos ou a outras máquinas conectadas à rede na parte superior e inferior da máquina."
 			tasks: [{
 				id: "392757001D259FB4"
 				item: "ae2:growth_accelerator"
@@ -519,7 +519,7 @@
 		{
 			id: "0EDC1CB91ADAC3DB"
 			shape: "circle"
-			subtitle: "Used alongside an Inscriber and Inscriber Logic Plate to create a Printed Logic Circuit."
+			subtitle: "Usado junto com um Inscriber e uma Placa Lógica do Inscriber para criar um Circuito Lógico Impresso."
 			tasks: [{
 				id: "51A800BB297FD52A"
 				item: "minecraft:gold_ingot"
@@ -531,7 +531,7 @@
 		{
 			id: "4A041E600B41F4C3"
 			shape: "circle"
-			subtitle: "Used alongside an Inscriber and Inscriber Calculation Plate to create a Printed Calculation Circuit."
+			subtitle: "Usado junto com um Inscriber e uma Placa de Cálculo do Inscriber para criar um Circuito de Cálculo Impresso."
 			tasks: [{
 				id: "66148600F741E743"
 				item: "ae2:certus_quartz_crystal"
@@ -543,7 +543,7 @@
 		{
 			id: "4329D355F5B2E80D"
 			shape: "circle"
-			subtitle: "Used alongside an Inscriber and Inscriber Engineering Plate to create a Printed Engineering Circuit."
+			subtitle: "Usado junto com um Inscriber e uma Placa de Engenharia do Inscriber para criar um Circuito de Engenharia Impresso."
 			tasks: [{
 				id: "554F62ED2C0E58EF"
 				item: "minecraft:diamond"
@@ -711,7 +711,7 @@
 					xp_levels: 3
 				}
 			]
-			subtitle: "Medium tier processor."
+			subtitle: "Processador de nível médio."
 			tasks: [{
 				id: "04010B4761D37E97"
 				item: "ae2:calculation_processor"
@@ -740,7 +740,7 @@
 					xp_levels: 3
 				}
 			]
-			subtitle: "Most Advanced Processor."
+			subtitle: "Processador mais avançado."
 			tasks: [{
 				id: "672ED8F45A5EA6CD"
 				item: "ae2:engineering_processor"
@@ -769,7 +769,7 @@
 					xp_levels: 3
 				}
 			]
-			subtitle: "Most basic processor."
+			subtitle: "Processador mais básico"
 			tasks: [{
 				id: "5A4D826E9A34C2AB"
 				item: "ae2:logic_processor"
@@ -781,7 +781,7 @@
 		{
 			id: "3D5BF7E05FE7FF71"
 			shape: "circle"
-			subtitle: "Redstone is a component when creating Processors."
+			subtitle: "Redstone é um componente na criação de Processadores."
 			tasks: [{
 				id: "738D2517D2F6BF15"
 				item: "minecraft:redstone"
@@ -798,7 +798,7 @@
 				xp_levels: 1
 			}]
 			shape: "diamond"
-			subtitle: "A component required for making item storage cells. Storage Cells are one of the core mechanics of storage in Applied Energistics 2, there are three kinds: one for items, one for fluids, and one for regions of space. These ones store items only."
+			subtitle: "Um componente necessário para fazer células de armazenamento de itens e fluidos. As Células de Armazenamento são uma das mecânicas centrais de armazenamento no Applied Energistics 2, existem três tipos: uma para itens, uma para fluidos e uma para regiões do espaço."
 			tasks: [{
 				id: "5B56842ACD469029"
 				item: "ae2:item_cell_housing"
@@ -815,7 +815,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "The ME Chest is the simplest way to use a Storage cell, it will give you direct access to the contents of the cell placed inside. It can be powered stand alone with external power, or as part of a ME Network. When on a network, the storage of the chest will be available to any other devices in the same network using an assigned Channel. When used without a network, the chest will not transfer full stacks at once, capping transfers at 38 items instead."
+			subtitle: "O ME Chest é a forma mais simples de usar uma célula de armazenamento, ele dará acesso direto ao conteúdo da célula colocada dentro dela. Ele pode ser alimentado independentemente com energia externa ou como parte de uma Rede ME. Quando está em uma rede, o armazenamento do baú estará disponível para quaisquer outros dispositivos na mesma rede usando um Canal atribuído. Quando usado sem uma rede, o baú não transferirá pilhas inteiras de uma vez, limitando as transferências a 38 itens."
 			tasks: [{
 				id: "0799E1752E0725D9"
 				item: "ae2:chest"
@@ -836,7 +836,7 @@
 				type: "xp_levels"
 				xp_levels: 3
 			}]
-			subtitle: "Used to display inventories of ME Chests and to hold Storage Drives."
+			subtitle: "Usado para exibir inventários de ME Chests e para segurar Storage Drives."
 			tasks: [{
 				id: "76A1D105E526A568"
 				item: "ae2:terminal"
@@ -853,7 +853,7 @@
 				xp_levels: 1
 			}]
 			shape: "diamond"
-			subtitle: "A component used to create an ME Terminal."
+			subtitle: "Um componente usado para criar um Terminal ME."
 			tasks: [{
 				id: "749DBDC7DEFE6313"
 				item: "ae2:formation_core"
@@ -874,7 +874,7 @@
 				item: "ae2:quartz_fiber"
 				type: "item"
 			}]
-			subtitle: "Fluix ME Glass Cable is the simplest cable to make, transfers power and up to 8 Channels. It comes in 17 different colors, the default being Fluix, and can be dyed any color using any of the 16 dyes."
+			subtitle: "O Cabo de Vidro ME Fluix é o cabo mais simples de fazer, transfere energia e até 8 Canais. Ele vem em 17 cores diferentes, sendo a padrão Fluix, e pode ser tingido com qualquer cor usando qualquer um dos 16 corantes."
 			tasks: [{
 				id: "430D87ABC96168C8"
 				item: "ae2:fluix_glass_cable"
@@ -891,7 +891,7 @@
 				xp_levels: 1
 			}]
 			shape: "diamond"
-			subtitle: "A component used to create an ME Terminal."
+			subtitle: "Um componente usado para criar um Terminal ME."
 			tasks: [{
 				id: "266628AB0DCB3A70"
 				item: "ae2:annihilation_core"
@@ -908,7 +908,7 @@
 				type: "xp_levels"
 				xp_levels: 2
 			}]
-			subtitle: "A component used in the creation of an ME Terminal."
+			subtitle: "Um componente usado na criação de um Terminal ME."
 			tasks: [{
 				id: "3A43960E6E52F985"
 				item: "ae2:semi_dark_monitor"
@@ -933,7 +933,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "A component used in the creation of an illuminated panel."
+			subtitle: "Um componente usado na criação de um painel iluminado."
 			tasks: [{
 				id: "3FA27A630451FC41"
 				item: "ae2:quartz_glass"
@@ -961,7 +961,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The ME Controller is the routing hub of a ME Network. Without it, only up to 8 devices can interact, any more and everything stops working.It is not possible to have 2 ME Controller in one ME Network.Unlike most ME Network devices, the ME Controller does not require channels, rather it emits them 8 or 32 per side, depending how many channels the device supports."
+			subtitle: "O Controlador ME é o hub de roteamento de uma Rede ME. Sem ele, apenas até 8 dispositivos podem interagir; se houver mais, tudo para de funcionar. Não é possível ter 2 Controladores ME em uma única Rede ME. Ao contrário da maioria dos dispositivos de Rede ME, o Controlador ME não requer canais; em vez disso, ele os emite, sendo 8 ou 32 por lado, dependendo de quantos canais o dispositivo suporta."
 			tasks: [{
 				id: "340A427B8E9BBE08"
 				item: "ae2:controller"
@@ -978,7 +978,7 @@
 				item: "ae2:sky_stone_block"
 				type: "item"
 			}]
-			subtitle: "Sky Stone Blocks are crafted by melting Sky Stone in a furnace."
+			subtitle: "Os Blocos de Pedra do Céu são criados ao derreter Pedra do Céu em um forno."
 			tasks: [{
 				id: "777BB83C3E8E0FB5"
 				item: "ae2:smooth_sky_stone_block"
@@ -995,7 +995,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "A block designed to do one thing, store Storage Cells. This block holds 10 storage cells so you can tightly pack your storage into a very small space."
+			subtitle: "Um bloco projetado para fazer uma coisa, armazenar Células de Armazenamento. Este bloco armazena 10 células de armazenamento para que você possa compactar seu armazenamento em um espaço muito pequeno."
 			tasks: [{
 				id: "5203A4E286C6629B"
 				item: "ae2:drive"
@@ -1020,7 +1020,7 @@
 		{
 			id: "21D071C553C01CA3"
 			shape: "diamond"
-			subtitle: "Fluid Cells are the same as Item Cells, but instead of storing items they store fluids."
+			subtitle: "As Fluid Cells são iguais às Item Cells, mas em vez de armazenar itens, elas armazenam fluidos."
 			tasks: [{
 				id: "691D74EA299E9AB0"
 				item: "ae2:fluid_cell_housing"
@@ -1036,7 +1036,7 @@
 				type: "xp_levels"
 				xp_levels: 1
 			}]
-			subtitle: "Storage components are the base of any cell you will make in AE2."
+			subtitle: "Os componentes de armazenamento são a base de qualquer célula que você fará no AE2."
 			tasks: [{
 				id: "5AA14A1CAB53D12F"
 				item: "ae2:cell_component_1k"
@@ -1705,16 +1705,17 @@
 			}
 			id: "6AA5455AAC85BB9A"
 			shape: "circle"
-			subtitle: "Portable cells are regular cells, but you can open them up like a backpack (minus the keybind). These still require energy, but can be great early game if your backpack isn't doing enough for you."
+			subtitle: "As células portáteis são células normais, mas você pode abri-las como uma mochila (sem a tecla de atalho). Elas ainda requerem energia, mas podem ser ótimas no início do jogo, caso sua mochila não esteja dando conta."
 			tasks: [{
 				id: "499196DA5227D9E6"
-				title: "About Portable Cells"
+				title: "Sobre Celulas Portateis"
 				type: "checkmark"
 			}]
 			x: 5.0d
 			y: -4.0d
 		}
 	]
-	subtitle: ["This Questline will get you familiarized with the basics of AE2. You should be able to get basic power generation as well as a storage system started here!"]
+	subtitle: ["Esta sequência de missões irá familiarizá-lo com os conceitos básicos do AE2. Você deve ser capaz de começar a geração básica de energia, bem como um sistema de armazenamento aqui!"]
 	title: "&9 Applied Energistics 2"
 }
+

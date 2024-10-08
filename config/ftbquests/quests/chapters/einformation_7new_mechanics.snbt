@@ -41,7 +41,9 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Todos os escudos possuem novas mecânicas provenientes do mod &eShield Overhaul&r."
+				""
+				"&e&lAvançe &r&7Atacando enquanto bloqueia para dar um encontrão de escudo. &7Isso vai atordoar o alvo por 1 segundo, exceto se for um chefe."
 				""
 				"&8Português"
 			]
@@ -54,13 +56,13 @@
 			}
 			id: "51595E88AF1F475E"
 			shape: "hexagon"
-			subtitle: "&8[Click to read more]"
+			subtitle: "&8[Clique para ler mais]"
 			tasks: [{
 				id: "7AAEF7553C3616AE"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&eNew Defensive Mechanics"
+			title: "&eNovas Mecânicas Defensivas"
 			x: 2.0d
 			y: 0.0d
 		}
@@ -76,7 +78,13 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Mecanicas de combate foram alteradas pelo mod &eBetter Combat&r."
+				""
+				"- &6&lArmas &r&7Cada arma tem sua própria animação e tempo de ataque."
+				""
+				"- &6&lCombos &r&7Ataques consecutivos são combos."
+				""
+				"- &6&lSegure para atacar &r&7Você pode segurar o botão de ataque para atacar continuamente."
 				""
 				"&8Português"
 			]
@@ -89,16 +97,17 @@
 			}
 			id: "6B8B4323E13AB3E9"
 			shape: "hexagon"
-			subtitle: "&8[Click to read more]"
+			subtitle: "&8[clique para ler mais]"
 			tasks: [{
 				id: "3589A9BB969BA94E"
 				title: "Continue"
 				type: "checkmark"
 			}]
-			title: "&eNew Combat Mechanics"
+			title: "&eNovas Mecânicas de Combate"
 			x: -2.0d
 			y: 0.0d
 		}
 	]
-	title: " &eInformation: &cCombat"
+	title: " &eInformação: &fNovas Mecânicas"
 }
+

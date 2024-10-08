@@ -51,10 +51,10 @@
 				dimension: "minecraft:the_nether"
 				icon: "minecraft:netherrack"
 				id: "7FC5892104C0744C"
-				title: "Enter the Nether"
+				title: "Entre no Nether"
 				type: "dimension"
 			}]
-			title: "Enter &cThe Nether"
+			title: "Entre no &cNether"
 			x: -5.0d
 			y: 0.0d
 		}
@@ -68,16 +68,16 @@
 				xp_levels: 3
 			}]
 			shape: "pentagon"
-			subtitle: "Spawns next to &6Blaze Spawners &7in &4nether fortresses &7but can also appear in &4Nether Wastes."
+			subtitle: "Aparece próximo a &6Blaze Spawners &7na &4Fortaleza do Nether &7mas também pode aparecer em &4Nether Wastes."
 			tasks: [{
 				entity: "adventurez:blaze_guardian"
 				icon: "minecraft:blaze_rod"
 				id: "4DBABAE3AE00C903"
-				title: "Kill a Blaze Guardian"
+				title: "Mate o Blaze Guardian"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill the &6Blaze Guardian"
+			title: "Mate o &6Blaze Guardian"
 			x: -7.5d
 			y: -2.0d
 		}
@@ -99,16 +99,16 @@
 				}
 			]
 			shape: "pentagon"
-			subtitle: "Spawns in &4Nether Fortresses&r."
+			subtitle: "Aparece na &4Fortaleza do Nether&r."
 			tasks: [{
 				entity: "adventurez:necromancer"
 				icon: "minecraft:wither_skeleton_skull"
 				id: "745C505DC4DF253C"
-				title: "Kill a Necromancer"
+				title: "Mate o Necromancer"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill &8The Necromancer"
+			title: "Mate &8O Necromancer"
 			x: -2.5d
 			y: -2.0d
 		}
@@ -118,16 +118,16 @@
 			hide_dependency_lines: true
 			id: "3963B69A10D95565"
 			shape: "pentagon"
-			subtitle: "&8The Stone Golem &rcan only be summoned with a &6Golem Ritual&r  while being in &4The Nether &f(use the for more informations)"
+			subtitle: "&8The Stone Golem&r só pode ser convocado com um &6Golem Ritual&r enquanto estiver no &4Nether &f(use-o para mais informações)"
 			tasks: [{
 				entity: "adventurez:blackstone_golem"
-				icon: "adventurez:blackstone_golem_heart"
+				icon: "adventurez:stone_golem_heart"
 				id: "27D27F2750D953BC"
-				title: "Kill the Blackstone Golem"
+				title: "Mate o Blackstone Golem"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill the &8Blackstone Golem"
+			title: "Mate o &8Blackstone Golem"
 			x: -5.0d
 			y: -3.0d
 		}
@@ -154,16 +154,16 @@
 				}
 			]
 			shape: "pentagon"
-			subtitle: "Spawns in Crimson Forests in &4The Nether&r."
+			subtitle: "Aparece na Crimson Forests no &4Nether&r."
 			tasks: [{
 				entity: "soulsweapons:withered_demon"
 				icon: "soulsweapons:withered_demon_heart"
 				id: "239ACDE3872515BB"
-				title: "Kill a Withered Demon"
+				title: "Mate um Withered Demon"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill &8The Withered Demon"
+			title: "Mate &8O Withered Demon"
 			x: -5.0d
 			y: 3.0d
 		}
@@ -187,12 +187,12 @@
 				xp_levels: 5
 			}]
 			shape: "pentagon"
-			subtitle: "Spawns in &4The Remnants of The Decaying Kingdom&r."
+			subtitle: "Aparece no &4Remnants of The Decaying Kingdom&r."
 			tasks: [{
 				entity: "soulsweapons:accursed_lord_boss"
 				icon: "soulsweapons:lord_soul_red"
 				id: "2137D80B50F2DCCB"
-				title: "Kill &4The Decaying King"
+				title: "Mate &4O Decaying King"
 				type: "kill"
 				value: 1L
 			}]
@@ -217,12 +217,12 @@
 				}
 			]
 			shape: "pentagon"
-			subtitle: "The Soul Reaper spawns in the &bsoul sand valley&r with its mount, The Nightmare."
+			subtitle: "O Soul Reaper aparece no &bsoul sand valley&r com sua montaria o Nightmare."
 			tasks: [{
 				entity: "adventurez:soul_reaper"
 				icon: "soulsweapons:lord_soul_void"
 				id: "09CA256D27D0482F"
-				title: "Kill &8The Soul Reaper"
+				title: "Mate &8O Soul Reaper"
 				type: "kill"
 				value: 1L
 			}]
@@ -230,5 +230,6 @@
 			y: 2.0d
 		}
 	]
-	title: " &cThe Nether"
+	title: " &cO Nether"
 }
+

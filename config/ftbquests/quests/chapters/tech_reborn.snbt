@@ -15,7 +15,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Welcome to Tech Reborn! A tech mod that provides options for power power generation, power storage, bulk item storage, tools and the creation of materials from energy and scrap."
+			subtitle: "Bem-vindo ao Tech Reborn! Um mod de tecnologia que oferece opções para geração de energia, armazenamento de energia, armazenamento em massa de itens, ferramentas e a criação de materiais a partir de energia e sucata."
 			tasks: [{
 				id: "2A8A14E3AE26CD95"
 				type: "checkmark"
@@ -44,7 +44,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "Time to get tapping, here is a sapling to help you get started. \\n\\n By right-clicking the tree tap on the orange spots of a rubber tree you are able to extract sap that can be smelted into rubber. "
+			subtitle: "É hora de começar a extrair. Aqui está uma muda para ajudá-lo a começar. \\n\\nAo clicar com o botão direito no tree tap nos pontos laranjas de uma seringueira, você pode extrair seiva que pode ser fundida em borracha."
 			tasks: [{
 				id: "34D264E11AE94E6E"
 				item: {
@@ -62,7 +62,7 @@
 		{
 			dependencies: ["4C244A59E076A502"]
 			id: "4B8D34860B127B5C"
-			subtitle: "With its enhanced properties, refined iron serves as the foundation for constructing advanced devices and intricate circuits."
+			subtitle: "Com suas propriedades aprimoradas, o ferro refinado serve como base para a construção de dispositivos avançados e circuitos intrincados."
 			tasks: [{
 				id: "1C5A76594ECF949E"
 				item: "techreborn:refined_iron_ingot"
@@ -83,7 +83,7 @@
 				xp: 100
 			}]
 			size: 1.5d
-			subtitle: "These are the basic building blocks of early-game Tech Reborn."
+			subtitle: "Estes são os blocos básicos de construção do início do jogo no Tech Reborn."
 			tasks: [
 				{
 					id: "5D724882A1DB66C7"
@@ -96,7 +96,7 @@
 					type: "item"
 				}
 			]
-			title: "Basic Components"
+			title: "Componentes Básicos"
 			x: 1.5d
 			y: 7.5d
 		}
@@ -116,7 +116,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "An upgraded version of a furnace that allows it to run off of energy instead of coal."
+			subtitle: "Uma versão aprimorada de um forno que permite que ele funcione com energia em vez de carvão."
 			tasks: [{
 				id: "51B12088B713C89C"
 				item: "techreborn:electric_furnace"
@@ -133,7 +133,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Using two iron furnaces and some refined iron you are able to fashion a primitive alloy smelter allowing for some new materials to be created."
+			subtitle: "Usando dois fornos de ferro e um pouco de ferro refinado, você pode criar um forno de ligas primitivo que permite a criação de alguns novos materiais."
 			tasks: [{
 				id: "6679518F4EA446D9"
 				item: "techreborn:iron_alloy_furnace"
@@ -150,7 +150,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "An upgraded version of the Iron Alloy Smelter that allows it to run off of energy instead of coal."
+			subtitle: "Uma versão aprimorada do Forno de Ligas de Ferro que permite que ele funcione com energia em vez de carvão."
 			tasks: [{
 				id: "5E3E493E895A8172"
 				item: "techreborn:alloy_smelter"
@@ -201,7 +201,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "With its relentless force and precision, this mechanical masterpiece takes raw materials and subjects them to immense pressure. \\n\\nThis machine will be very handy on your journey through Tech Reborn."
+			subtitle: "Com sua força implacável e precisão, essa obra-prima mecânica submete materiais brutos a uma pressão imensa. \\n\\nEsta máquina será muito útil em sua jornada pelo Tech Reborn."
 			tasks: [{
 				id: "07F8124CD1DA92EA"
 				item: "techreborn:compressor"
@@ -226,7 +226,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "A machine that allows for more efficient use of raw resources, particularly useful for all that rubber you'll need."
+			subtitle: "Uma máquina que permite o uso mais eficiente de recursos brutos, especialmente útil para toda a borracha que você precisará."
 			tasks: [{
 				id: "5A06A00223C86F71"
 				item: "techreborn:extractor"
@@ -244,7 +244,7 @@
 				item: "techreborn:scrap"
 				type: "item"
 			}]
-			subtitle: "The recycler is the ultimate machine for getting rid of unwanted items, it accepts any item and simply turns it into scrap by using energy."
+			subtitle: "O reciclador é a máquina definitiva para se livrar de itens indesejados, ele aceita qualquer item e simplesmente o transforma em sucata usando energia."
 			tasks: [{
 				id: "2AA8BB537CAED9E3"
 				item: "techreborn:recycler"
@@ -270,7 +270,7 @@
 					xp: 50
 				}
 			]
-			subtitle: "A basic machine that converts ingots into wire, making for more efficient use of the material."
+			subtitle: "Uma máquina básica que converte lingotes em fios, possibilitando um uso mais eficiente do material."
 			tasks: [{
 				id: "380703B271FC9EC6"
 				item: "techreborn:wire_mill"
@@ -286,7 +286,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Permite derreter 12,5 itens por peça de carvão."
 				""
 				"&8Português"
 				]
@@ -304,7 +304,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "This offers a significant upgrade over the traditional furnace, providing the ability for easy automation and more fuel-efficient smelting capabilities."
+			subtitle: "Isso oferece uma atualização significativa em relação ao forno tradicional, proporcionando a capacidade de automação fácil e capacidades de fusão mais eficientes em termos de combustível."
 			tasks: [{
 				id: "3684F1DBE604A0D2"
 				item: "techreborn:iron_furnace"
@@ -405,7 +405,7 @@
 				}
 			]
 			size: 1.5d
-			subtitle: "Congratulations, this is where the midgame of Tech reborn begins."
+			subtitle: "Parabéns, aqui é onde começa o meio do jogo do Tech Reborn."
 			tasks: [
 				{
 					id: "2D038516235AF2D5"
@@ -437,7 +437,7 @@
 				}
 			]
 			size: 1.5d
-			subtitle: "By harnessing the power of centrifugal forces the Industrial Centrifuge allows for the extraction of several new resources."
+			subtitle: "Ao aproveitar o poder das forças centrífugas, a Centrífuga Industrial permite a extração de vários novos recursos."
 			tasks: [{
 				id: "4C6928017A7FB3DD"
 				item: "techreborn:industrial_centrifuge"
@@ -532,7 +532,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Aluminum is a component in a lot of things around you. However the most readily available should be clay and bauxite.\\n\\n To get aluminum it's recommended to electrolyze &dClay dust&r / &dBauxite dust&r or industrially grind &dBauxite ore&r"
+			subtitle: "O alumínio é um componente em muitas coisas ao seu redor. No entanto, os mais prontamente disponíveis devem ser argila e bauxita. \\n\\n Para obter alumínio, é recomendado eletrólise de &dClay dust&r / &dBauxite dust&r ou moagem industrial de &dBauxite ore&r."
 			tasks: [{
 				id: "02A3EB332C1AB3EA"
 				item: "techreborn:aluminum_dust"
@@ -549,7 +549,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Iron reinforced with nickel, creating an alloy stronger than the sum of its parts. \\n\\nCan be used for higher yield crafts of mixed metal ingots or as plates to make some medium tier generators."
+			subtitle: "Ferro reforçado com níquel, criando uma liga mais forte do que a soma de suas partes. \\n\\nPode ser usado para criações de alto rendimento de lingotes de metal misto ou como placas para fazer alguns geradores de nível médio."
 			tasks: [{
 				id: "3C5858080E818E4B"
 				item: "techreborn:invar_ingot"
@@ -566,7 +566,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A simple, elegant mix of gold and silver."
+			subtitle: "Uma mistura simples e elegante de ouro e prata."
 			tasks: [{
 				id: "3A9DB76F105E8215"
 				item: "techreborn:electrum_ingot"
@@ -583,7 +583,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A rather useful alloy, mostly for creating mixed alloy ingots."
+			subtitle: "Uma liga bastante útil, principalmente para criar lingotes de liga mista."
 			tasks: [{
 				id: "5ABBEECED68127B8"
 				item: "techreborn:bronze_ingot"
@@ -600,7 +600,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Made in the Industrial Blast Furnace."
+			subtitle: "Feito no Forno de Alto-Forno Industrial."
 			tasks: [{
 				id: "11F128742A956CB1"
 				item: "techreborn:aluminum_ingot"
@@ -617,7 +617,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Unlock the true potential of your machines with the Overclocker Upgrade a remarkable innovation that cuts waiting times by 25% per upgrade."
+			subtitle: "Desbloqueie o verdadeiro potencial de suas máquinas com a Atualização de Overclocker, uma inovação notável que reduz os tempos de espera em 25% por atualização."
 			tasks: [{
 				id: "3812CF7D67D80458"
 				item: "techreborn:overclocker_upgrade"
@@ -635,7 +635,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Remnants of a bygone era, transformers are a thing of the past."
+			subtitle: "Vestígios de uma era passada, os transformadores são coisa do passado."
 			tasks: [{
 				id: "2180E191F6508826"
 				type: "checkmark"
@@ -651,7 +651,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "A rather humble upgrade that increases the amount of energy your machines can store. Helpful for when having an external energy buffer isn't feasible."
+			subtitle: "Um upgrade bastante modesto que aumenta a quantidade de energia que suas máquinas podem armazenar. Útil quando ter um buffer de energia externo não é viável."
 			tasks: [{
 				id: "24742AD588296FAE"
 				item: "techreborn:energy_storage_upgrade"
@@ -668,7 +668,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Sick and tired of that whining sound your machines make while working? I have just the thing for you, plop a muffler upgrade in your machine and i assure you... \\n\\n \"It's quieter than a mime trapped in a library during a power outage.\""
+			subtitle: "Farto e cansado desse som de chiado que suas máquinas fazem enquanto trabalham? Eu tenho exatamente o que você precisa, coloque um upgrade de abafador em sua máquina e eu garanto para você... \\n\\n \"É mais silencioso do que um mímico preso em uma biblioteca durante uma queda de energia.\""
 			tasks: [{
 				id: "23342907C2834700"
 				item: "techreborn:muffler_upgrade"
@@ -694,7 +694,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "Well, it worked. But now it wont cool down. We're gonna need a machine for that."
+			subtitle: "Bem, funcionou. Mas agora não vai esfriar. Vamos precisar de uma máquina para isso."
 			tasks: [
 				{
 					id: "70D989DE9F7D5219"
@@ -725,7 +725,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Steel and Tungsten are usually not alloyable but perhaps an Industrial Blast Furnace can get hot enough?"
+			subtitle: "Normalmente, o aço e o tungstênio não são ligáveis, mas talvez um Forno de Alto-Forno Industrial possa ficar quente o suficiente?"
 			tasks: [{
 				id: "6D9CA529DA493EA3"
 				item: "techreborn:hot_tungstensteel_ingot"
@@ -746,7 +746,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Seems like vacuum freezing it works, now to turn it into something more usable."
+			subtitle: "Parece que congelar a vácuo funciona, agora vamos transformá-lo em algo mais utilizável."
 			tasks: [
 				{
 					id: "02E0F3E0C75AC21D"
@@ -778,7 +778,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "The simplest form of energy production, consumes any burnable item and turns it into energy."
+			subtitle: "A forma mais simples de produção de energia, consome qualquer item combustível e o transforma em energia."
 			tasks: [{
 				id: "4552BEF1B44EFC04"
 				item: "techreborn:solid_fuel_generator"
@@ -795,7 +795,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 16 E/t by consuming lava."
+			subtitle: "Gera 16 E/t ao consumir lava."
 			tasks: [{
 				id: "165EF8ADBDF06081"
 				item: "techreborn:thermal_generator"
@@ -812,7 +812,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Provides energy from the sun, generates between 0 e/t and 3 e/t depending on the time of day."
+			subtitle: "Fornecer energia do sol, gera entre 0 E/t e 3 E/t dependendo da hora do dia."
 			tasks: [{
 				id: "4A0FE367C19C4AAB"
 				item: "techreborn:basic_solar_panel"
@@ -829,7 +829,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Provides energy from the sun, generates between 4 e/t and 24 e/t depending on the time of day."
+			subtitle: "Fornecer energia do sol, gera entre 4 E/t e 24 E/t dependendo da hora do dia."
 			tasks: [{
 				id: "2091EDF29176543C"
 				item: "techreborn:industrial_solar_panel"
@@ -846,7 +846,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Provides energy from the sun, generates between 0 e/t and 12 e/t depending on the time of day."
+			subtitle: "Fornecer energia do sol, gera entre 0 E/t e 12 E/t dependendo da hora do dia."
 			tasks: [{
 				id: "16B83920347F3C2E"
 				item: "techreborn:advanced_solar_panel"
@@ -863,7 +863,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Provides energy from the sun, generates between 8 e/t and 48 e/t depending on the time of day."
+			subtitle: "Fornecer energia do sol, gera entre 8 E/t e 48 E/t dependendo da hora do dia."
 			tasks: [{
 				id: "45F8A9240ED24AC2"
 				item: "techreborn:ultimate_solar_panel"
@@ -880,7 +880,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Provides energy from the sun, generates between 32 e/t and 512 e/t depending on the time of day."
+			subtitle: "Fornecer energia do sol, gera entre 32 E/t e 512 E/t dependendo da hora do dia."
 			tasks: [{
 				id: "5F8EC4A4168E505D"
 				item: "techreborn:quantum_solar_panel"
@@ -897,7 +897,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 20 E/t by consuming either diesel or nitro diesel."
+			subtitle: "Gera 20 E/t ao consumir diesel ou diesel nitro."
 			tasks: [{
 				id: "4CE7501F33BC237A"
 				item: "techreborn:diesel_generator"
@@ -914,7 +914,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 500 E/t by consuming heliumplasma."
+			subtitle: "Gera 500 E/t ao consumir hélio plasma."
 			tasks: [{
 				id: "520114AF319D3149"
 				item: "techreborn:plasma_generator"
@@ -931,7 +931,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 0.1 E/t per side touching water."
+			subtitle: "Gera 0.1 E/t por lado em contato com água."
 			tasks: [{
 				id: "1BBBC06411C8F9A5"
 				item: "techreborn:water_mill"
@@ -948,7 +948,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 2 E/t (2.5 E/t during thunderstorms), needs to be placed above y: 64."
+			subtitle: "Gera 2 E/t (2.5 E/t durante tempestades), precisa ser colocado acima de y: 64."
 			tasks: [{
 				id: "542F567D4B904633"
 				item: "techreborn:wind_mill"
@@ -981,7 +981,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "For the late-game you are going to need a lot of tungsten. One way of obtaining it is by centrifuging lava or endstone dust."
+			subtitle: "No final do jogo, você vai precisar de muito tungstênio. Uma maneira de obtê-lo é centrifugando lava ou poeira de pedra do fim."
 			tasks: [{
 				id: "589E6DF494C9899A"
 				item: "techreborn:tungsten_small_dust"
@@ -1026,7 +1026,7 @@
 				}
 				type: "item"
 			}]
-			title: "Tungsten Ore"
+			title: "Minério de Tungstênio"
 			x: -1.5d
 			y: 2.5d
 		}
@@ -1042,7 +1042,7 @@
 				type: "xp"
 				xp: 200
 			}]
-			subtitle: "\"This machine does it for you!\", got too many Scrapboxes for two hands? Well you're in luck, craft it now! The Scrapbox-inator opens any Scrapbox at the low-low cost of 32 E/t."
+			subtitle: "\"Esta máquina faz isso por você!\", tem muitas caixas de sucata para duas mãos? Bem, você está com sorte, construa-a agora! O Scrapbox-inator abre qualquer Scrapbox ao custo baixo de 32 E/t."
 			tasks: [{
 				id: "291D48EFB3135E0D"
 				item: "techreborn:scrapboxinator"
@@ -1061,13 +1061,13 @@
 				item: "techreborn:scrap_box"
 				type: "item"
 			}]
-			subtitle: "By taking 9 of your newly found scraps you are able to create a scrap box that essentially is a loot box containing random goodies. Finally a good use for all that spare cobble you got laying around."
+			subtitle: "Ao pegar 9 dos seus scraps recém-encontrados, você é capaz de criar uma caixa de sucata que essencialmente é uma caixa de saque contendo guloseimas aleatórias. Finalmente, um bom uso para todo aquele pedregulho sobrando por aí."
 			tasks: [{
 				id: "4EDB2AB05D681D47"
 				item: "techreborn:scrap_box"
 				type: "item"
 			}]
-			title: "Who said recycling couldn't be fun?"
+			title: "Quem disse que reciclar não pode ser divertido?"
 			x: -1.5d
 			y: 9.5d
 		}
@@ -1087,7 +1087,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Ah, the chemical reactor. It facilitates the combining of a myriad of chemicals, allows for the conversion of rotten flesh into leather and importantly the crafting of &4Synthetic Redstone Crystal&r."
+			subtitle: "Ah, o reator químico. Ele facilita a combinação de uma miríade de produtos químicos, permite a conversão de carne podre em couro e, principalmente, a criação do &4Cristal de Redstone Sintética&r."
 			tasks: [{
 				id: "61A585395D8A4B9D"
 				item: "techreborn:chemical_reactor"
@@ -1113,7 +1113,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "Due to the sturdiness of iridium alloy your compressor wont be enough to make plates out of it. Maybe explosions are a must? Controlled ones of course."
+			subtitle: "Devido à resistência da liga de irídio, seu compressor não será suficiente para fazer placas com ela. Talvez explosões sejam necessárias? Controladas, é claro."
 			tasks: [
 				{
 					id: "3A1046333BFC28A7"
@@ -1146,7 +1146,7 @@
 					xp: 200
 				}
 			]
-			subtitle: "If you're running low on resources, now might be the time to get an assembling machine as it allows for some alternate crafts for circuits that cut down on costs. \\n\\nOne specific recipe that might of interest is the &dElytra&r but how are you going to get those End Rods?"
+			subtitle: "Se você está ficando sem recursos, agora pode ser a hora de obter uma máquina de montagem, pois ela permite algumas receitas alternativas para circuitos que reduzem os custos. \\n\\nUma receita específica que pode ser de interesse é a &dElytra&r, mas como você vai conseguir essas Hastes do End?"
 			tasks: [{
 				id: "78C15C1B7EE47356"
 				item: "techreborn:assembly_machine"
@@ -1173,7 +1173,7 @@
 					xp: 125
 				}
 			]
-			subtitle: "For all your sawing needs."
+			subtitle: "Para todas as suas necessidades de serrar."
 			tasks: [
 				{
 					id: "42F4868A18350546"
@@ -1216,7 +1216,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "Absolutely necessary for making cupronickel rings and nichrome heating coils"
+			subtitle: "Absolutamente necessário para fazer anéis de cuproníquel e bobinas de aquecimento de nichrome."
 			tasks: [{
 				id: "61EB29D2429158AB"
 				item: "techreborn:rolling_machine"
@@ -1233,7 +1233,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 16 E/t using Methane or Hydrogen."
+			subtitle: "Gera 16 E/t usando Metano ou Hidrogênio."
 			tasks: [{
 				id: "5F7EAFB0DA50BA3D"
 				item: "techreborn:gas_turbine"
@@ -1254,7 +1254,7 @@
 				xp: 250
 			}]
 			size: 1.5d
-			subtitle: "We're in the endgame now!"
+			subtitle: "Estamos no final do jogo agora!"
 			tasks: [{
 				id: "47F1A5E80CBC5BDB"
 				item: "techreborn:industrial_machine_frame"
@@ -1284,7 +1284,7 @@
 				}
 			]
 			size: 1.5d
-			subtitle: "Requiring 30ke and 30 scrap per uu-matter"
+			subtitle: "Requerendo 30ke e 30 sucata por uu-matéria."
 			tasks: [{
 				id: "1BBA400588034739"
 				item: "techreborn:matter_fabricator"
@@ -1309,7 +1309,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "This malleable substance allows you to craft a multitude of materials, to think it was only created using scrap and energy."
+			subtitle: "Esta substância maleável permite que você crie uma infinidade de materiais, pensar que foi criada apenas usando sucata e energia."
 			tasks: [{
 				id: "0BBF4D7C215F638C"
 				item: "techreborn:uu_matter"
@@ -1326,7 +1326,7 @@
 				type: "xp"
 				xp: 500
 			}]
-			subtitle: "A chip optimized for energy flow, allowing you to create machines with higher power consumption."
+			subtitle: "Um chip otimizado para fluxo de energia, permitindo que você crie máquinas com maior consumo de energia."
 			tasks: [{
 				id: "3ECBC4143FC5A363"
 				item: "techreborn:energy_flow_chip"
@@ -1347,7 +1347,7 @@
 				item: "techreborn:industrial_circuit"
 				type: "item"
 			}]
-			subtitle: "An improved energy crystal, allowing for even higher levels of energy storage."
+			subtitle: "Um cristal de energia melhorado, permitindo níveis ainda mais altos de armazenamento de energia."
 			tasks: [{
 				id: "45E5F8FC569EE84B"
 				item: "techreborn:lapotron_crystal"
@@ -1372,7 +1372,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "Holds significantly more power than your average battery."
+			subtitle: "Armazena significativamente mais energia do que uma bateria comum."
 			tasks: [{
 				id: "5F242A10C40929D6"
 				item: "techreborn:lapotronic_orb"
@@ -1396,7 +1396,7 @@
 				xp: 10000
 			}]
 			size: 1.5d
-			subtitle: "UNLIMITED POWER! Or well, at least close enough. \\n\\nUsing a fusion reactor you can create 16ke/t or maybe make some more of that, hard to get, iridium."
+			subtitle: "PODER ILIMITADO! Ou bem, pelo menos quase isso. \\n\\nUsando um reator de fusão, você pode criar 16ke/t ou talvez fazer mais daquele irídio difícil de conseguir."
 			tasks: [
 				{
 					id: "51219F8329031846"
@@ -1421,7 +1421,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "The highest tier of circuit, a lot of these are needed for lapotron crystals. They're also useful for making the chips cheaper in the assembling machine."
+			subtitle: "O nível mais alto de circuito, muitos desses são necessários para cristais lapotron. Eles também são úteis para tornar os chips mais baratos na máquina de montagem."
 			tasks: [{
 				id: "0DBB0836120AC951"
 				item: "techreborn:industrial_circuit"
@@ -1463,7 +1463,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "By centrifuging lapis you are able to extract lazurite."
+			subtitle: "Ao centrifugar lápis, você é capaz de extrair lazurita."
 			tasks: [{
 				id: "0EB8463992259B6E"
 				item: "techreborn:lazurite_dust"
@@ -1480,7 +1480,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Made in the Industrial Blast Furnace."
+			subtitle: "Feito no Alto-forno Industrial."
 			tasks: [{
 				id: "35998FD4169397FC"
 				item: "techreborn:platinum_ingot"
@@ -1498,7 +1498,7 @@
 				type: "xp"
 				xp: 250
 			}]
-			subtitle: "An incredibly powerful alloy, only used for the most powerful items."
+			subtitle: "Uma liga incrivelmente poderosa, usada apenas para os itens mais poderosos."
 			tasks: [
 				{
 					id: "6DED9BED3775F9AF"
@@ -1529,7 +1529,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "You can obtain platinum dust by using the Industrial grinder to either grind &dIridium ore&r, &dSheldonite ore&r or \\n&dHearts of the Sea&r"
+			subtitle: "Você pode obter poeira de platina usando o moedor industrial para moer minério de &dIridium&r, minério de &dSheldonite&r ou \\n&dCorações do Mar&r."
 			tasks: [
 				{
 					count: 4L
@@ -1554,7 +1554,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "As simple as compressing an ingot."
+			subtitle: "Tão simples quanto comprimir um lingote."
 			tasks: [{
 				id: "06CACE2DE8C79372"
 				item: "techreborn:titanium_plate"
@@ -1571,7 +1571,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "As simple as compressing an ingot."
+			subtitle: "Tão simples quanto comprimir um lingote."
 			tasks: [{
 				id: "07DE61C5409C8499"
 				item: "techreborn:chrome_plate"
@@ -1588,7 +1588,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "These crystals very suitable for energy storage, but not by themselves, perhaps with some silicon?"
+			subtitle: "Esses cristais são muito adequados para armazenamento de energia, mas não por si só, talvez com um pouco de silício?"
 			tasks: [{
 				count: 2L
 				id: "7FC5FFEDE19B9B09"
@@ -1606,7 +1606,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A plate of silicon serves as a good base for a lot of electronics."
+			subtitle: "Uma placa de silício serve como uma boa base para muitos eletrônicos."
 			tasks: [{
 				id: "02F7A547AD759DF7"
 				item: "techreborn:silicon_plate"
@@ -1641,7 +1641,7 @@
 					xp: 250
 				}
 			]
-			subtitle: "Electrolyzed from &dRuby dust&r or &dUvarovite dust&r"
+			subtitle: "Eletrólise do pó de &dRubi&r ou do pó de &dUvarovita&r"
 			tasks: [{
 				id: "534064218996E258"
 				item: "techreborn:chrome_dust"
@@ -1658,7 +1658,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Made in the Industrial Blast Furnace."
+			subtitle: "Feito no Alto-forno Industrial."
 			tasks: [{
 				id: "70A1F2E53F54E6BC"
 				item: "techreborn:chrome_ingot"
@@ -1685,7 +1685,7 @@
 				}
 			]
 			size: 1.5d
-			subtitle: "Allows for the creation of fluids using uu-matter and energy."
+			subtitle: "Permite a criação de fluidos usando matéria uu e energia."
 			tasks: [
 				{
 					id: "0CE334E96C157044"
@@ -1710,7 +1710,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Made in the Industrial Blast Furnace."
+			subtitle: "Fabricado no Alto-forno Industrial."
 			tasks: [{
 				id: "343344D621957055"
 				item: "techreborn:titanium_ingot"
@@ -1735,7 +1735,7 @@
 					xp: 250
 				}
 			]
-			subtitle: "Obtained from either electrolyzing &4Bauxite dust&r or industrially grinding &dHearts of the Sea&r."
+			subtitle: "Obtido a partir da eletrólise do pó de &4Bauxita&r ou moendo industrialmente &dCorações do Mar&r."
 			tasks: [
 				{
 					count: 4L
@@ -1760,7 +1760,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "By electrolyzing crushed flint you were able to extract the silicon from it, perhaps this could be used to enhance your power storage capabilities? \\n\\n To obtain silicon cells you electrolyze either 8 &dflint dust&r or 16 &dsand&r"
+			subtitle: "Ao eletrolisar sílica triturada, você consegue extrair o silício dela. Talvez isso possa ser usado para melhorar suas capacidades de armazenamento de energia? \\n\\n Para obter células de silício, você eletrolisa 8 poeiras de &dsílex&r ou 16 &dareia&r."
 			tasks: [{
 				id: "5CE6032CC87B34F1"
 				item: {
@@ -1784,7 +1784,7 @@
 				type: "xp"
 				xp: 250
 			}]
-			subtitle: "Obtained through Electrolyzing emerald dust or Ender Peal dust"
+			subtitle: "Obtido através da eletrólise de poeira de esmeralda ou poeira de Pérola do End."
 			tasks: [{
 				id: "0AF35CD2565EEA8F"
 				item: {
@@ -1820,7 +1820,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Made in the Industrial Blast Furnace."
+			subtitle: "Produzido no Alto-forno Industrial."
 			tasks: [{
 				id: "05CF67CC863B72AE"
 				item: "techreborn:steel_ingot"
@@ -1857,7 +1857,7 @@
 				item: "techreborn:raw_iridium"
 				type: "item"
 			}]
-			subtitle: "Can be found in the overworld between y: -64 and y: 0"
+			subtitle: "Pode ser encontrado no mundo superior entre y: -64 e y: 0."
 			tasks: [{
 				icon: "techreborn:iridium_ore"
 				id: "06B0300A6DEE26B1"
@@ -1883,7 +1883,7 @@
 				}
 				type: "item"
 			}]
-			title: "Iridium Ore"
+			title: "Minério de Irídio"
 			x: -2.5d
 			y: 2.5d
 		}
@@ -1895,7 +1895,7 @@
 				item: "techreborn:iridium_ingot"
 				type: "item"
 			}]
-			subtitle: "Since the Iridium ore is so rare you might want to centrifuge some \\n&dPlatinum dust&r"
+			subtitle: "Como o minério de Irídio é tão raro, você pode querer centrifugar um pouco de \\n&dPó de Platina&r."
 			tasks: [{
 				count: 9L
 				id: "0C94799CDB680ED0"
@@ -1913,7 +1913,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Finally you have a reliable way of getting nickel. \\n\\nYou can get it by centrifuging raw gold ore, raw iron ore or raw copper ore."
+			subtitle: "Finalmente, você tem uma maneira confiável de obter níquel. \\n\\nVocê pode obtê-lo centrifugando minério de ouro bruto, minério de ferro bruto ou minério de cobre bruto."
 			tasks: [{
 				id: "0F54F493D0225711"
 				item: "techreborn:nickel_nugget"
@@ -1937,7 +1937,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "By using Mercury instead of water in your industrial grinder you can significantly increase its yield. \\n\\nObtained by centrifuging either redstone dust or cinnabar dust"
+			subtitle: "Ao usar Mercúrio em vez de água em seu moedor industrial, você pode aumentar significativamente seu rendimento. \\n\\nObtido por centrifugação de poeira de redstone ou poeira de cinábrio."
 			tasks: [{
 				id: "7EB84992550383DB"
 				item: {
@@ -1977,7 +1977,7 @@
 				id: "55E794C08540EC36"
 				type: "random"
 			}]
-			subtitle: "By combining a treetrap with a drain you allow yourself to fully automate the collection of sap by simply placing it next to a rubber tree, letting it collect the sap as it appears. It will even deposit its items into an inventory below it."
+			subtitle: "Ao combinar uma armadilha de árvore com um dreno, você se permite automatizar completamente a coleta de seiva simplesmente colocando-a ao lado de uma seringueira, permitindo que ela colete a seiva conforme aparece. Ela até depositará seus itens em um inventário abaixo dela."
 			tasks: [{
 				id: "4201C27A6E90A694"
 				item: "techreborn:resin_basin"
@@ -1994,7 +1994,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "After breaking your machines with your fist for the 13th time, you realize there has to be a better way. \\n\\nThe wrench allows you to instantly break machines by shift+rightclicking and also allows for rotation by simply right-clicking"
+			subtitle: "Depois de quebrar suas máquinas com os punhos pela décima terceira vez, você percebe que deve haver uma maneira melhor. \\n\\nA chave inglesa permite que você quebre instantaneamente as máquinas ao clicar com o botão direito enquanto segura Shift e também permite a rotação simplesmente clicando com o botão direito."
 			tasks: [{
 				id: "337C97BACC685BC4"
 				item: "techreborn:wrench"
@@ -2018,7 +2018,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "With a drain you can pull any liquid above it into it, a simple use case for this could be creating infinite water."
+			subtitle: "Com um dreno, você pode puxar qualquer líquido acima dele para dentro dele, um caso de uso simples para isso poderia ser criar água infinita."
 			tasks: [{
 				id: "444C97DD9E4D08BF"
 				item: "techreborn:drain"
@@ -2047,7 +2047,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Generates 256 kE/bolt of lightning. Place iron fences on top of it, attaching more than one will increase the chance that lightning hits the rod."
+			subtitle: "Gera 256 kE/raio de relâmpago. Coloque cercas de ferro em cima dele; anexar mais de uma aumentará a chance de que o raio atinja a haste."
 			tasks: [{
 				id: "15146E5AA52C1488"
 				item: "techreborn:lightning_rod"
@@ -2066,7 +2066,7 @@
 				xp: 50
 			}]
 			shape: "diamond"
-			subtitle: "Generates 4 E/t as long as it has a dragon egg on top of it."
+			subtitle: "Gera 4 E/t enquanto tiver um ovo de dragão em cima dela."															   
 			tasks: [{
 				id: "605DE8DE7039EC01"
 				item: "techreborn:dragon_egg_syphon"
@@ -2085,13 +2085,13 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "[\"\",\"The configuration system for machines can feel daunting for some. But here's a brief primer on it for anyone that needs it.\",\"\\n\",\"\\n\",\"To open the configuration system you click the wrench on the lefts side of the UI in any Tech Reborn machine that supports it. Then you press the slot you want to configure, this opens up a pop-up that shows how it's currently configured for that side, and then you press the side you want to configure to cycle through input, output and disabled. You can also check the box for the auto-input or auto-output to make the machine push/pull from the inventory adjacent to the configured sides.\",\"\\n\",\"\\n\",\"If you need something in video format \",{\"text\":\"Click Here \",\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=ZPFeYfYnbZ8\"}},\"to see a short video from the mod-creator on the system.\"]"
+			subtitle: "[\"\",\"O sistema de configuração para máquinas pode parecer intimidante para alguns. Mas aqui está um breve resumo para quem precisa.\",\"\\n\",\"\\n\",\"Para abrir o sistema de configuração, clique na chave inglesa no lado esquerdo da interface de usuário em qualquer máquina do Tech Reborn que o suporte. Em seguida, pressione o slot que deseja configurar; isso abrirá um pop-up que mostra como está atualmente configurado para esse lado, e então pressione o lado que deseja configurar para alternar entre entrada, saída e desativado. Você também pode marcar a caixa para a entrada ou saída automática para fazer a máquina empurrar/puxar do inventário adjacente aos lados configurados.\",\"\\n\",\"\\n\",\"Se você precisar de algo em formato de vídeo \",{\"text\":\"Clique Aqui \",\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=ZPFeYfYnbZ8\"}},\"para ver um vídeo curto do criador do mod sobre o sistema.\"]"
 			tasks: [{
 				id: "7F660A99AE621E58"
-				title: "Power Explained"
+				title: "Explicação sobre Energia"
 				type: "checkmark"
 			}]
-			title: "Machine configuration"
+			title: "Configuração de Máquinas"
 			x: 0.5d
 			y: 1.5d
 		}
@@ -2104,12 +2104,12 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "In older versions of the mod (minecraft v1.12) machines used to blow up and cables would break if you used a power tier too high for them. This is no longer the case although you will still see the transformers in rei, they are not needed.\\n\\n TLDR Transformers are only useful for restricting energy flow."
+			subtitle: "Nas versões mais antigas do mod (Minecraft v1.12), as máquinas costumavam explodir e os cabos se rompiam se você usasse um nível de energia muito alto para elas. Isso não é mais o caso, embora você ainda veja os transformadores no Rei, eles não são necessários.\\n\\nResumindo, os Transformadores só são úteis para restringir o fluxo de energia."
 			tasks: [{
 				id: "3230525C56067DC2"
 				type: "checkmark"
 			}]
-			title: "Energy tiers"
+			title: "Níveis de Energia"
 			x: 2.5d
 			y: 1.5d
 		}
@@ -2121,7 +2121,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "&4[CAUTION]&r At the Highest setting this WILL launch you about 250 blocks into the air"
+			subtitle: "&4[CUIDADO]&r Na configuração mais alta, isso IRÁ lançá-lo a cerca de 250 blocos no ar"
 			tasks: [{
 				id: "46185A68133BECF9"
 				item: "techreborn:launchpad"
@@ -2138,7 +2138,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "By centrifuging 8 marble dust you can get yourself a small amount of magnesium dust."
+			subtitle: "Ao centrifugar 8 poeiras de mármore, você pode obter uma pequena quantidade de poeira de magnésio."
 			tasks: [{
 				id: "280F862450B60870"
 				item: "techreborn:magnesium_dust"
@@ -2155,7 +2155,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Obtained by electrolizing &dClay dust&r."
+			subtitle: "Obtido por centrifugação de poeira de &dArgila."
 			tasks: [{
 				id: "5F81C31F20D5C3FF"
 				item: {
@@ -2179,7 +2179,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "A slight upgrade over a Red Cell Battery"
+			subtitle: "Um pequeno upgrade em relação a uma Bateria de Célula Vermelha"
 			tasks: [{
 				id: "6A5DDDDDBFA199C9"
 				item: "techreborn:lithium_ion_battery"
@@ -2196,7 +2196,7 @@
 				type: "xp"
 				xp: 500
 			}]
-			subtitle: "A battery that lets you change its energy output rate."
+			subtitle: "Uma bateria que permite alterar sua taxa de saída de energia."
 			tasks: [{
 				id: "4EC8F12E4FAE7017"
 				item: "techreborn:adjustable_su"
@@ -2220,7 +2220,7 @@
 					xp: 250
 				}
 			]
-			subtitle: "\"An enderchest for energy\" - All Interdimensional SUs you place down share the same energy storage. \\n\\nMeaning you can now transport your power anywhere without those pesky wires."
+			subtitle: "\"Um baú do ender para energia\" - Todos os SUs Interdimensionais que você colocar compartilham o mesmo armazenamento de energia. \\n\\nIsso significa que agora você pode transportar sua energia para qualquer lugar sem precisar desses fios chatos."
 			tasks: [{
 				id: "1EC10578A151B015"
 				item: "techreborn:interdimensional_su"
@@ -2238,7 +2238,7 @@
 				item: "techreborn:synthetic_redstone_crystal"
 				type: "item"
 			}]
-			subtitle: "A sizable upgrade to a battery box, allowing for 100x more power storage."
+			subtitle: "Um upgrade considerável para uma caixa de bateria, permitindo 100 vezes mais armazenamento de energia."
 			tasks: [{
 				id: "570F0A8582EBE17D"
 				item: "techreborn:medium_voltage_su"
@@ -2255,7 +2255,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "By integrating lapotron crystals with your MFE you can store 10x more power in the same space."
+			subtitle: "Ao integrar cristais lapotron com seu MFE, você pode armazenar 10 vezes mais energia no mesmo espaço."
 			tasks: [{
 				id: "4DA5E0CAEF44963D"
 				item: "techreborn:high_voltage_su"
@@ -2272,7 +2272,7 @@
 				type: "xp"
 				xp: 500
 			}]
-			subtitle: "If you're tired of charging your items one-by-one I have just the thing for you, the chare-o-mat allows for the charging of 6 items at once."
+			subtitle: "Se você está cansado de carregar seus itens um por um, tenho exatamente o que você precisa: o chare-o-mat permite carregar 6 itens de uma vez."
 			tasks: [{
 				id: "6D62105FFC0F091C"
 				item: "techreborn:charge_o_mat"
@@ -2289,7 +2289,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Obtained by centrifuging \\n&dGlowstone dust&r or &dEndstone dust&r "
+			subtitle: "Obtido por centrifugação de poeira de \\n&dPó de Pedra Luminosa ou &dPó de Pedra do End."
 			tasks: [{
 				id: "4A1E3052BA466275"
 				item: {
@@ -2307,7 +2307,7 @@
 		{
 			dependencies: ["027AD844F4FB9141"]
 			id: "294215B4FB3EECE0"
-			subtitle: "By centrifuging 16 cells of helium you can get helium^3 which can be used in the fusion reactor for power generation."
+			subtitle: "Ao centrifugar 16 células de hélio, você pode obter hélio-3, que pode ser usado no reator de fusão para geração de energia."
 			tasks: [{
 				id: "25A4B89E70351DEC"
 				item: {
@@ -2342,7 +2342,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Useful for canning all the things."
+			subtitle: "Útil para ancanar qualquer coisa."
 			tasks: [{
 				id: "08B194682125468C"
 				item: "techreborn:solid_canning_machine"
@@ -2366,7 +2366,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "This little thing can chare all the items in your inventory "
+			subtitle: "Este pequeno dispositivo pode carregar todos os itens em seu inventário."
 			tasks: [{
 				id: "0639682D9D4A3097"
 				item: "techreborn:red_cell_battery"
@@ -2384,7 +2384,7 @@
 				xp: 50
 			}]
 			size: 1.5d
-			subtitle: "Your most basic form of power storage.\\n\\nKeep in mind that the dot is the output and everything else is input for all power storage blocks in this Tech Reborn."
+			subtitle: "Sua forma mais básica de armazenamento de energia.\\n\\nLembre-se de que o ponto é a saída e todo o resto é entrada para todos os blocos de armazenamento de energia neste Tech Reborn."
 			tasks: [{
 				id: "008657CBA0FB8DEF"
 				item: "techreborn:low_voltage_su"
@@ -2401,7 +2401,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An upgraded version of the Basic Drill."
+			subtitle: "Uma versão melhorada da Broca Básica."
 			tasks: [{
 				id: "0EB012CDC43799A4"
 				item: "techreborn:advanced_drill"
@@ -2418,7 +2418,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An upgraded version of the Basic Chainsaw."
+			subtitle: "Uma versão aprimorada da Motosserra Básica."
 			tasks: [{
 				id: "4925568E8F7BE505"
 				item: "techreborn:advanced_chainsaw"
@@ -2435,7 +2435,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "An upgraded version of the Basic Jackhammer.\\n\\nShift + Right-Click to swap modes."
+			subtitle: "Uma versão aprimorada do Martelo Pneumático Básico.\\n\\nShift + Clique Direito para trocar os modos."
 			tasks: [{
 				id: "76AB7E201181D97C"
 				item: "techreborn:advanced_jackhammer"
@@ -2460,7 +2460,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "An electric tool to replace your basic pickaxes."
+			subtitle: "Uma ferramenta elétrica para substituir suas picaretas básicas."
 			tasks: [{
 				id: "3F29383093AA2D0B"
 				item: "techreborn:basic_drill"
@@ -2485,7 +2485,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "An electric tool to replace your basic axes."
+			subtitle: "Uma ferramenta elétrica para substituir seus machados básicos."
 			tasks: [{
 				id: "737943C5E3E57F9F"
 				item: "techreborn:basic_chainsaw"
@@ -2510,7 +2510,7 @@
 					xp: 25
 				}
 			]
-			subtitle: "A tool made specifically to mine through stone-like blocks. \\n\\nMeaning it doesn't mine ores. Good for making tunnels or clearing spaces."
+			subtitle: "Uma ferramenta feita especificamente para minerar blocos semelhantes a pedra. \\n\\nIsso significa que não minera minérios. Bom para fazer túneis ou limpar espaços."
 			tasks: [{
 				id: "38A8E198F2C91E95"
 				item: "techreborn:basic_jackhammer"
@@ -2530,7 +2530,7 @@
 				type: "xp"
 				xp: 250
 			}]
-			subtitle: "\"Jack of all trades, master of none.\" \\n\\nThis tool functions as a pickaxe, axe, shovel and sword."
+			subtitle: "\"O bom em tudo, mestre em nada.\" \\n\\nEsta ferramenta funciona como uma picareta, machado, pá e espada."
 			tasks: [{
 				id: "62CB9A8C633A22BA"
 				item: "techreborn:omni_tool"
@@ -2548,7 +2548,7 @@
 				item: "techreborn:sap"
 				type: "item"
 			}]
-			subtitle: "After gong through one too many treetaps it might be time to make an electric tool to replace them."
+			subtitle: "Depois de passar por muitos batedores de árvore, pode ser hora de fazer uma ferramenta elétrica para substituí-los."
 			tasks: [{
 				id: "5A4F9B374B9A0AA3"
 				item: "techreborn:electric_treetap"
@@ -2565,7 +2565,7 @@
 				item: "minecraft:diamond_ore"
 				type: "item"
 			}]
-			subtitle: "A tool for harvesting ores and the like while keeping their shape intact."
+			subtitle: "Uma ferramenta para colher minérios e coisas do tipo, mantendo sua forma intacta."
 			tasks: [{
 				id: "3B3E16367B5812BD"
 				item: {
@@ -2591,7 +2591,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An upgrade to the Advanced Drill, allowing it to mine in a 3x3 area when activated."
+			subtitle: "Um upgrade para a Broca Avançada, permitindo que ela mine em uma área de 3x3 quando ativada."
 			tasks: [{
 				id: "18F910715867129C"
 				item: "techreborn:industrial_drill"
@@ -2608,7 +2608,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An upgrade to the Advanced Chainsaw, allowing it to fell entire trees in one swing."
+			subtitle: "Um upgrade para a Motosserra Avançada, permitindo que ela derrube árvores inteiras com um único golpe."
 			tasks: [{
 				id: "6F5585FDEC1776A9"
 				item: "techreborn:industrial_chainsaw"
@@ -2625,7 +2625,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "An upgrade to the Advanced Jackhammer, allowing for an even bigger mining area."
+			subtitle: "Um upgrade para o Martelo Pneumático Avançado, permitindo uma área de mineração ainda maior."
 			tasks: [{
 				id: "2362AABD36C3AA96"
 				item: "techreborn:industrial_jackhammer"
@@ -2653,7 +2653,7 @@
 				item: "techreborn:superconductor_cable"
 				type: "item"
 			}]
-			subtitle: "The ultimate cable"
+			subtitle: "O cabo definitivo"
 			tasks: [{
 				id: "2E93F9B8361D923E"
 				item: "techreborn:superconductor_cable"
@@ -2685,7 +2685,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "Getting Deuterium is a three step process.\\n\\n1. Electrolyze 5 Water Cells \\n2. Centrifuge 5 Water Cells to get 4 Hydrogen Cells \\n3. Centrifuge 4 Hydrogen Cells to get 1 Deuterium Cell"
+			subtitle: "Obter deutério é um processo de três etapas.\\n\\n1. Eletrolise 5 Células de Água \\n2. Centrifugar 5 Células de Água para obter 4 Células de Hidrogênio \\n3. Centrifugar 4 Células de Hidrogênio para obter 1 Célula de Deutério"
 			tasks: [
 				{
 					id: "1D57F91C9BB9BDD0"
@@ -2721,7 +2721,7 @@
 					type: "item"
 				}
 			]
-			title: "Deuterium Cell"
+			title: "Célula de Deutério"
 			x: -11.0d
 			y: 18.0d
 		}
@@ -2733,7 +2733,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "Tritium is obtained by simply centrifuging 4 Deuterium Cells"
+			subtitle: "O trítio é obtido simplesmente centrifugando 4 Células de Deutério"
 			tasks: [{
 				id: "45796A556B155191"
 				item: {
@@ -2750,7 +2750,7 @@
 		}
 		{
 			id: "458F77D5647A05A9"
-			subtitle: "[\"\",\"Can be found in \",{\"text\":\"The End\",\"color\":\"dark_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"45D9C9CD7B2568A0\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[]}},\".\"]"
+			subtitle: "[\"\",\"Pode ser encontrado em \",{\"text\":\"The End\",\"color\":\"dark_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"45D9C9CD7B2568A0\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[]}},\".\"]"
 			tasks: [{
 				id: "1B7DF5ACF6C0B3CE"
 				item: "techreborn:sheldonite_ore"
@@ -2762,3 +2762,4 @@
 	]
 	title: " &9Tech Reborn"
 }
+

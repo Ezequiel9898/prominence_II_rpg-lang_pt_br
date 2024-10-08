@@ -14,7 +14,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"O livro vai te ajudar a entender o mod se for preciso."
 				""
 				"&8Português"
 			]
@@ -32,13 +32,13 @@
 					xp: 10
 				}
 			]
-			subtitle: "Welcome to Powah! A generator mod used to power machinery of almost every tech available. Learning how to use them will give you the power to function your machinery without the need to use fuel."
+			subtitle: "Bem-vindo ao Powah! Um mod de geradores que te dá energia para praticamente qualquer máquina tecnológica. Aprenda a usá-lo e libere-se das limitações do combustível para alimentar suas criações!"
 			tasks: [{
 				id: "49D4D76E7C8A344B"
-				title: "Ready to Power?"
+				title: "Preparado para o Power?"
 				type: "checkmark"
 			}]
-			title: "Electrician's First Job"
+			title: "Primeiro Trabalho do Eletricista"
 			x: 0.0d
 			y: -3.0d
 		}
@@ -57,14 +57,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "Dielectric Paste is an ingredient used to glue and craft electric parts used in the machinery, you should prepare a lot if you plan on upgrading."
+			subtitle: "A Pasta Dielétrica é um ingrediente usado para colar e criar peças elétricas usadas na maquinaria; você deve preparar bastante se planeja fazer um upgrade."
 			tasks: [{
 				count: 64L
 				id: "109BC50F07B47320"
 				item: "powah:dielectric_paste"
 				type: "item"
 			}]
-			title: "Electric Glue"
+			title: "Cola Eletrica"
 			x: 0.0d
 			y: -1.5d
 		}
@@ -76,7 +76,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Dielectric Rods are one of the main building parts in creating another piece of machinery part."
+			subtitle: "Os Bastões Dielétricos são uma das principais partes de construção na criação de outra peça de maquinaria."
 			tasks: [
 				{
 					count: 16L
@@ -91,7 +91,7 @@
 					type: "item"
 				}
 			]
-			title: "Initial Parts"
+			title: "Peças iniciais"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -103,7 +103,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "The Wrench is a tool used to rotate powah machinery, config with energy cables and even link certain electric rods to energizing orbs."
+			subtitle: "A chave inglesa é uma ferramenta usada para girar máquinas elétricas, configurar com cabos de energia e até mesmo conectar certos bastões elétricos a orbes de energia."
 			tasks: [{
 				id: "6166A7A7A3D373D3"
 				item: {
@@ -115,7 +115,7 @@
 				}
 				type: "item"
 			}]
-			title: "Electrician's Right Hand"
+			title: "Mão Direita do Eletricista"
 			x: -1.5d
 			y: -1.5d
 		}
@@ -127,7 +127,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "By itself, it's not useful, but after using it on a Zombie or a Husk, it will upgrade into the Player Aerial Pearl."
+			subtitle: "Por si só, não é útil, mas após usá-lo em um Zumbi ou um Morto-Vivo, ele se transformará na Pérola Aérea do Jogador."
 			tasks: [{
 				id: "728900D62C10DBD9"
 				item: "powah:aerial_pearl"
@@ -144,7 +144,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Capacitors are the next parts that are used to create a variety of electric machinery, you can either combine two capacitors to get a large one or cut one to get two tiny capacitors."
+			subtitle: "Os capacitores são as próximas peças usadas para criar uma variedade de máquinas elétricas; você pode combinar dois capacitores para obter um grande ou cortar um para obter dois capacitores pequenos."
 			tasks: [
 				{
 					id: "23495AC55711E4F9"
@@ -162,7 +162,7 @@
 					type: "item"
 				}
 			]
-			title: "Secondary Parts"
+			title: "Peças Secundárias"
 			x: 0.0d
 			y: 7.5d
 		}
@@ -174,7 +174,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Thermo Plates are an essential part used to create and upgrade your generators."
+			subtitle: "As Placas Térmicas são uma parte essencial usada para criar e atualizar seus geradores."
 			tasks: [{
 				id: "5AE009AA59523FB8"
 				item: "powah:thermoelectric_plate"
@@ -186,14 +186,14 @@
 		{
 			dependencies: ["713D81FCECD1A537"]
 			id: "501B670CACF1CD84"
-			subtitle: "Dielectric Casing is a material that is required on all machinery to function as they always contain one in each recipe and upgrade."
+			subtitle: "A Capa Dielétrica é um material necessário em todas as máquinas para funcionar, já que sempre contêm uma em cada receita e atualização."
 			tasks: [{
 				count: 4L
 				id: "2A1BE06C03DA8CE4"
 				item: "powah:dielectric_casing"
 				type: "item"
 			}]
-			title: "Heart of the Machine"
+			title: "Coração da Máquina"
 			x: 0.0d
 			y: 3.0d
 		}
@@ -205,7 +205,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "An exclusive ingredient used to create Player Transmitters."
+			subtitle: "Um ingrediente exclusivo usado para criar Transmissores de Jogador."
 			tasks: [{
 				id: "03D3E03DF60AEA0A"
 				item: "powah:player_aerial_pearl"
@@ -230,13 +230,13 @@
 					xp: 30
 				}
 			]
-			subtitle: "A Player Transmitter will charge items in the player's inventory or equipped armor/trinkets."
+			subtitle: "Um Transmissor de Jogador irá carregar itens no inventário do jogador ou armaduras/acessórios equipados."
 			tasks: [{
 				id: "6CE18295ACA3DD1F"
 				item: "powah:player_transmitter_starter"
 				type: "item"
 			}]
-			title: "Walking Battery"
+			title: "Bateria Ambulante"
 			x: 4.5d
 			y: 0.0d
 		}
@@ -248,7 +248,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Used to create Binding Cards."
+			subtitle: "Usado para criar Cartões de Ligação."
 			tasks: [{
 				id: "61D1BE4D864D09A7"
 				item: "powah:blank_card"
@@ -265,7 +265,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "A Binding Card is used to connect a Player Transmitter to a machinery that can wirelessly connect to each other and charge. Only works in the same dimension."
+			subtitle: "Um Cartão de Ligação é usado para conectar um Transmissor de Jogador a uma máquina que pode se conectar sem fio entre si e carregar. Funciona apenas na mesma dimensão."
 			tasks: [{
 				id: "0288F6CC6D84C894"
 				item: "powah:binding_card"
@@ -282,13 +282,13 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "This Binding Card will allow wireless charging across dimensions, but must use a binding card on an Enderman to work."
+			subtitle: "Este Cartão de Ligação permitirá o carregamento sem fio entre dimensões, mas é necessário usar um cartão de ligação em um Enderman para funcionar."
 			tasks: [{
 				id: "5221EAD0348A3C7F"
 				item: "powah:binding_card_dim"
 				type: "item"
 			}]
-			title: "Bounded Through Dimensions"
+			title: "Conectado Através de Dimensões"
 			x: 7.5d
 			y: -1.5d
 		}
@@ -391,7 +391,7 @@
 		{
 			dependencies: ["2620A7CCFB446634"]
 			id: "15A88EE622C1F407"
-			subtitle: "Energizing Rods are a type of machinery that energizes items contained in an energizing orb and transforms them."
+			subtitle: "As Hastes Energizantes são um tipo de máquina que energiza itens contidos em um orbe energizante e os transforma."
 			tasks: [{
 				id: "74DA07ECB10356FD"
 				item: "powah:energizing_rod_starter"
@@ -415,7 +415,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "As the name implies, Energizing Orb receives electric charge and uses it on items to upgrade machinery. The higher tier the material, the more power required to energize."
+			subtitle: "Como o nome sugere, o Orbe Energizante recebe carga elétrica e a utiliza nos itens para atualizar a máquina. Quanto maior o nível do material, mais energia é necessária para energizar."
 			tasks: [{
 				id: "7512F9EE955E2F6F"
 				item: "powah:energizing_orb"
@@ -578,7 +578,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "2nd Tier Capacitors used to upgrade to Hardened Machinery."
+			subtitle: "Capacitores de 2ª categoria usados para aprimorar para Máquinas Reforçadas."
 			tasks: [{
 				id: "10B9E95AA7E9B73B"
 				item: "powah:capacitor_hardened"
@@ -595,7 +595,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "3rd Tier Capacitors used to upgrade to Blazing Machinery."
+			subtitle: "Capacitores de 3ª categoria usados para aprimorar para Máquinas Flamejantes."
 			tasks: [{
 				id: "567E8C0E5A1A4698"
 				item: "powah:capacitor_blazing"
@@ -612,7 +612,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "4th Tier Capacitors used to upgrade to Niotic Machinery."
+			subtitle: "Capacitores de 4ª categoria usados para aprimorar para Máquinas Nióticas."
 			tasks: [{
 				id: "419FA08380102759"
 				item: "powah:capacitor_niotic"
@@ -629,7 +629,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "5th Tier Capacitors used to upgrade to Spirited Machinery."
+			subtitle: "Capacitores de 5ª categoria usados para aprimorar para Máquinas Espiritadas."
 			tasks: [{
 				id: "58E048BB40679FE4"
 				item: "powah:capacitor_spirited"
@@ -646,7 +646,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "The 6th Tier Capacitor used to upgrade to Nitro Machinery, the final tier."
+			subtitle: "O Capacitor de 6ª categoria usado para aprimorar para Máquinas Nitro, o último nível."
 			tasks: [{
 				id: "627155774E7D792B"
 				item: "powah:capacitor_nitro"
@@ -663,7 +663,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Thermo Generators use heat sources under them to generate power and use water to cool down. The higher tier, the more power generated from heat."
+			subtitle: "Os Geradores Térmicos usam fontes de calor abaixo deles para gerar energia e usam água para se resfriar. Quanto maior o nível, mais energia é gerada a partir do calor."
 			tasks: [{
 				id: "76F3D1591A275CD7"
 				item: "powah:thermo_generator_starter"
@@ -776,7 +776,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Furnators use burning fuel sources such as coal and wood to generate power. The higher tier, the more power and efficiency created from fuel sources."
+			subtitle: "Os Furnadores usam fontes de combustível em chamas como carvão e madeira para gerar energia. Quanto maior o nível, mais energia e eficiência são criadas a partir das fontes de combustível."
 			tasks: [{
 				id: "7FBDB381D9E8E54C"
 				item: "powah:furnator_starter"
@@ -793,7 +793,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Energy Hoppers are used to charge items in a chest without the need to use an energizing orb."
+			subtitle: "Os Funis de Energia são usados para carregar itens em um baú sem a necessidade de usar um orbe energizante."
 			tasks: [{
 				id: "051577DC3C936C13"
 				item: "powah:energy_hopper_starter"
@@ -811,7 +811,7 @@
 				item: "powah:deepslate_uraninite_ore_dense"
 				type: "item"
 			}]
-			subtitle: "Uraninite is used to create Reactors that also use uraninite to generate electricity. You need 36 blocks to create a functioning Reactor, the higher tier, the more power generated from Uraninite."
+			subtitle: "Uraninita é usada para criar Reatores que também usam uraninita para gerar eletricidade. Você precisa de 36 blocos para criar um Reator funcional, quanto maior o nível, mais energia é gerada a partir da uraninita."
 			tasks: [{
 				id: "45F6B2B9B6B4AFB5"
 				item: "powah:uraninite_raw"
@@ -844,7 +844,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Ender Cores are a primary material used to create ender-based machinery."
+			subtitle: "Núcleos do Ender são um material primário usado para criar maquinaria baseada em ender."
 			tasks: [{
 				id: "2A0A29CC1620B3E8"
 				item: "powah:ender_core"
@@ -861,7 +861,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Ender Cells are energy transferring machinery that is wireless and will transfer power through another Ender Cell using the same channel number. Each Ender Cell must contain an Energy Cell in order to function and store power."
+			subtitle: "Células do Ender são máquinas de transferência de energia sem fio que transferem energia através de outra Célula do Ender usando o mesmo número de canal. Cada Célula do Ender deve conter uma Célula de Energia para funcionar e armazenar energia."
 			tasks: [{
 				id: "4AEADCEA97645D91"
 				item: "powah:ender_cell_starter"
@@ -1093,7 +1093,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Magmators use lava to generator power. The higher the tier, the more power and efficiency used from lava."
+			subtitle: "Magmadores usam lava para gerar energia. Quanto maior o nível, mais energia e eficiência são obtidas a partir da lava."
 			tasks: [{
 				id: "778D1D2F9263DD78"
 				item: "powah:magmator_starter"
@@ -1110,7 +1110,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "Dry ice is used to cool down Reactors, another alternative to using water as coolant."
+			subtitle: "O gelo seco é usado para resfriar reatores, sendo uma alternativa ao uso de água como refrigerante."
 			tasks: [{
 				id: "334990D575313572"
 				item: "powah:dry_ice"
@@ -1127,7 +1127,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Energy Dischargers drain energy away from charged machinery and store it in an internal storage pocket and can redirect the power into another piece of machinery using cables."
+			subtitle: "Os Descarregadores de Energia drenam energia de máquinas carregadas e a armazenam em um bolso de armazenamento interno, podendo redirecionar a energia para outra peça de maquinaria usando cabos."
 			tasks: [{
 				id: "5A67B6525013D8D3"
 				item: "powah:energy_discharger_starter"
@@ -1151,7 +1151,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "Photoelectric Panes are used to create Solar Panels."
+			subtitle: "Painéis Fotoelétricos são usados para criar Painéis Solares."
 			tasks: [{
 				id: "5B719B206080AC78"
 				item: "powah:photoelectric_pane"
@@ -1167,7 +1167,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Em breve"
+				"Use um Painel Fotoelétrico em um Enderman ou Endermite."
 				""
 				"&8Português"
 			]
@@ -1177,7 +1177,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A Lens of Ender allows a Solar Panel to see through blocks which allows it to absorb sunlight while under a block."
+			subtitle: "Uma Lente do Ender permite que um Painel Solar enxergue através de blocos, o que permite que ele absorva a luz solar mesmo debaixo de um bloco."
 			tasks: [{
 				id: "79AC10CFD9A89F7C"
 				item: "powah:lens_of_ender"
@@ -1194,7 +1194,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Solar Panels generate energy during the day time, the higher tier, the more power generated during the day."
+			subtitle: "Painéis Solares geram energia durante o dia, quanto maior o nível, mais energia é gerada durante o dia."
 			tasks: [{
 				id: "5B2660AC580B32BF"
 				item: "powah:solar_panel_starter"
@@ -1211,7 +1211,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Charged Snowballs carry enough energy to cause a lightning strike when hitting a mob or hitting the ground."
+			subtitle: "Bolas de Neve Carregadas carregam energia suficiente para causar um raio ao atingir um monstro ou ao atingir o chão."
 			tasks: [{
 				id: "34DE6FFB2CF05252"
 				item: "powah:charged_snowball"
@@ -1228,7 +1228,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Portable energy storage that can be used to charge machinery when needed."
+			subtitle: "Armazenamento de energia portátil que pode ser usado para carregar máquinas quando necessário."
 			tasks: [{
 				id: "146A5CDD2739CF08"
 				item: {
@@ -1561,7 +1561,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Energy Cells are basically a bulk battery that can contain and transfer energy to other machinery connected to it when a machine is taking time to produce energy."
+			subtitle: "As Células de Energia são basicamente uma bateria em massa que pode armazenar e transferir energia para outras máquinas conectadas a ela quando uma máquina está demorando para produzir energia."
 			tasks: [{
 				id: "535C60D29F8E9F7B"
 				item: "powah:energy_cell_starter"
@@ -1957,3 +1957,4 @@
 	]
 	title: " &5Powah!"
 }
+

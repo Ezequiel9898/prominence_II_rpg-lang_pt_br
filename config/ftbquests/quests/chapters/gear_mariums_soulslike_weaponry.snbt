@@ -17,7 +17,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "These two stones are going to be important into the creation of your soul equipment, remember to harvest a lot."
+			subtitle: "Essas duas pedras serão importantes na criação do seu equipamento de alma, lembre-se de coletar muitas."
 			tasks: [
 				{
 					id: "3ECB3F6B6447E99A"
@@ -30,7 +30,7 @@
 					type: "item"
 				}
 			]
-			title: "Lunar Source"
+			title: "Fonte Lunar"
 			x: 0.0d
 			y: 1.5d
 		}
@@ -41,14 +41,14 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "Lost Souls are another source of power for these soul equipment and block creation, you can find some by smelting soul sand."
+			subtitle: "Almas Perdidas são outra fonte de poder para esses equipamentos de alma e criação de blocos; você pode encontrar algumas ao derreter areia da alma."
 			tasks: [{
 				count: 16L
 				id: "3F40947A53DAE566"
 				item: "soulsweapons:lost_soul"
 				type: "item"
 			}]
-			title: "Soul Crafting"
+			title: "Crafting de Almas"
 			x: 2.5d
 			y: -0.5d
 		}
@@ -56,13 +56,13 @@
 			dependencies: ["268F53C03707BD12"]
 			dependency_requirement: "one_completed"
 			id: "2C1F39A39A290603"
-			subtitle: "Soul Infused Ingots are one of the main ingredients in crafting the soul equipment as they contain the essence of lost souls."
+			subtitle: "Os Lingotes Infundidos com Alma são um dos principais ingredientes na fabricação do equipamento da alma, pois contêm a essência das almas perdidas."
 			tasks: [{
 				id: "3B91CBD4E6AD762A"
 				item: "soulsweapons:soul_ingot"
 				type: "item"
 			}]
-			title: "Living Iron"
+			title: "Metal Vivo"
 			x: 4.5d
 			y: -0.5d
 		}
@@ -74,7 +74,7 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "Decorative blocks used in some structures of the great monsters hidden away. Great for a building theme too."
+			subtitle: "Blocos decorativos usados em algumas estruturas dos grandes monstros escondidos. Ótimos para uma construção temática também."
 			tasks: [
 				{
 					id: "1A1CDB9DCAB3A785"
@@ -97,7 +97,7 @@
 					type: "item"
 				}
 			]
-			title: "Building Blocks of the Soul"
+			title: "Blocos de Construção da Alma"
 			x: 1.0d
 			y: -2.0d
 		}
@@ -109,14 +109,14 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "These Silver Bullets will be very important to your soul ranged weaponry as they are the main use for such bullets. Silver Bullets may be cheap but depending on how often you use it, it'll be your debt."
+			subtitle: "Essas Balas de Prata serão muito importantes para suas armas de longo alcance da alma, pois são o principal uso para tais balas. As Balas de Prata podem ser baratas, mas dependendo de com que frequência você as utiliza, serão sua dívida."
 			tasks: [{
 				count: 10L
 				id: "56ADA0DBFA97A758"
 				item: "soulsweapons:silver_bullet"
 				type: "item"
 			}]
-			title: "Soul Ammo"
+			title: "Munição da Alma"
 			x: 2.5d
 			y: -3.5d
 		}
@@ -137,7 +137,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The Hunter Pistol is a simple firearm that will use silver bullets but have a fairly quick reload."
+			subtitle: "A Pistola de Caça é uma arma de fogo simples que usará balas de prata, mas terá uma recarga bastante rápida."
 			tasks: [{
 				id: "604F0DEC55BB9A81"
 				item: {
@@ -169,7 +169,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The Hunter Blunderbuss is a shotgun that will use up silver bullets to release a blast of projectiles at the targets."
+			subtitle: "A Blunderbuss do Caçador é uma espingarda que usa balas de prata para lançar uma explosão de projéteis nos alvos."
 			tasks: [{
 				id: "09F0E4B368AEA5DB"
 				item: {
@@ -181,7 +181,7 @@
 				}
 				type: "item"
 			}]
-			title: "You Can't Talk to a Human, With a Shotgun in Their Hand.."
+			title: "Você não pode falar com um humano, com uma espingarda na mão..."
 			x: 3.0d
 			y: -5.0d
 		}
@@ -201,7 +201,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The Hunter Cannon is a heavy weapon that requires 10 silver bullets to fire as it'll combine all the bullets into one cannonball shot. It has a long reload so you cannot shoot this in rapid succession easily."
+			subtitle: "A Canhão do Caçador é uma arma pesada que requer 10 balas de prata para disparar, pois combinará todas as balas em um único tiro de bola de canhão. Tem um longo tempo de recarga, então você não pode disparar isso rapidamente e facilmente em sucessão."
 			tasks: [{
 				id: "7A38B94629479054"
 				item: {
@@ -213,7 +213,7 @@
 				}
 				type: "item"
 			}]
-			title: "Walking Man-O-War"
+			title: "Como um navio de guerra!"
 			x: 4.0d
 			y: -4.5d
 		}
@@ -234,7 +234,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "The Gatling Gun is a heavy gun that will take time to load up and start firing at a rapid pace. It'll eat up your bullets quickly so be sure to use this gun only when you have a lot of silver bullets."
+			subtitle: "A Gatling Gun é uma arma pesada que leva tempo para carregar e começar a disparar em um ritmo rápido. Ela vai consumir suas balas rapidamente, então certifique-se de usar esta arma apenas quando tiver muitas balas de prata."
 			tasks: [{
 				id: "6002A26D3270EC99"
 				item: {
@@ -246,7 +246,7 @@
 				}
 				type: "item"
 			}]
-			title: "Say Hello to my little friend!"
+			title: "Diga Olá para o meu amiguinho!"
 			x: 2.0d
 			y: -5.0d
 		}
@@ -257,14 +257,14 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Yes, you've read it, it's Big Chungus, gather 9 of these emeralds by killing Chunguses and craft the music disc."
+			subtitle: "Sim, você leu certo, é o Big Chungus, reúna 9 desses esmeraldas matando Chunguses e crie o disco de música."
 			tasks: [{
 				count: 9L
 				id: "2C60636D9E1B1A87"
 				item: "soulsweapons:chungus_emerald"
 				type: "item"
 			}]
-			title: "Rabbit Hunting Season"
+			title: "Temporada de Caça aos Coelhos"
 			x: -1.5d
 			y: -1.5d
 		}
@@ -276,7 +276,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Cheap imitations of what a true soul equipment are, used by fallen fighters such as Remnants."
+			subtitle: "Imitações baratas do que é um verdadeiro equipamento de alma, usadas por lutadores caídos como Remanescentes."
 			tasks: [
 				{
 					id: "43A7A694636F3248"
@@ -312,14 +312,14 @@
 					type: "item"
 				}
 			]
-			title: "False Soul Weapons"
+			title: "Falsas Armas de Alma"
 			x: 3.5d
 			y: -2.5d
 		}
 		{
 			dependencies: ["26C8BD551FCBAF73"]
 			id: "306D0FC3908C6348"
-			subtitle: "These tools are so durable, that they even might be stronger than diamond."
+			subtitle: "Essas ferramentas são tão duráveis que podem ser até mais fortes do que diamante."
 			tasks: [
 				{
 					id: "514C65E9419D368B"
@@ -366,7 +366,7 @@
 					type: "item"
 				}
 			]
-			title: "Lunar Tools"
+			title: "Ferramentas Lunares"
 			x: -1.5d
 			y: 0.5d
 		}
@@ -378,13 +378,13 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "Such a peculiar compass, they seem to be pointing somewhere far away, where do they point to?"
+			subtitle: "Que bússola tão peculiar, elas parecem estar apontando para algum lugar distante, para onde elas apontam?"
 			tasks: [{
 				id: "25B8B67FB1EA4200"
 				item: "soulsweapons:boss_compass"
 				type: "item"
 			}]
-			title: "Guiding Moon"
+			title: "Lua Guia"
 			x: -2.0d
 			y: 2.0d
 		}
@@ -397,11 +397,11 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Here lies a great champion, unable to find peace and rest. You must kill him and send his body back to the earth."
+			subtitle: "Aqui jaz um grande campeão, incapaz de encontrar paz e descanso. Você deve matá-lo e enviar seu corpo de volta à terra."
 			tasks: [{
 				id: "666236AD26DCF0C8"
 				structure: "soulsweapons:champions_graves"
-				title: "Find the Champion's Grave"
+				title: "Encontre o Túmulo do Campeão"
 				type: "structure"
 			}]
 			x: -3.5d
@@ -416,7 +416,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Here stands a king who lost it all, end his false reign and emerge victorious."
+			subtitle: "Aqui está um rei que perdeu tudo, ponha fim ao seu falso reinado e saia vitorioso."
 			tasks: [{
 				entity: "soulsweapons:accursed_lord_boss"
 				id: "54E0D07EC0FDE02C"
@@ -443,7 +443,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A powerful soul of a fallen leader and a heart of a decaying demon. You have freed the king who couldn't die."
+			subtitle: "Uma alma poderosa de um líder caído e um coração de um demônio caido. Você libertou o rei que não podia morrer."
 			tasks: [
 				{
 					id: "22A32D00123EF149"
@@ -456,7 +456,7 @@
 					type: "item"
 				}
 			]
-			title: "Fall of a Kingdom"
+			title: "Queda de um Reino"
 			x: -5.5d
 			y: 2.0d
 		}
@@ -477,7 +477,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A powerful soul of a great champion and a powerful essence of a ghost. You have freed the dead and now they have fallen back to the earth to rest."
+			subtitle: "Uma alma poderosa de um grande campeão e uma essência poderosa de um fantasma. Você libertou os mortos e agora eles caíram de volta à terra para descansar."
 			tasks: [
 				{
 					id: "306B22E67205A029"
@@ -502,7 +502,7 @@
 					value: 1L
 				}
 			]
-			title: "Exorcism"
+			title: "Exorcismo"
 			x: -5.5d
 			y: 1.0d
 		}
@@ -515,7 +515,7 @@
 				type: "xp"
 				xp: 45
 			}]
-			subtitle: "A powerful soul who was under control of a dark force and a pure moonstone radiating with powerful energy. But couldn't we have done anything else?"
+			subtitle: "Uma alma poderosa que estava sob controle de uma força sombria e uma pedra lunar pura irradiando uma energia poderosa. Mas não poderíamos ter feito nada diferente?"
 			tasks: [
 				{
 					id: "748EE6B36DC033CD"
@@ -556,7 +556,7 @@
 					type: "item"
 				}
 			]
-			title: "Fallen Puppet"
+			title: "Marionete Caída"
 			x: -5.5d
 			y: 4.0d
 		}
@@ -569,7 +569,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "You have brought back a fallen knight to their rightful body, and now you faced him in his former glory."
+			subtitle: "Você trouxe de volta um cavaleiro caído ao seu corpo correto, e agora o enfrentou em sua antiga glória."
 			tasks: [
 				{
 					id: "513B98489CFD1402"
@@ -588,7 +588,7 @@
 					type: "item"
 				}
 			]
-			title: "Retribution"
+			title: "Retribuição"
 			x: -7.5d
 			y: 4.0d
 		}
@@ -601,7 +601,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A powerful soul of an embodiment of decay, the Wither, and it dropped a shard emanating chaotic energy, what is it for?"
+			subtitle: "Uma alma poderosa de uma encarnação da decadência, o Wither, e ela deixou cair um fragmento emanando energia caótica, para que serve?"
 			tasks: [
 				{
 					id: "4058B9713C9B8505"
@@ -614,7 +614,7 @@
 					type: "item"
 				}
 			]
-			title: "The Abyss Stares Back"
+			title: "O Abismo Encara de Volta"
 			x: -5.5d
 			y: 3.0d
 		}
@@ -625,13 +625,13 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "A powerful soul of the last known dragon in the End. You are now able to harness its power."
+			subtitle: "Uma alma poderosa do último dragão conhecido no End. Agora você é capaz de usar seu poder."
 			tasks: [{
 				id: "6977EF420975B77A"
 				item: "soulsweapons:lord_soul_purple"
 				type: "item"
 			}]
-			title: "Essence of the Dragon"
+			title: "Essência do Dragão"
 			x: -5.5d
 			y: 0.0d
 		}
@@ -643,7 +643,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "The lunar ring grants the wearer the ability to launch magical waves for a short time, granting the wearer to even shoot from afar with just their hands."
+			subtitle: "O anel lunar concede ao usuário a habilidade de lançar ondas mágicas por um curto período de tempo, permitindo ao usuário até mesmo disparar de longe usando apenas as mãos."
 			tasks: [{
 				id: "0E4427FFDCF83625"
 				item: {
@@ -667,7 +667,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Making use of the moonstone you found, you decided to see if you are able to create a powerful weapon."
+			subtitle: "Usando a pedra da lua que você encontrou, você decidiu ver se é capaz de criar uma arma poderosa."
 			tasks: [
 				{
 					id: "591AB2A0E90CB276"
@@ -692,7 +692,7 @@
 					type: "item"
 				}
 			]
-			title: "Imitation Moon"
+			title: "Imitação da Lua"
 			x: -3.0d
 			y: 5.0d
 		}
@@ -704,7 +704,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "After inserting a powerful soul into the swords, they now seem to have awakened with the power of the moon."
+			subtitle: "Após inserir uma alma poderosa nas espadas, elas parecem ter despertado com o poder da lua."
 			tasks: [
 				{
 					id: "48DCD09A0A871EE1"
@@ -729,7 +729,7 @@
 					type: "item"
 				}
 			]
-			title: "It's lacking.."
+			title: "Está faltando..."
 			x: -4.5d
 			y: 6.0d
 		}
@@ -741,7 +741,7 @@
 				type: "xp"
 				xp: 60
 			}]
-			subtitle: "You obtained the knight's personal weapon and chest piece and are now able to call upon the moon's power as your own."
+			subtitle: "Você obteve a arma pessoal do cavaleiro e o peitoral, e agora pode invocar o poder da lua como seu próprio."
 			tasks: [
 				{
 					id: "0EE46D035D5886AF"
@@ -766,7 +766,7 @@
 					type: "item"
 				}
 			]
-			title: "Knight's Inheritance"
+			title: "Herança do Cavaleiro"
 			x: -5.5d
 			y: 7.5d
 		}
@@ -778,7 +778,7 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "This sword is interesting, it allows the holder to sense nearby hostiles, may be useful in a raid perhaps?"
+			subtitle: "Esta espada é interessante, ela permite ao portador sentir inimigos próximos, pode ser útil em uma raid talvez?"
 			tasks: [{
 				id: "3330062EEDC11DBF"
 				item: {
@@ -790,7 +790,7 @@
 				}
 				type: "item"
 			}]
-			title: "ALERT!"
+			title: "ALERTA!"
 			x: 2.0d
 			y: 3.0d
 		}
@@ -802,7 +802,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "This weapon is a bit weird, it can transform into a different weapon with a different ability when wanted."
+			subtitle: "Esta arma é um pouco estranha, ela pode se transformar em uma arma diferente com uma habilidade diferente quando quiser."
 			tasks: [{
 				id: "6A3CBE5453333526"
 				item: {
@@ -815,27 +815,27 @@
 				}
 				type: "item"
 			}]
-			title: "2-in-1"
+			title: "2-em-1"
 			x: 3.5d
 			y: 4.5d
 		}
 		{
 			dependencies: ["731E965C4BF7565E"]
 			id: "7D2E63E7DC4FDF32"
-			subtitle: "What must compel you to create such an item? To summon a great demon or something evil?"
+			subtitle: "O que o compeliria a criar tal item? Para invocar um grande demônio ou algo maligno?"
 			tasks: [{
 				id: "60093F40E5DF21D0"
 				item: "soulsweapons:blackstone_pedestal"
 				type: "item"
 			}]
-			title: "The Smell of Decay is near..."
+			title: "O cheiro de decomposição está próximo..."
 			x: -3.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["2C1F39A39A290603"]
 			id: "312B2DA72F1CFE6F"
-			subtitle: "The robes of a dark sorcerer, infused with the power of souls, fairly durable."
+			subtitle: "Os trajes de um feiticeiro das trevas, infundidos com o poder das almas, bastante duráveis."
 			tasks: [
 				{
 					id: "5649B5CDF8BB6B50"
@@ -882,7 +882,7 @@
 					type: "item"
 				}
 			]
-			title: "Living Robes"
+			title: "Robes Vivos"
 			x: 4.5d
 			y: -3.0d
 		}
@@ -890,7 +890,7 @@
 			dependencies: ["2C1F39A39A290603"]
 			hide_text_until_complete: false
 			id: "615E23C6448FD934"
-			subtitle: "You can hear the souls within the armor as they have been infused into the metal, more durable than iron."
+			subtitle: "As almas presas na armadura sussurram, fundidas ao metal que se tornou mais resistente que o ferro."
 			tasks: [
 				{
 					id: "63E92BDC88AD4592"
@@ -937,7 +937,7 @@
 					type: "item"
 				}
 			]
-			title: "Living Armor, but not really"
+			title: "Armadura Viva, mas não de verdade"
 			x: 5.5d
 			y: -2.5d
 		}
@@ -949,14 +949,14 @@
 				type: "xp"
 				xp: 20
 			}]
-			subtitle: "These wandering demons are found in the crimson forests, wandering around as empty husks of killing instinct.."
+			subtitle: "Demônios errantes habitam as florestas carmesins, perambulando como cascas vazias movidas pelo instinto assassino."
 			tasks: [{
 				entity: "soulsweapons:withered_demon"
 				id: "5709B569D6FC88A3"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Back in my Day.."
+			title: "No meu tempo…"
 			x: 2.5d
 			y: 1.0d
 		}
@@ -968,13 +968,13 @@
 				type: "xp"
 				xp: 15
 			}]
-			subtitle: "A heart of a dying demon, still containing powerful vitality, perhaps we could make use of it?"
+			subtitle: "Um coração de um demônio moribundo, ainda contendo poderosa vitalidade, talvez possamos usá-lo?"
 			tasks: [{
 				id: "71750199863537CD"
 				item: "soulsweapons:demon_heart"
 				type: "item"
 			}]
-			title: "Can You Feel My Heart Beating?"
+			title: "Você consegue sentir meu coração batendo?"
 			x: 4.0d
 			y: 2.0d
 		}
@@ -986,26 +986,26 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A condensed form of demon vitality, very disgusting if you think about it."
+			subtitle: "Uma forma condensada de vitalidade demoníaca, bem nojenta se você parar para pensar."
 			tasks: [{
 				id: "264C335613C2E5DE"
 				item: "soulsweapons:demon_chunk"
 				type: "item"
 			}]
-			title: "It All Comes From The Heart"
+			title: "Isso tudo vem do coração."
 			x: 5.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["2E717252139F3121"]
 			id: "38B1E5E35DFDF751"
-			subtitle: "An ingot made of infused demon hearts. It radiates demonic energy, perfect for soul equipment."
+			subtitle: "Um lingote feito de corações demoníacos infundidos. Ele irradia energia demoníaca, perfeita para equipamentos da alma."
 			tasks: [{
 				id: "12101826E4B0D9FB"
 				item: "soulsweapons:crimson_ingot"
 				type: "item"
 			}]
-			title: "Iron Heart"
+			title: "Coração de Ferro"
 			x: 7.5d
 			y: 4.0d
 		}
@@ -1017,7 +1017,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A powerful scythe, crafted by using powerful soul metal to create a weapon that represents death. Summon the dead to do your bidding."
+			subtitle: "Uma foice poderosa, criada com metal impregnado de almas para ser uma arma representando a morte. Invoque os mortos para cumprirem suas ordens."
 			tasks: [{
 				id: "12FCE823DC1B9709"
 				item: {
@@ -1029,7 +1029,7 @@
 				}
 				type: "item"
 			}]
-			title: "No One Can Stop Death..."
+			title: "Ninguém pode impedir a morte..."
 			x: 7.0d
 			y: -0.5d
 		}
@@ -1041,14 +1041,14 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "Forgotten elite soldiers, can be found wandering around the Soul Sand Valley, but can be summoned to do your bidding."
+			subtitle: "Soldados de elite esquecidos, vagam pelo Vale da Areia das Almas, mas podem ser convocados para cumprir suas ordens."
 			tasks: [{
 				entity: "soulsweapons:evil_forlorn"
 				id: "24632591264B1928"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Long Forgotten..."
+			title: "Há muito esquecido..."
 			x: 7.0d
 			y: -2.0d
 		}
@@ -1067,7 +1067,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "An equipment solely found by killing Evil Forlorns, put them to rest and be remembered."
+			subtitle: "Um equipamento encontrado apenas derrotando Perdidos Sombrios, dando-lhes descanso e sendo lembrados."
 			tasks: [
 				{
 					id: "130983AA27EBCBA4"
@@ -1125,7 +1125,7 @@
 					type: "item"
 				}
 			]
-			title: "One of the Forgotten"
+			title: "Um dos Esquecidos"
 			x: 8.0d
 			y: -3.0d
 		}
@@ -1137,7 +1137,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A weapon that do true magic damage based on each hit and fire aspect level, but only above a third of the target's health."
+			subtitle: "Uma arma que causa dano mágico verdadeiro baseado em cada acerto e nível do encantamento Chama, mas apenas acima de um terço da vida do alvo."
 			tasks: [{
 				id: "3C3EA4799654A7C5"
 				item: {
@@ -1149,7 +1149,7 @@
 				}
 				type: "item"
 			}]
-			title: "It's Time to Purge"
+			title: "Chegou a hora da purificação."
 			x: 0.0d
 			y: 7.5d
 		}
@@ -1161,7 +1161,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A spear with the power of a speeding comet, ready to crash against any target."
+			subtitle: "Uma lança com o poder de um cometa veloz, pronta para se chocar contra qualquer alvo."
 			tasks: [{
 				id: "26236BC9E760C601"
 				item: {
@@ -1173,7 +1173,7 @@
 				}
 				type: "item"
 			}]
-			title: "Shooting Star"
+			title: "Estrela cadente"
 			x: -2.0d
 			y: 7.0d
 		}
@@ -1185,7 +1185,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A good bow that can boost a wielder's speed the more their string is pulled in their non-dominant hand."
+			subtitle: "Um bom arco que aumenta a velocidade do usuário quanto mais a corda for puxada com a mão não dominante."
 			tasks: [{
 				id: "0BB2566384B8CB65"
 				item: {
@@ -1197,7 +1197,7 @@
 				}
 				type: "item"
 			}]
-			title: "Escape like the Wind"
+			title: "Livre como o vento"
 			x: 1.0d
 			y: 7.5d
 		}
@@ -1209,7 +1209,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "A simple but effective weapon that gets stronger when night falls."
+			subtitle: "Uma arma simples, porém eficaz, que se torna mais poderosa quando a noite cai."
 			tasks: [{
 				id: "1FBB3E61F002F6EF"
 				item: {
@@ -1221,7 +1221,7 @@
 				}
 				type: "item"
 			}]
-			title: "The Night is My Might"
+			title: "A noite é a minha força"
 			x: -1.0d
 			y: 7.5d
 		}
@@ -1233,7 +1233,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "A weapon containing demonic energy. It's sole purpose is to heal the wielder in exchange for blood of their targets."
+			subtitle: "Uma arma contendo energia demoníaca. Seu único objetivo é curar o usuário em troca do sangue de seus alvos."
 			tasks: [{
 				id: "1AAE21BC4558A2E2"
 				item: {
@@ -1245,7 +1245,7 @@
 				}
 				type: "item"
 			}]
-			title: "I'm Thirsty..."
+			title: "Eu tenho sede..."
 			x: 9.0d
 			y: 5.0d
 		}
@@ -1257,7 +1257,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "A soul weapon that hosts the power of a true demon."
+			subtitle: "Uma arma de alma que abriga o poder de um verdadeiro demônio."
 			tasks: [{
 				id: "2A92003A9D6C3D9E"
 				item: {
@@ -1269,7 +1269,7 @@
 				}
 				type: "item"
 			}]
-			title: "THEN PAY WITH YOUR BLOOD!"
+			title: "ENTÃO PAGUE COM SEU SANGUE!"
 			x: 10.5d
 			y: 6.0d
 		}
@@ -1281,7 +1281,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "An unevolved scythe that is ready to harvest souls, but what souls do you want to harvest?"
+			subtitle: "Uma foice primitiva, preparada para ceifar almas, mas quais almas você deseja colher?"
 			tasks: [{
 				id: "159C32B1CD284732"
 				item: {
@@ -1293,7 +1293,7 @@
 				}
 				type: "item"
 			}]
-			title: "Even the Scales!"
+			title: "Chegou a hora do acerto de contas!"
 			x: 9.0d
 			y: 3.0d
 		}
@@ -1305,7 +1305,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "A decimating axe that freezes enemies and makes them explode with chunks of ice upon death."
+			subtitle: "Um machado dizimador que congela inimigos e os faz explodir em estilhaços de gelo após a morte."
 			tasks: [{
 				id: "441B3B29B090F522"
 				item: {
@@ -1317,7 +1317,7 @@
 				}
 				type: "item"
 			}]
-			title: "Freeze the World"
+			title: "Congelar o mundo"
 			x: 3.0d
 			y: 6.5d
 		}
@@ -1329,7 +1329,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "A very peculiar staff that forces the wielder to gamble for effects that may or may not be beneficial to the wielder's battles."
+			subtitle: "Um cajado peculiar que força o usuário a apostar por efeitos que podem ou não ser benéficos nas batalhas."
 			tasks: [{
 				id: "2D0F143F09693BD0"
 				item: {
@@ -1341,7 +1341,7 @@
 				}
 				type: "item"
 			}]
-			title: "Gamble Your Life Away"
+			title: "Aposte com a sua vida."
 			x: 7.5d
 			y: 6.0d
 		}
@@ -1353,7 +1353,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "Thor's Personal Weapon, the hammer is a devastating weapon that can summon lightning."
+			subtitle: "Arma Pessoal de Thor, o martelo é uma arma devastadora que pode invocar raios."
 			tasks: [{
 				id: "693BD128F78FBEE5"
 				item: {
@@ -1377,7 +1377,7 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "A decimating mace wielded by a fallen knight, used to summon the souls of fallen soldiers."
+			subtitle: "Uma maça dizimadora empunhada por um cavaleiro caído, usada para convocar as almas de soldados mortos."
 			tasks: [{
 				id: "264B1D976D37ADF7"
 				item: {
@@ -1389,7 +1389,7 @@
 				}
 				type: "item"
 			}]
-			title: "Arise, ye tarnished souls"
+			title: "Levantem-se, almas enegrecidas."
 			x: 6.5d
 			y: 1.5d
 		}
@@ -1401,7 +1401,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "A legendary sword with a mind of its own and can fight for you without holding it."
+			subtitle: "Uma espada lendária com vontade própria e capaz de lutar por você sem precisar segurá-la."
 			tasks: [{
 				id: "2382683DB44BBBD8"
 				item: {
@@ -1413,7 +1413,7 @@
 				}
 				type: "item"
 			}]
-			title: "By Your Will"
+			title: "Por Vontade Própria"
 			x: 2.0d
 			y: 7.0d
 		}
@@ -1425,7 +1425,7 @@
 				type: "xp"
 				xp: 35
 			}]
-			subtitle: "A scythe evolved from absorbing red souls, and allows the wielder to heal the more they attack mobs when ability is not on cooldown."
+			subtitle: "Uma foice evoluída ao absorver almas vermelhas, permitindo que o portador se cure mais enquanto ataca mobs quando a habilidade não está em tempo de recarga."
 			tasks: [{
 				id: "4F1CB2F7656D15FF"
 				item: {
@@ -1437,14 +1437,14 @@
 				}
 				type: "item"
 			}]
-			title: "Blood Dancer"
+			title: "Dançarina de Sangue"
 			x: 11.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["56006B58B4352E97"]
 			id: "07C02F8158472D7C"
-			subtitle: "A scythe evolved from absorbing blue souls, and allows the wielder to have speed and damage during the first few seconds upon combat."
+			subtitle: "Uma foice evoluída a partir da absorção de almas azuis, e permite ao portador ter velocidade e dano durante os primeiros segundos do combate."
 			tasks: [{
 				id: "56FE853A6653238B"
 				item: {
@@ -1456,7 +1456,7 @@
 				}
 				type: "item"
 			}]
-			title: "Among the Shadows"
+			title: "Entre as Sombras"
 			x: 9.5d
 			y: 1.5d
 		}
@@ -1475,7 +1475,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "A dangerous monster, summoned from the pedestal using the shard, will decay anything it walks on, the Monarch of Chaos. Slay him and receive his personal equipment."
+			subtitle: "Um monstro perigoso, convocado do pedestal usando o fragmento, irá deteriorar tudo pelo que passar, o Monarca do Caos. Mate-o e receba seu equipamento pessoal."
 			tasks: [
 				{
 					id: "364461D455F27A5D"
@@ -1485,7 +1485,7 @@
 				{
 					entity: "soulsweapons:chaos_monarch"
 					id: "073109BDE345ACA6"
-					title: "Kill the Monarch of Chaos"
+					title: "Derrote o Monarca do Caos"
 					type: "kill"
 					value: 1L
 				}
@@ -1512,7 +1512,7 @@
 					type: "item"
 				}
 			]
-			title: "The Smell of Decay is Near.."
+			title: "O Cheiro da Decomposição Está Próximo..."
 			x: -7.5d
 			y: 3.0d
 		}
@@ -1523,13 +1523,13 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "This is where everything starts, with a single soul sand. Are you ready to fight dangerous monsters and earn your own soul equipment?"
+			subtitle: "Este é o ponto de partida, com uma única areia de alma. Você está pronto para lutar contra monstros perigosos e ganhar seu próprio equipamento de alma?"
 			tasks: [{
 				id: "0597F8507AAD83E8"
 				item: "minecraft:soul_sand"
 				type: "item"
 			}]
-			title: "Everything Starts"
+			title: "Tudo Começa"
 			x: 0.0d
 			y: -0.5d
 		}
@@ -1542,16 +1542,17 @@
 				type: "xp"
 				xp: 40
 			}]
-			subtitle: "Here lies a fallen knight. Free him using a lost soul onto the altar."
+			subtitle: "Aqui jaz um cavaleiro caído. Liberte-o usando uma alma perdida no altar."
 			tasks: [{
 				id: "1E8CF29780FCE775"
 				item: "soulsweapons:altar_block"
 				type: "item"
 			}]
-			title: "Find the Cathedral of Resurrection"
+			title: "Encontre a Catedral da Ressurreição."
 			x: -3.5d
 			y: 4.0d
 		}
 	]
-	title: " &eGear: &7Soulslike Weaponry"
+	title: " &eEquipamento: &5Armas Soulslike"
 }
+
