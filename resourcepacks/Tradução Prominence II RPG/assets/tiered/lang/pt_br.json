@@ -283,7 +283,7 @@
   "commands.tiered.untier_failed": "Nenhuma alteração. %s de %s não tem raridade",
   "commands.tiered.untier": "Raridade removida de %s de %s",
   "commands.tiered.tiering_failed": "Nenhuma alteração. %s de %s não tem um raridade definida",
-  "commands.tiered.tier": "Raridade adicionada a %s de %s",
+  "commands.tiered.tier": "Raridade adicionada à %s de %s",
 
   "item.tiered.limestone_chunk": "Pedaço de calcário",
   "item.tiered.pyrite_chunk": "Pedaço de pirita",
