@@ -509,7 +509,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Wiki Oficial
+  label = Wiki oficial
   navigatable = true
   element_type = custom_button
   instance_identifier = c81d9c64-bac9-4c8e-a18f-6f0e978765dc1704839604144
