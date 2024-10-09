@@ -77,7 +77,7 @@
 			id: "1DD302BB650057E3"
 			shape: "rsquare"
 			size: 1.25d
-			subtitle: "Comece sua jornada no &eProminence&r!"
+			subtitle: "Comece sua jornada em &eProminence&r!"
 			tasks: [{
 				dimension: "minecraft:overworld"
 				icon: "minecraft:grass_block"
@@ -101,12 +101,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"O &6questbook&r é muito importante no Prominence, e ira quia-lo atravez da maior parte da progreção do jogo."
+				"O &6livro de missões&r é muito importante em Prominence e irá guiá-lo através da maior parte da progressão do jogo."
 				""
-				"Para acessar mais facil o &6questbook&r, você pode clickar no livro" 
-				"icone no canto superior esquerdo da tela de inventário."
+				"Para acessar facilmente o &6livro de missões&r, você pode clicar no ícone do livro no canto superior esquerdo do seu inventário."
 				""
-				"Quando você abrir as quests, o lado esquerdo mostrará quais tarefas você precisa para cumprir a quest, e o lado direito mostra as recompensas."
+				"Quando você abre uma missão, o lado esquerdo mostra quais tarefas você precisa fazer para concluir a missão, e o lado direito mostra quais recompensas você receberá."
 				""
 				"&8Português"
 			]
@@ -116,7 +115,7 @@
 				type: "xp"
 				xp: 2
 			}]
-			subtitle: "Click em mim e leia minha descrição!"
+			subtitle: "Clique em mim e leia minha descrição!"
 			tasks: [{
 				id: "4184344EFBA63388"
 				item: {
@@ -126,10 +125,10 @@
 						value: "c:crops"
 					}
 				}
-				title: "Encontre frutas e vegetais!"
+				title: "Encontre uma fruta ou um vegetal!"
 				type: "item"
 			}]
-			title: "&f&lPrimeiros Passos&r: &aQuests!"
+			title: "&f&lPrimeiros Passos&r: &aMissões!"
 			x: 0.0d
 			y: -2.0d
 		}
@@ -142,13 +141,13 @@
 				xp_levels: 3
 			}]
 			shape: "rsquare"
-			subtitle: "Extraia um pouco de cobre e use o &eBlank Chest Upgrade&r para fazer um upgrade de cobre para seus &6Baus&r!"
+			subtitle: "Minere um pouco de cobre e use a &eMelhoria de Baú em Branco&r para fazer uma melhoria de cobre para seus &6baús&r!"
 			tasks: [{
 				id: "1C2CEDE48DF1D506"
 				item: "ironchests:copper_chest_upgrade"
 				type: "item"
 			}]
-			title: "&e&lUpgrade:&f &6Baus"
+			title: "&e&lAprimorando:&f &fBaús"
 			x: 4.5d
 			y: -3.5d
 		}
@@ -162,7 +161,7 @@
 				xp_levels: 2
 			}]
 			shape: "diamond"
-			subtitle: "Para abrir a tela &2Quest Chapters&r, feche esta missão e mova o cursor para a esquerda. Cada capítulo tem um conjunto diferente de missões que se enquadram nesse tema."
+			subtitle: "Para abrir a aba de &2Capítulos de Missões&r, feche esta missão e mova o cursor para a esquerda. Cada capítulo tem um conjunto diferente de missões relacionadas ao seu tema."
 			tasks: [{
 				id: "6E754EF86972872E"
 				title: "Clique aqui!"
@@ -193,7 +192,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Crie um &6chest&r - atualizável por meio do mod &5Iron Chests&r!"
+			subtitle: "Faça um &6baú&r - que possa ser aprimorado com o mod &5Iron Chests&r!"
 			tasks: [{
 				id: "17209749B99F5873"
 				item: {
@@ -206,7 +205,7 @@
 				title: "Craft a Chest"
 				type: "item"
 			}]
-			title: "&f&lPrimeiros Passos&r: &aCrie um bau"
+			title: "&f&lPrimeiros Passos&r: &aFaça um bau"
 			x: 1.5d
 			y: -3.5d
 		}
@@ -229,19 +228,19 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Para equipar uma &9backpack&r, clique no ícone Equipar no menu &9backpack&r."
+				"Para equipar uma &9mochila&r, clique no ícone de Equipar no inventário da &9mochila&r."
 				""
-				"Depois que uma &9backpack&r estiver equipada, você poderá abri-la pressionando &bB&r"
+				"Depois de equipada, você pode abrir a &9mochila&r pressionando &bB&r."
 				""
-				"&9Backpacks&r podem ser atualizados em vários níveis. &9Mochilas&r com benefícios especiais podem ser encontradas em baús de saque."
+				"As &9mochilas&r podem ser melhoradas em vários níveis. Algumas com benefícios especiais podem ser encontradas em baús de saque."
 				""
-				"Para ver todas as variantes de &9backpack&r, pesquise &d@traveler&r na barra de pesquisa &eREI&r."
+				"Para ver todas as versões de &9mochilas&r, pesquise &d@traveler&r na barra de busca do &eREI&r."
 				""
-				"Você pode encontrar esta barra de pesquisa na parte inferior do seu inventário. "
+				"Essa barra de pesquisa está na parte inferior do seu inventário."
 				""
-				"Clicar nos itens da lista de itens à direita do seu inventário mostrará suas receitas e usos."
+				"Clicando nos itens da lista à direita do inventário, você verá as receitas e os usos deles."
 				""
-				"Você também pode pressionar &bR&r e &bU&r enquanto passa o mouse sobre qualquer item para ver sua receita e usos"
+				"Você também pode pressionar &bR&r e &bU&r enquanto passa o cursor sobre qualquer item para ver suas Receitas e Usos."
 				""
 				"&8Português"
 			]
@@ -263,7 +262,7 @@
 				}
 				type: "item"
 			}]
-			title: "&e&lUpgrade:&f Inventário"
+			title: "&e&lAprimorando:&f Inventário"
 			x: 3.5d
 			y: -3.5d
 		}
@@ -278,11 +277,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"Pressione &a[M]&r para abrir o &eWorld Map&r."
+				"Pressione &a[M]&r para abrir o &eMapa do Mundo&r. "
 				""
-				"Para &ereivindicar um chunk&r, basta clicar com o botão direito no topo de um chunk e selecionar &eClaim Selected&r."
+				"Para &ereivindicar um chunk&r, clique com o botão direito nele e escolha &eReivindicar Selecionado&r. "
 				""
-				"Alguns servidores podem ter limites de reivindicação mais baixos do que o normal. Fique atento a esse limite, para não ficar sem."
+				"Alguns servidores têm um limite menor de chunk que você pode reivindicar, então fique atento para não ultrapassar esse limite."
 				""
 				"&8Português"
 			]
@@ -319,13 +318,13 @@
 				type: "item"
 			}]
 			size: 1.5d
-			subtitle: "&eContinue sua jornada pelos outros capítulos!"
+			subtitle: "&eContinue sua jornada pelos outros Capítulos!"
 			tasks: [{
 				id: "721111D6BBD02194"
 				title: "Clique aqui para continuar!"
 				type: "checkmark"
 			}]
-			title: "&6&lBem vindo ao Prominence!"
+			title: "&6&lBem-vindo ao Prominence!"
 			x: 4.017857142857146d
 			y: -1.9885938668661183d
 		}
@@ -337,17 +336,17 @@
 				item: "fwaystones:waystone_scroll"
 				type: "item"
 			}]
-			subtitle: "A maneira mais fácil de se teletransportar entre locais é usar &eWaystones&r. Waystones são gerados naturalmente nas aldeias e também podem ser fabricados."
+			subtitle: "A forma mais fácil de se teletransportar entre locais é usar &eObeliscos&r. Eles aparecem naturalmente em vilas e também podem ser fabricadas."
 			tasks: [{
 				icon: "fwaystones:waystone"
 				id: "70CE3441ADA82DBA"
 				observe_type: 0
 				timer: 0L
-				title: "Use uma Waystone!"
+				title: "Use um Obelisco!"
 				to_observe: "fwaystones:waystone"
 				type: "observation"
 			}]
-			title: "&f&lO Basico: &dTeleportar"
+			title: "&f&lO Básico: &dTeletransporte"
 			x: 1.5d
 			y: -2.0d
 		}
@@ -362,11 +361,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&7A Árvore de Talentos, junto com o nível, é o método mais importante de progressão do jogador em Prominence, pois com ela você pode aumentar suas estatísticas e desbloquear novas habilidades."
+				"&7A Árvore de Talentos, junto com o sistema de níveis, é a maneira mais importante de progredir em Prominence. Com ela, você pode aumentar suas estatísticas e desbloquear novas habilidades."
 				""
-				"&7Está diretamente ligado ao nível, pois você receberá um ponto de talento a cada 2 níveis."
+				"&7Ela está ligada ao sistema de níveis, e você ganhará um ponto de talento a cada 2 níveis."
 				""
-				"&7Você pode abri-lo pressionando &eN&7; para redefini-lo, você pode usar um &ePergaminho de Conhecimento&7. Este item será consumido ao ser usado e seus pontos de talento serão reembolsados."
+				"&7Para abrir a Árvore de Talentos, pressione &eN&7. Se quiser redefini-la, use um &ePergaminho do Conhecimento&7. Esse item será consumido ao ser usado, e seus pontos de talento serão devolvidos."
 				""
 				"&8Português"
 			]
@@ -384,7 +383,7 @@
 				title: "Clique aqui para continuar"
 				type: "checkmark"
 			}]
-			title: "&d&lProgressão: &e&lThe Talent Tree"
+			title: "&d&lProgressão: &e&lÁrvore de Talentos"
 			x: 1.0d
 			y: -5.0d
 		}
@@ -404,14 +403,14 @@
 				item: "tiered:limestone_chunk"
 				type: "item"
 			}]
-			subtitle: "Todas as ferramentas terão uma &eraridade&r aleatória. Isso afetará suas estatísticas. Para melhorar a raridade, você pode &ereforjar as ferramentas usando a segunda aba da bigorna. Você precisará de &ea material específico da ferramenta&r e &dametista&r para alterar com sucesso sua raridade."
+			subtitle: "Todas as ferramentas terão uma &eraridade&r aleatória. Isso afetará suas estatísticas. Para melhorar a raridade, você pode &erefazer as ferramentas&r na segunda aba da bigorna. Você precisará de &eum material específico para a ferramenta&r e &ede um dos 3 minérios&7 para mudar a raridade com sucesso. &cLeia a missão \"Reforjamento\" para mais informações!"
 			tasks: [{
 				id: "2AC258EF05B19E8F"
 				item: "minecraft:anvil"
 				title: "Obtenha uma Bigorna"
 				type: "item"
 			}]
-			title: "&f&lO Basico: &e&lRaridades \\& Reforjando"
+			title: "&f&lO Básico: &e&lRaridades \\& Reforjamento"
 			x: -1.5d
 			y: -2.0d
 		}
@@ -427,11 +426,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&7Um aspecto central da progressão do seu jogador é o nível, exibido no canto superior esquerdo do seu inventário."
+				"&7Um aspecto importante da progressão do seu personagem é o nível, que aparece no canto superior esquerdo do seu inventário."
 				""
-				"&7Ele aumenta com a experiência de combate, como lutar contra inimigos ou derrotar chefes. Isso permite subir os inimigos para o seu nível e serve como um requisito de progressão para lutar contra certos chefes."
+				"&7O nível aumenta com a experiência de combate, como lutar contra inimigos ou derrotar chefes. Isso permite que os inimigos se ajustem ao seu nível e é necessário para enfrentar certos chefes."
 				""
-				"&ePara algumas lutas contra chefes, é essencial estar no nível exigido! A missão do chefe mostrará em sua descrição o nível recomendado, se houver um."
+				"&ePara algumas lutas contra chefes, é fundamental estar no nível certo! A missão do chefe mostrará na descrição o nível recomendado, se houver."
 				""
 				"&8Português"
 			]
@@ -449,6 +448,6 @@
 			y: -5.0d
 		}
 	]
-	title: " O Começo"
+	title: "Introdução"
 }
 
