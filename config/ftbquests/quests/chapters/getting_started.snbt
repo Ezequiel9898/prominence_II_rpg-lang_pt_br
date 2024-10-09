@@ -281,7 +281,7 @@
 				""
 				"Para &ereivindicar um chunk&r, clique com o botão direito nele e escolha &eReivindicar Selecionado&r. "
 				""
-				"Alguns servidores têm um limite menor de chunk que você pode reivindicar, então fique atento para não ultrapassar esse limite."
+				"Alguns servidores têm um limite menor de chunks que você pode reivindicar, então fique atento para não ultrapassar esse limite."
 				""
 				"&8Português"
 			]
@@ -298,7 +298,7 @@
 				title: "Clique para continuar!"
 				type: "checkmark"
 			}]
-			title: "&e&lMultiplayer: &dClaiming"
+			title: "&e&lMultijogador: &dReivindicação"
 			x: -1.5d
 			y: -3.5d
 		}
@@ -437,13 +437,13 @@
 			icon: "minecraft:writable_book"
 			id: "72EE0A2E9D410B2C"
 			shape: "diamond"
-			subtitle: "Click me and read my description!"
+			subtitle: "Clique em mim e leia minha descrição!"
 			tasks: [{
 				id: "7E40E783D7E377CB"
-				title: "Click here to continue"
+				title: "Clique aqui para continuar"
 				type: "checkmark"
 			}]
-			title: "&d&lProgression:&6&l Leveling"
+			title: "&d&lProgressão:&6&l Nivelamento"
 			x: -1.0d
 			y: -5.0d
 		}
