@@ -205,7 +205,7 @@
 				title: "Craft a Chest"
 				type: "item"
 			}]
-			title: "&f&lPrimeiros Passos&r: &aFaça um bau"
+			title: "&f&lPrimeiros Passos&r: &aFaça um baú"
 			x: 1.5d
 			y: -3.5d
 		}
