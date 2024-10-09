@@ -9,21 +9,21 @@
 	"tooltip.puffish_skills.spent_points": "Pontos gastos: %s",
 
 	"category.puffish_skills.skills": "Habilidades",
-	"key.puffish_skills.open": "Abrir Árvore de talentos",
+	"key.puffish_skills.open": "Abrir árvore de habilidades",
 
-	"chat.puffish_skills.new_point": "Você tem um novo ponto de habilidade. Aperte %s para abrir a árvore de habilidade.",
+	"chat.puffish_skills.new_point": "Você tem um novo ponto de habilidade. Pressione %s para abrir sua árvore de habilidades.",
 
 	"toast.puffish_skills.invalid_config.description": "Configuração inválida, verifique os logs do jogo.",
-	"toast.puffish_skills.missing_config.description": "No skill trees provided, make sure to add one.",
+	"toast.puffish_skills.missing_config.description": "Nenhuma árvore de habilidades fornecida, certifique-se de adicionar uma.",
 
 	"gamerule.puffish_skills:announceNewPoints": "Anunciar novos pontos de habilidade",
 
-	"command.puffish_skills.no_such_category": "Não há categoria com ID %s",
-	"command.puffish_skills.no_such_skill": "Não há habilidade com ID %s",
-	"command.puffish_skills.no_experience": "Experience is not enabled for this category",
+	"command.puffish_skills.no_such_category": "Não existe nenhuma categoria com o ID %s",
+	"command.puffish_skills.no_such_skill": "Não existe nenhuma habilidade com o ID %s",
+	"command.puffish_skills.no_experience": "A experiência não está habilitada para esta categoria",
 
-	"command.puffish_skills.category.lock.success.single": "Categoria bloqueada %s para %s",
-	"command.puffish_skills.category.lock.success.multiple": "Categoria bloqueada %s para %s jogadores",
+	"command.puffish_skills.category.lock.success.single": "Categoria %s bloqueada para %s",
+	"command.puffish_skills.category.lock.success.multiple": "Categoria %s bloqueada para %s jogadores",
 
 	"command.puffish_skills.category.unlock.success.single": "Categoria %s desbloqueada para %s",
 	"command.puffish_skills.category.unlock.success.multiple": "Categoria %s desbloqueada para %s jogadores",
@@ -31,30 +31,30 @@
 	"command.puffish_skills.category.erase.success.single": "Categoria %s apagada para %s",
 	"command.puffish_skills.category.erase.success.multiple": "Categoria %s apagada para %s jogadores",
 
-	"command.puffish_skills.experience.add.success.single": "Adicionou %s experiência à categoria %s para %s",
-	"command.puffish_skills.experience.add.success.multiple": "Adicionou %s experiência à categoria %s para %s jogadores",
+	"command.puffish_skills.experience.add.success.single": "Adicionada %s de experiência à categoria %s para %s",
+	"command.puffish_skills.experience.add.success.multiple": "Adicionada %s de experiência à categoria %s para %s jogadores",
 
-	"command.puffish_skills.experience.set.success.single": "Definir %s experiência na categoria %s para %s",
-	"command.puffish_skills.experience.set.success.multiple": "Definir %s experiência na categoria %s para %s jogadores",
+	"command.puffish_skills.experience.set.success.single": "Definido %s de experiência na categoria %s para %s",
+	"command.puffish_skills.experience.set.success.multiple": "Definido %s de experiência na categoria %s para %s jogadores",
 
-	"command.puffish_skills.points.add.success.single": "Adicionou %s pontos à categoria %s para %s",
-	"command.puffish_skills.points.add.success.multiple": "Adicionou %s pontos à categoria %s para %s jogadores",
+	"command.puffish_skills.points.add.success.single": "Adicionado %s pontos à categoria %s para %s",
+	"command.puffish_skills.points.add.success.multiple": "Adicionado %s pontos à categoria %s para %s jogadores",
 
-	"command.puffish_skills.points.set.success.single": "Definir %s pontos na categoria %s para %s",
-	"command.puffish_skills.points.set.success.multiple": "Definir %s pontos na categoria %s para %s jogadores",
+	"command.puffish_skills.points.set.success.single": "Definido %s pontos na categoria %s para %s",
+	"command.puffish_skills.points.set.success.multiple": "Definido %s pontos na categoria %s para %s jogadores",
 
 	"command.puffish_skills.skills.unlock.success.single": "Habilidade %s desbloqueada na categoria %s para %s",
-	"command.puffish_skills.skills.unlock.success.multiple": "Habilidade %s desbloqueada na categoria %s para jogadores %s",
+	"command.puffish_skills.skills.unlock.success.multiple": "Habilidade %s desbloqueada na categoria %s para %s jogadores",
 
-	"command.puffish_skills.skills.lock.success.single": "Locked %s skill in category %s for %s",
-	"command.puffish_skills.skills.lock.success.multiple": "Locked %s skill in category %s for %s players",
+	"command.puffish_skills.skills.lock.success.single": "Habilidade %s bloqueada na categoria %s para %s",
+	"command.puffish_skills.skills.lock.success.multiple": "Habilidade %s bloqueada na categoria %s para %s jogadores",
 
-	"command.puffish_skills.skills.reset.success.single": "Redefinir todas as habilidades na categoria %s para %s",
-	"command.puffish_skills.skills.reset.success.multiple": "Redefinir todas as habilidades na categoria %s para %s jogadores",
+	"command.puffish_skills.skills.reset.success.single": "Todas as habilidades redefinidas na categoria %s para %s",
+	"command.puffish_skills.skills.reset.success.multiple": "Todas as habilidades redefinidas na categoria %s para %s jogadores",
 
-	"command.puffish_skills.category.open.success.single": "Opened category %s screen for %s",
-	"command.puffish_skills.category.open.success.multiple": "Opened category %s screen for %s players",
+	"command.puffish_skills.category.open.success.single": "Tela da categoria %s aberta para %s",
+	"command.puffish_skills.category.open.success.multiple": "Tela da categoria %s aberta para %s jogadores",
 
-	"command.puffish_skills.open.success.single": "Opened skills screen for %s",
-	"command.puffish_skills.open.success.multiple": "Opened skills screen for %s players"
+	"command.puffish_skills.open.success.single": "Tela de habilidades aberta para %s",
+	"command.puffish_skills.open.success.multiple": "Tela de habilidades aberta para %s jogadores"
 }
