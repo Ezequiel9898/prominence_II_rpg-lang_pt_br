@@ -336,7 +336,7 @@
 				item: "fwaystones:waystone_scroll"
 				type: "item"
 			}]
-			subtitle: "A forma mais fácil de se teletransportar entre locais é usar &eObeliscos&r. Eles aparecem naturalmente em vilas e também podem ser fabricadas."
+			subtitle: "A forma mais fácil de se teletransportar entre locais é usar &eObeliscos&r. Eles aparecem naturalmente em vilas e também podem ser fabricados."
 			tasks: [{
 				icon: "fwaystones:waystone"
 				id: "70CE3441ADA82DBA"
