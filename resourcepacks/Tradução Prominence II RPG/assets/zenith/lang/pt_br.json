@@ -12,6 +12,7 @@
 	"misc.zenith.affix_name.two": "%2$s %1$s",
 	"misc.zenith.affix_name.three": "%2$s %1$s %3$s",
 	"misc.zenith.affix_name.four": "%3$s %2$s %4$s de %1$s",
+	"misc.zenith.affix_bounds": "[%s\u00A0-\u00A0%s]",
 
 	"misc.zenith.radial_state_updated": "Radial mining mode updated to \"%s\"",
 	"misc.zenith.radial_state.require_not_sneaking": "Disabled While Sneaking",
@@ -287,8 +288,6 @@
 	"affix.zenith:armor/mob_effect/bursting": "Estrondoso",
 	"affix.zenith:armor/mob_effect/bursting.suffix": "da Vitalidade",
 
-	"affix.zenith:socket": "",
-	"affix.zenith:socket.suffix": "",
 	"affix.zenith:durable": "",
 	"affix.zenith:durable.suffix": "",
 
@@ -393,10 +392,22 @@
 	"item.zenith.epic_material": "Areias arcanas",
 	"item.zenith.mythic_material": "Pérola forjada pelos deuses",
 	"item.zenith.ancient_material": "Manifestaçäo do infinito",
+	"item.zenith.gem_fused_slate": "Gem-Fused Slate",
+
 	"item.zenith.sigil_of_socketing": "Signo de encaixe",
-	"item.zenith.superior_sigil_of_socketing": "Signo de encaixe superior",
+	"item.zenith.sigil_of_socketing.desc": "Adds one socket to an item",
+
+	"item.zenith.sigil_of_withdrawal": "Sigil of Withdrawal",
+	"item.zenith.sigil_of_withdrawal.desc": "Removes all socketed gems from an item",
+
+	"item.zenith.sigil_of_rebirth": "Sigil of Rebirth",
+	"item.zenith.sigil_of_rebirth.desc": "Used to fuel the Reforging Table",
+
 	"item.zenith.sigil_of_enhancement": "[ANI] Signo de aprimoramento",
-	"item.zenith.superior_sigil_of_enhancement": "[ANI] Signo de aprimoramento superior",
+	"item.zenith.sigil_of_enhancement.desc": "Used to fuel the Augmentation Table",
+
+	"item.zenith.sigil_of_unnaming": "Sigil of Unnaming",
+	"item.zenith.sigil_of_unnaming.desc": "Removes the affixed name from an item",
 
 	"block.zenith.boss_spawner": "Gerador de chefe",
 	"block.zenith.gem_cutting_table": "Bancada de lapidação de gema",
@@ -407,12 +418,20 @@
 	"block.zenith.reforging_table": "Bancada de reforja",
 	"block.zenith.reforging_table.desc": "Usa pó de gema e materiais de raridade para rolar novamente os afixos",
 	"block.zenith.reforging_table.desc2": "Raridade máxima: %s",
+	"block.zenith.augmenting_table": "Augmenting Table",
+	"block.zenith.augmenting_table.desc": "Uses Sigils of Enhancement to augment individual affixes",
 
 	"button.zenith.salvage": "Itens de reciclagem",
 	"button.zenith.no_salvage": "Nenhum item selecionado",
 	"button.zenith.no_salvage_all": "Nenhum item válido no inventário",
 	"button.zenith.upgrade": "Aprimorar gema",
 	"button.zenith.upgrade.no": "Itens ausentes",
+	"button.zenith.augmenting.upgrade": "Upgrade Selected Affix",
+	"button.zenith.augmenting.reroll": "Reroll Selected Affix",
+	"button.zenith.augmenting.no_selection": "No Affix Selected",
+	"button.zenith.augmenting.max_level": "Already Max Level",
+	"button.zenith.augmenting.no_alternatives": "No Alternative Affixes",
+	"button.zenith.augmenting.upgrade.cost": "Cost: %sx %s",
 
 	"menu.zenith.gem_cutting": "Lapidação de gema",
 	"container.zenith.salvage": "Reciclar",
@@ -430,6 +449,10 @@
 	"text.zenith.no_upgrade": "Não pode ser melhorado",
 	"text.zenith.cut_cost": "Custo de lapidação de gema",
 	"text.zenith.one_rarity_mat": "Materiais de raridade (1)",
+	"text.zenith.potential_rerolls": "Potential Rerolls",
+	"text.zenith.upgraded_form": "Upgraded Form",
+	"text.zenith.alternative_page": "Page %s/%s (scroll to change)",
+
 	"title.zenith.smithing": "Ferraria zênite",
 	"title.zenith.salvaging": "Reciclagem",
 

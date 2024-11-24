@@ -48,68 +48,30 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["1DBE4C392FA662F5"]
-			id: "233958B078ED350B"
-			rewards: [{
-				id: "05A9CFE4D3F6FFEB"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "As Gemas de Fogo são encontradas nas profundezas do Nether, deve-se ter cuidado ao coletá-las mesmo perto de fontes de lava."
-			tasks: [{
-				id: "4A81B9B926A33E09"
-				item: "archon:fire_gem"
-				type: "item"
-			}]
-			x: -3.5d
-			y: -4.5d
-		}
-		{
-			dependencies: ["66AC80AD26AE6447"]
-			id: "6363A885C35A534B"
-			subtitle: "As Gemas de Água são encontradas nas profundezas dos mares, deve-se estar preparado para mergulhar por longos períodos de tempo ou correr o risco de se afogar."
-			tasks: [{
-				id: "5C1019658A74F37A"
-				item: "archon:water_gem"
-				type: "item"
-			}]
-			x: 0.0d
-			y: -6.0d
-		}
-		{
-			dependencies: ["62AA08A21BAD0109"]
+			dependencies: ["0AD9BE143D39268F"]
 			id: "596D88086910FE78"
-			subtitle: "Nas profundezas do mundo estão as Gemas da Terra, encontrá-las não será uma tarefa fácil, já que o mundo subterrâneo é imenso."
+			shape: "diamond"
+			subtitle: "Nas profundezas do mundo estão as Essencias da Terra, encontrá-las não será uma tarefa fácil, já que o mundo subterrâneo é imenso."
 			tasks: [{
 				id: "166125A8F31A4AF4"
-				item: "archon:earth_gem"
+				item: "archon:earth_essence"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -4.5d
+			x: 3.0d
+			y: -3.5d
 		}
 		{
-			dependencies: ["444BFAF1CC19067C"]
-			id: "08939A23C3D3451C"
-			subtitle: "Além dos céus estão as Gemas do Céu encontradas em pequenas nuvens, muito difíceis de obter a menos que você tenha a habilidade de construir para cima ou voar."
-			tasks: [{
-				id: "5A5C7E62D273A057"
-				item: "archon:sky_gem"
-				type: "item"
-			}]
-			x: -2.0d
-			y: -5.5d
-		}
-		{
-			dependencies: ["74B92B1059A13E09"]
+			dependencies: ["0AD9BE143D39268F"]
+			description: [""]
 			id: "01258A1B33747993"
-			subtitle: "Além do vazio, estão as Gemas do Fim encontradas dentro das Ilhas do Fim, elas serão muito difíceis de encontrar a menos que você esteja determinado o suficiente."
+			shape: "diamond"
+			subtitle: "Além do vazio, estão as Essencias do End encontradas dentro das Ilhas do End, elas serão muito difíceis de encontrar a menos que você esteja determinado o suficiente."
 			tasks: [{
 				id: "6811A109A2B99E71"
-				item: "archon:end_gem"
+				item: "archon:end_essence"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: -5.5d
 		}
 		{
@@ -261,11 +223,6 @@
 					type: "item"
 				}
 				{
-					id: "6A439D59234BBA03"
-					item: "archon:accelerate_scroll"
-					type: "item"
-				}
-				{
 					id: "311484D8F55C8CEB"
 					item: "archon:removal_scroll"
 					type: "item"
@@ -372,7 +329,7 @@
 			y: 8.5d
 		}
 		{
-			dependencies: ["6363A885C35A534B"]
+			dependencies: ["66AC80AD26AE6447"]
 			id: "7E60780B737DD1D2"
 			rewards: [{
 				id: "3F85D801A656AD77"
@@ -392,33 +349,10 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -8.0d
+			y: -6.5d
 		}
 		{
-			dependencies: ["6363A885C35A534B"]
-			id: "1918227F78E660D5"
-			rewards: [{
-				id: "6A84958A1C17846F"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "O Cajado permite ao usuário disparar bolas de água para causar dano aos alvos."
-			tasks: [{
-				id: "66D32CBED1DC8820"
-				item: {
-					Count: 1b
-					id: "archon:water_staff"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 0.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["6363A885C35A534B"]
+			dependencies: ["66AC80AD26AE6447"]
 			id: "64A67185CA3803CB"
 			rewards: [{
 				id: "40612B57312756E5"
@@ -431,11 +365,11 @@
 				item: "archon:sea_master_charm"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -8.5d
+			x: -1.5d
+			y: -7.5d
 		}
 		{
-			dependencies: ["233958B078ED350B"]
+			dependencies: ["1DBE4C392FA662F5"]
 			id: "3AF01B2FC9C43D67"
 			rewards: [{
 				id: "0E90D85B135F749A"
@@ -458,7 +392,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["233958B078ED350B"]
+			dependencies: ["1DBE4C392FA662F5"]
 			id: "19AB079C58E4848F"
 			rewards: [{
 				id: "56D0CCB16F64A543"
@@ -481,7 +415,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["233958B078ED350B"]
+			dependencies: ["1DBE4C392FA662F5"]
 			id: "76BF9FAE02BCBC4F"
 			rewards: [{
 				id: "69598316DE90F4BE"
@@ -504,52 +438,6 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["08939A23C3D3451C"]
-			id: "791177227BA835B4"
-			rewards: [{
-				id: "6A58D836D5E6A95D"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "O Raio convoca raios ao seu redor, mas não criará fogo e não causará dano ao usuário."
-			tasks: [{
-				id: "76713BCD490AF670"
-				item: {
-					Count: 1b
-					id: "archon:thunder_bolt"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: -5.5d
-			y: -8.0d
-		}
-		{
-			dependencies: ["08939A23C3D3451C"]
-			id: "572F98E08C4DA78E"
-			rewards: [{
-				id: "6E9EA39B631A0EF6"
-				type: "xp"
-				xp: 25
-			}]
-			subtitle: "O Cutelo atrai alvos em sua direção."
-			tasks: [{
-				id: "3D46814EB027476E"
-				item: {
-					Count: 1b
-					id: "archon:vacuum_cleaver"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: -3.5d
-			y: -9.0d
-		}
-		{
 			dependencies: ["01258A1B33747993"]
 			id: "1A05717ECF6DE912"
 			rewards: [{
@@ -569,8 +457,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.5d
-			y: -8.0d
+			x: 0.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["01258A1B33747993"]
@@ -592,8 +480,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.5d
-			y: -8.0d
+			x: 1.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["596D88086910FE78"]
@@ -615,8 +503,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: -5.5d
+			x: 5.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["596D88086910FE78"]
@@ -626,7 +514,7 @@
 				type: "xp"
 				xp: 25
 			}]
-			subtitle: "O Punho concede ao usuário alguns segundos de aumento na velocidade de ataque."
+			subtitle: "Este punho antigo... talvez S'kellak possa ajudar a aprimorá-lo."
 			tasks: [{
 				id: "16B48CF0C7179D07"
 				item: {
@@ -638,8 +526,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: -7.0d
+			x: 3.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["596D88086910FE78"]
@@ -661,8 +549,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: -6.5d
+			x: 4.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["4CA7E7DA58B3B6C7"]
@@ -910,8 +798,8 @@
 				item: "archon:fire_essence"
 				type: "item"
 			}]
-			x: -2.0d
-			y: -3.5d
+			x: -4.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["0AD9BE143D39268F"]
@@ -921,13 +809,14 @@
 				type: "xp"
 				xp: 20
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "00785D3C2C822EDB"
 				item: "archon:water_essence"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -4.5d
+			x: -0.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["0AD9BE143D39268F"]
@@ -937,6 +826,7 @@
 				type: "xp"
 				xp: 20
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "716F84648AE17DC4"
 				item: "archon:sky_essence"
@@ -946,39 +836,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["0AD9BE143D39268F"]
-			id: "74B92B1059A13E09"
-			rewards: [{
-				id: "79DCAC53F1B7DDB6"
-				type: "xp"
-				xp: 20
-			}]
-			tasks: [{
-				id: "018F38FC7D7CB430"
-				item: "archon:end_essence"
-				type: "item"
-			}]
-			x: 1.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["0AD9BE143D39268F"]
-			id: "62AA08A21BAD0109"
-			rewards: [{
-				id: "0EB9C306842B472E"
-				type: "xp"
-				xp: 20
-			}]
-			tasks: [{
-				id: "3C7CD8D9EAFA32F0"
-				item: "archon:earth_essence"
-				type: "item"
-			}]
-			x: 2.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["233958B078ED350B"]
+			dependencies: ["1DBE4C392FA662F5"]
 			id: "21CE1961E26C1017"
 			rewards: [{
 				id: "3B5C53AF196F8618"
@@ -1001,7 +859,7 @@
 			y: -6.5d
 		}
 		{
-			dependencies: ["08939A23C3D3451C"]
+			dependencies: ["444BFAF1CC19067C"]
 			id: "34DF5FBF5F85F328"
 			rewards: [{
 				id: "1419B4B332A0DA15"
@@ -1020,11 +878,11 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
-			y: -9.5d
+			x: -1.0d
+			y: -5.0d
 		}
 		{
-			dependencies: ["6363A885C35A534B"]
+			dependencies: ["66AC80AD26AE6447"]
 			id: "2B493ED51109E97A"
 			rewards: [{
 				id: "51684706EF706DA4"
@@ -1043,8 +901,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.5d
-			y: -8.0d
+			x: 0.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["01258A1B33747993"]
@@ -1066,8 +924,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: -7.0d
+			x: 2.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["596D88086910FE78"]
@@ -1089,8 +947,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: -4.5d
+			x: 4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["63E59E2AF9E3212A"]
@@ -1143,11 +1001,6 @@
 				{
 					id: "5B6A2C0487BC2719"
 					item: "archon:freeze_tome"
-					type: "item"
-				}
-				{
-					id: "15132A7ECA2CDD6F"
-					item: "archon:drown_tome"
 					type: "item"
 				}
 				{
@@ -1390,7 +1243,7 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["233958B078ED350B"]
+			dependencies: ["1DBE4C392FA662F5"]
 			id: "6B1CB8B78FD963E5"
 			rewards: [{
 				id: "2F463BBF43A6C5BB"
@@ -1413,7 +1266,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["08939A23C3D3451C"]
+			dependencies: ["444BFAF1CC19067C"]
 			id: "4A14DF58C18FF4DD"
 			rewards: [{
 				id: "1A3B7297CE709A65"
@@ -1432,11 +1285,11 @@
 				}
 				type: "item"
 			}]
-			x: -4.5d
-			y: -8.5d
+			x: -2.0d
+			y: -4.5d
 		}
 		{
-			dependencies: ["6363A885C35A534B"]
+			dependencies: ["66AC80AD26AE6447"]
 			id: "3B0A0F4B0F54AB22"
 			rewards: [{
 				id: "7F66E28149E92EAC"
@@ -1455,8 +1308,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: -9.5d
+			x: -0.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["01258A1B33747993"]
@@ -1478,8 +1331,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: -9.0d
+			x: 2.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["596D88086910FE78"]
@@ -1501,8 +1354,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.5d
-			y: -6.5d
+			x: 5.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["0AD9BE143D39268F"]
@@ -1512,7 +1365,7 @@
 				type: "xp"
 				xp: 30
 			}]
-			subtitle: "Pequenas bolsas usadas para armazenar XP quando necessário. A bolsa pode armazenar 200 XP."
+			subtitle: "Pequenas bolsas usadas para armazenar XP quando necessário. A bolsa pode armazenar 550 XP."
 			tasks: [{
 				id: "34872FD95C254318"
 				item: {
@@ -1524,18 +1377,20 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: -3.0d
+			x: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["43804968CD10C39F"]
+			description: [""]
 			id: "50F46E32A29E3290"
 			rewards: [{
 				id: "79F40F1D32731339"
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "Uma bolsa atualizada que pode armazenar 400 XP."
+			shape: "pentagon"
+			subtitle: "Uma bolsa aprimorada que pode armazenar até 2920 XP."
 			tasks: [{
 				id: "3733C69851295D5E"
 				item: {
@@ -1547,8 +1402,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
-			y: -3.5d
+			x: -3.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["719EE06DB5C14C73"]

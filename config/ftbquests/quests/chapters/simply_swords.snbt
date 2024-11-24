@@ -165,7 +165,7 @@
 				type: "item"
 			}]
 			x: -11.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5AA2A1E358A18B4E"]
@@ -212,7 +212,7 @@
 				type: "item"
 			}]
 			x: -9.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["0F426527B63F854D"]
@@ -252,55 +252,6 @@
 				"47EBDA6516061205"
 				"3E5207641E8653DC"
 			]
-			description: [
-				"The final evolution of the &b&lSlumbering Lichblade&r you recieved."
-				""
-				"Siphons &bsouls&r and provides &eabsorbtion&r. Hover to read more info."
-				""
-				"&8Inglês"
-				"{@pagebreak}"
-				"A evolução final da &b&lLâmina do Lich Adormecido&r que você recebeu."
-				""
-				"Suga &balmas&r e fornece &eabsorção&r. Passe o cursor para ler mais informações."
-				""
-				"&8Português"
-			]
-			id: "2802383EE6BEB495"
-			rewards: [
-				{
-					id: "00A165490F037E43"
-					item: "soulsweapons:lost_soul"
-					type: "item"
-				}
-				{
-					id: "070909045AE0FD9A"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-				{
-					count: 3
-					id: "144CE2EA24A84547"
-					item: "simplyswords:empowered_remnant"
-					type: "item"
-				}
-			]
-			subtitle: "Um Destino Horrível."
-			tasks: [{
-				id: "259CEEA1DEF460EC"
-				item: {
-					Count: 1b
-					id: "simplyswords:awakened_lichblade"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: -10.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["2802383EE6BEB495"]
 			description: [""]
 			icon: "simplyswords:empowered_remnant"
 			id: "771507AA08194DE6"

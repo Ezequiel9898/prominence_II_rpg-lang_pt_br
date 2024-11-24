@@ -245,13 +245,17 @@
 				""
 				"&7&oThou may find the Gauntlet locked within a monolithic prison. Shatter its eye, and thou shalt unleash the now corrupted beeing."
 				""
+				"&eTip: &7This boss has strong hits and may one shot you if playing on Normal or Hard difficulty! Try to dodge or craft defensive potions!"
+				""
 				"&8Inglês"
 				"{@pagebreak}"
 				"&eNível Recomendado: 15"
 				""
-				"&7&oA Manopla, outrora o vigilante atento e primeiro arauto do Nether, agora caiu no abraço sombrio do Vazio. Escravizada por ser uma das arautos do Vazio, agora ela ameaça destruir seu próprio reino."
+				"&7&oA Manopla, outrora a vigilante e primeira arauta do Nether, agora caiu no sombrio abraço do Vazio. Escravizada ao se tornar um dos arautos do Vazio, ela agora ameaça seu próprio reino com sua destruição."
 				""
-				"&7&oVocê pode encontrar a Manopla trancada dentro de uma prisão monolítica. Quebra seu olho, e você liberarás o ser agora corrompido."
+				"&7&oTu podes encontrar a Luva trancada em uma prisão monolítica. Quebre seu olho, e tu libertarás a criatura agora corrompida."
+				""
+				"&eTip: &7This boss has strong hits and may one shot you if playing on Normal or Hard difficulty! Try to dodge or craft defensive potions!"
 				""
 				"&8Português"
 			]
@@ -292,11 +296,11 @@
 					}
 				}
 				id: "0F843C913D775125"
-				title: "Mate o Nether Gauntlet"
+				title: "Mate a manopla infernal"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&cGauntlet, O Primeiro Arauto do Nether"
+			title: "&cManopla, O primeiro arauto do Nether"
 			x: -13.5d
 			y: 0.5d
 		}
@@ -312,25 +316,19 @@
 				""
 				"&7&oTo find this structure, use Souls Stars, dropped by undead creatures, which shall guide thee to the tower."
 				""
+				"&eTip: &7This is a ranged boss, use a flying mount if you are melee, or a bow as secondary weapon!"
+				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&eNivel Recomendado: 10"
+				"&eNível Recomendado: 10"
 				""
-				"&7&oLas almas de los antiguos reyes del Reino de Ly'rell, quienes han fallecido hace mucho tiempo, han sido resucitadas y corruptas por el Vacío, formando un gran monstruo ahora conocido como el Liche Nocturno."
+				"&7&oAs almas há muito falecidas de todos os reis do Reino de Ly'rell foram ressuscitadas e corrompidas pelo Vazio, agora conhecidas como um único monstro chamado Lich Noturno."
 				""
-				"&7&oEn los biomas más fríos, en la cima de los restos de una gran torre rota, yacen ellos atrapados."
+				"&7&oO Lich Noturno habita a superfície do Overworld. Procure-o nos biomas mais frios, dentro dos restos de uma torre destruída."
 				""
-				"&7&oPara encontrar esta estructura, usa las Estrellas de Alma, caídas de criaturas no muertas, que te guiarán hasta la torre."
+				"&7&oPara encontrar essa torre, use a Estrela das Almas, que são deixadas por criaturas mortas-vivas e te guiarão até a torre."
 				""
-				"&8Español"
-				"{@pagebreak}"
-				"&eNivel Recomendado: 10"
-				""
-				"&7&oAs almas dos antigos reis do Reino de Ly'rell, a muito desfalecidos, foram ressuscitadas e corrompidas pelo Vazio, agora conhecidas como um único monstro chamado o Lich Noturno."
-				""
-				"&7&oO Lich Noturno habita na superfície do Overworld. Procure-o nos biomas mais frios, dentro dos restos de uma torre quebrada."
-				""
-				"&7&oPara encontrar esta estrutura, use Estrelas das Almas que caem das criaturas mortas-vivas, elas o guiarão até a torre."
+				"&eTip: &7This is a ranged boss, use a flying mount if you are melee, or a bow as secondary weapon!"
 				""
 				"&8Português"
 			]
@@ -350,7 +348,7 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			subtitle: "&8[Click to read lore and indications]"
+			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [
 				{
 					advancement: "bosses_of_mass_destruction:adventure/night_lich_defeat"
@@ -385,27 +383,18 @@
 				""
 				"&7The Blackstone Golem, the Nether's final Herald, is a formidable creature that can be summoned through its ritual within the Nether."
 				""
-				"&7Construct a 9x9 platform of any kind of Blackstone, with Chiseled Polished Blackstone Holders at each corner."
+				"&7Construct a 9x9 platform of any kind of Blackstone, with Chiseled Polished Blackstone Holders in the middle of each side."
 				"&7Place a shard of gilded blackstone upon each holder to commence the ritual."
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&eNivel Recomendado: 25"
+				"&eNível Recomendado: 25"
 				""
-				"&7El Gólem de Piedra Negra, el último Heraldo del Nether, es un formidable golem que puede ser invocado a través de su propio ritual dentro del Nether."
+				"&7O Golem de Pedra-negra, o último Arauto do Nether, é uma criatura formidável que pode ser invocada através de seu ritual dentro do Nether."
 				""
-				"&7Construye una plataforma de 9x9 utilizando cualquier tipo de Piedra Negra, con soportes de Piedra Negra Pulida Cincelada en cada esquina."
-				"&7Coloca un fragmento de piedra negra dorada sobre cada soporte para comenzar el ritual."
-				""
-				"&8Español"
-				""
-				"{@pagebreak}"
-				"&eNivel Recomendado: 25"
-				""
-				"&7O Golem de Pedra Negra, o último Arauto do Nether, é uma criatura formidável que pode ser invocada através de seu ritual dentro do Nether."
-				""
-				"&7Construa uma plataforma de 9x9 de qualquer tipo de Pedra Negra, com Suportes de Pedra Negra Polida Talhada em cada canto."
-				"&7Coloque um fragmento de pedra negra dourada sobre cada suporte para iniciar o ritual."
+				"&7Construct a 9x9 platform of any kind of Blackstone, with Chiseled Polished Blackstone Holders in the middle of each side."
+				"&7Construa uma plataforma de 9x9 de qualquer tipo de Pedra-negra, com suportes de Pedra-negra Polida Talhada em cada canto."
+				"&7Coloque um fragmento de pedra-negra dourada em cada suporte para iniciar o ritual."
 				""
 				"&8Português"
 			]
@@ -435,11 +424,11 @@
 					}
 				}
 				id: "5663873E5843130D"
-				title: "Mate o Blackstone Golem"
+				title: "Mate o Golem de Pedra-negra"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&cO Blackstone Golem"
+			title: "&cO Golem de Pedra-negra"
 			x: -11.979761904761915d
 			y: 2.0059523809523796d
 		}
@@ -454,20 +443,11 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&eNivel Recomendado: 35"
+				"&eNível Recomendado: 35"
 				""
-				"&7Los Restos del Viejo Campeón se encuentran en su tumba, oculta bajo tierra en el Supramundo. Esta figura esquelética, que alguna vez fue un gran campeón, ha sido poseída por otro ser."
+				"&7Os restos do Velho Campeão podem ser encontrados em seu túmulo, que está escondido debaixo da terra no Overworld. Essa figura esquelética, que já foi um grande campeão, agora está possuída por outro ser."
 				""
-				"&8Sus ataques giran en torno a si está protegido, alternando entre posturas defensivas y ataques."
-				""
-				"&8Español"
-				""
-				"{@pagebreak}"
-				"&eNivel Recomendado: 35"
-				""
-				"&7Os Restos do Velho Campeão podem ser encontrados em sua sepultura, escondida no subterrâneo do Overworld. Esta figura esqueletóide, que foi um grande campeão, agora foi possuído por outro ser."
-				""
-				"&8Seus ataques se dão em torno de se ele está se protegendo, alternando entre as posturas de defesa e de ataque."
+				"&8Seus ataques dependem de estar protegido, alternando entre posturas de defesa e ataques."
 				""
 				"&8Português"
 			]
@@ -503,11 +483,11 @@
 					}
 				}
 				id: "2C3EE780FC4E8C0E"
-				title: "&7Defeat the Old Champion's Remains"
+				title: "&7Derrote os Restos do Velho Campeão"
 				type: "kill"
 				value: 1L
 			}]
-			title: "&9Os Restos de um Antigo Campião"
+			title: "&9Os Restos de um Velho Campeão"
 			x: -7.5d
 			y: 2.0d
 		}
@@ -520,22 +500,17 @@
 				""
 				"&7Located at its own platform, a giant, eldritch structure that can be found floating in the end. To make it appear, use an eye of ender on the top of its platform."
 				""
+				"&eTip:&7 Bring a pickaxe!"
+				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&eNivel Recomendado: 40"
-				""
-				"&7Obsidilith, el monolito viviente, es el pilar de la influencia del vacío en El End."
-				""
-				"&7Ubicado en su propia plataforma, una estructura gigantesca y extraña, que se encuentra flotando en El End. Para invocarlo, usa un ojo de ender en la cima de su plataforma."
-				""
-				"&8Español"
-				""
-				"{@pagebreak}"
-				"&eNivel Recomendado: 40"
+				"&eNível Recomendado: 40"
 				""
 				"&7Obsidilith, o monólito vivo, é o pilar da influência do vazio no End."
 				""
-				"&7Localizado em sua própria plataforma, uma enorme estrutura ancestral que pode ser encontrada flutuando no End. Para fazê-la aparecer, use um Olho do Fim no topo de sua plataforma."
+				"&7Localizado em sua própria plataforma, uma estrutura gigante e estranha que pode ser encontrada flutuando no End. Para fazê-la aparecer, use um Olho de Ender no topo de sua plataforma."
+				""
+				"&eTip:&7 Bring a pickaxe!"
 				""
 				"&8Português"
 			]
@@ -579,7 +554,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			title: "&dPilar do Vazio,Obsidilith"
+			title: "&dPilar do Vazio, Obsidilith"
 			x: -7.5d
 			y: 0.0d
 		}
@@ -593,15 +568,6 @@
 				"&7The Eye can only be summoned at an Eye Shrine. The Shrine is built with a base of a 5×5 obsidian platform and a 3×3 centered crying obsidian layer. On all edges an end rod has to get placed. On top of the shrine thy shall sacrifice the dragon egg. The Eye can only get called in The end dimension."
 				""
 				"&8Inglês"
-				"{@pagebreak}"
-				"&eNivel Recomendado: 50"
-				""
-				"&7La esencia pura del End, el \"Ender\", ha sido corrompida por la presencia del vacío. El Ojo del Ender debe ser derrotado para restablecer el equilibrio en la ahora desolada dimensión."
-				""
-				"&7El Ojo solo puede ser invocado en un Santuario del Ojo. El Santuario se construye sobre una plataforma de obsidiana de 5x5 y una capa central de obsidiana llorosa de 3x3. En cada borde se debe colocar una barra de ender. En la cima del santuario, deberás tú sacrificar el huevo de dragón. El Ojo solo puede ser invocado en la dimensión del End."
-				""
-				"&8Español"
-				""
 				"{@pagebreak}"
 				"&eNivel Recomendado: 50"
 				""
@@ -1416,7 +1382,7 @@
 				""
 				"&8Inglês"
 				"{@pagebreak}"
-				"&3\"Está esperando por você. Leve esse pedestal para o fim e coloque um pouco da essência do fim, uma gema do fim, uma pérola do ender e um cristal do fim. Esteja preparado, e não se esqueça de aprisioná-lo. Você tem minha benção, criança.\" &e&oS'kellak diz"
+				"Em breve"
 				""
 				"&8Português"
 			]
@@ -1437,13 +1403,9 @@
 			subtitle: "&8[Clique para ler a história e as indicações]"
 			tasks: [
 				{
+					count: 2L
 					id: "1920BD6A823B9D7E"
 					item: "archon:end_essence"
-					type: "item"
-				}
-				{
-					id: "1BA16957CAE2B9A1"
-					item: "archon:end_gem"
 					type: "item"
 				}
 				{
@@ -1722,7 +1684,10 @@
 				""
 				"&7He's a powerful mage, its barrier may be weak to certain elements, but the Smite enchant will also help break it."
 				""
+				"&eUsing magic or abilities will gather the attention of the Hex. Use a Hexblade on their portal to travel to the Glass Ocean and use a Prismatic Pearl to summon him."
+				""
 				"&8Inglês"
+				""
 				"{@pagebreak}"
 				"Em breve"
 				""

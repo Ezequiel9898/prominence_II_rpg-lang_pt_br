@@ -21,6 +21,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			description: [""]
 			id: "0D23A31DAF3866F4"
 			rewards: [{
 				id: "4A4473CE89392149"
@@ -29,11 +30,12 @@
 			}]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "O portal para a dimensão &8Prisão &raparece aleatoriamente por todo o &aOverworld&r. Se você tiver, em algum momento, possuído um &bdiamante&r, o portal já estará ativado."
+			subtitle: "O portal para a dimensão &8Prisão &raparece aleatoriamente por todo o &aOverworld&r."
 			tasks: [{
 				dimension: "minecells:prison"
 				icon: "graveyard:dark_iron_bars"
 				id: "0E868C4F785876CA"
+				title: "Enter the Prison"
 				type: "dimension"
 			}]
 			title: "&8Entrar na Prisão"
@@ -129,7 +131,7 @@
 				type: "item"
 			}]
 			title: "Loot a Monster Cell"
-			x: -1.0d
+			x: 0.5d
 			y: 0.0d
 		}
 		{
@@ -142,10 +144,23 @@
 				type: "item"
 			}]
 			title: "Crie &rAço &bInfundido com Células"
-			x: 1.0d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0D23A31DAF3866F4"]
+			description: ["&eCan be cell crafted with Guts and Monster Cells."]
+			id: "447E7AA3CB192FE4"
+			subtitle: "The Health Flask is a really useful item that heals you 10% of your maximum health and grants regeneration for a few seconds."
+			tasks: [{
+				icon: "minecells:health_flask"
+				id: "2D109EBD7B56015A"
+				title: "Quick Healing!"
+				type: "item"
+			}]
+			x: -1.0d
 			y: 0.0d
 		}
 	]
 	title: " &7A Prisão"
 }
-
