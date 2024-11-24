@@ -234,7 +234,7 @@ element {
 }
 
 element {
-  source = Modrinth &cnão possui mods FTB&f.%n%%n%Devido a problemas de licenciamento, não podemos incluí-los no modpack.%n%%n%Para jogar, você precisa baixar os mods manualmente, junto com suas dependências.%n%%n%&eBaixe os mods abaixo e coloque-os na pasta "mods"%n%%n%&defrente à sua instância do modpack. Não esqueça de reiniciar o modpack depois.%n%%n%&7Você pode clicar no botão "Pasta" no launcher do Modrinth para acessá-la!
+  source = Modrinth &cnão possui mods do FTB&f.%n%%n%Devido a problemas de licenciamento, não podemos incluí-los no modpack.%n%%n%Para jogar, você precisa baixar os mods manualmente, junto com suas dependências.%n%%n%&eBaixe os mods abaixo e coloque-os na pasta "mods"%n%%n%&defrente à sua instância do modpack. Não esqueça de reiniciar o modpack depois.%n%%n%&7Você pode clicar no botão "Pasta" no launcher do Modrinth para acessá-la!
   source_mode = direct
   shadow = true
   case_mode = normal

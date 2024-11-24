@@ -31,7 +31,7 @@ element {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source =Lembre-se de que compartilhar seu mundo pode causar lag %n%e problemas de desempenho do que usar um servidor.%n%%n%Por isso, ainda recomendamos usar a Bisect Hosting.
+  source = Lembre-se de que compartilhar seu mundo pode causar lag %n%e problemas de desempenho do que usar um servidor.%n%%n%Por isso, ainda recomendamos usar a Bisect Hosting.
   text_border = 0
   case_mode = normal
   source_mode = direct
