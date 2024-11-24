@@ -1,0 +1,8 @@
+{
+    "text.luna.domainAssigned": "World is being shared in: [%s]",
+    "text.luna.closeServer": "World sharing stopped!",
+    "text.luna.serverAlreadyClosed": "World not publicly hosted",
+    "text.luna.clickToStop": "Click here to stop world sharing",
+    "text.luna.clickToStop.hover": "This will only stop the public world sharing. LAN will still be active.",
+    "text.luna.error": "An error occurred in Luna"
+}

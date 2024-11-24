@@ -1,0 +1,82 @@
+{
+  "itemGroup.prominent.tab": "Prominence",
+  "itemGroup.prominent.mythic": "Chefes Míticos de Prominence",
+  "item.prominent.icon": "Prominent",
+
+  "item.prominent.music_disc_coniferus_forest": "Disco musical",
+  "item.prominent.music_disc_coniferus_forest.desc": "Orangery - Coniferus Forest (Tema do Menu Principal)",
+  "item.prominent.music_disc_festivities": "Disco musical",
+  "item.prominent.music_disc_festivities.desc": "Sideralis Music - Prominent Festivities (Trilha Sonora Original)",
+  
+  "item.prominent.knowledge_scroll": "Pergaminho do conhecimento",
+  "item.prominent.molten_core": "Núcleo derretido",
+  "item.prominent.cinderstone_trophy": "Troféu de cinderstone",
+
+  "item.prominent.molten_remnant": "Remanescente derretido",
+  "item.prominent.infused_molten_remnant": "Remanescente derretido infundido",
+
+  "item.prominent.thunderwrath": "Thunderwrath, a Tempestade Vulcânica",
+  "item.prominent.supernova": "Supernova, Morte de uma Estrela",
+  "item.prominent.fury_of_a_thousand_fists": "Fúria dos Mil Punhos",
+  "item.prominent.frostmourne": "Frostmourne, Lâmina do Rei Caído",
+  "item.prominent.azhar": "A'zhar, a Foice dos Condenados",
+  "item.prominent.fyralath": "Fyr'alath, a Agonia Incandescente",
+  "item.prominent.ekavar_staff": "Ekavar, Great Cinderstone Staff",
+  "item.prominent.ekavar_staff.phase.1": "Al Na'ir, The Bright Star",
+  "item.prominent.ekavar_staff.phase.2": "Adassil, The Scorched Tree",
+  "item.prominent.ekavar_staff.phase.3": "Khaz'el, The Frozen Destiny",
+  "item.prominent.ekavar_staff.phase.4": "Ad'anel, Secret of Ain",
+  "item.prominent.ekavar_staff.phase.5": "Singularity, A Star's Rebirth",
+
+  "item.prominent.ashedar": "Ash'edar, os Gêmeos Cósmicos",
+  "item.prominent.ash": "Ash, Remanescente do Sol",
+  "item.prominent.edar": "Edar, a Penumbra",
+  "item.prominent.ashedar_essence": "Essência de Ash'edar, os Gêmeos Cósmicos",
+
+  "spell.prominent.supernova.name": "Explosão astral",
+  "spell.prominent.supernova.description": "Concentre toda a energia da Supernova em um único ponto, causando uma explosão devastadora que provoca dano arcano em todos os inimigos próximos.",
+  "spell.prominent.rage.name": "Ira desenfreada",
+  "spell.prominent.rage.description": "Libere sua ira interior, aumentando sua velocidade de ataque em 500% por um curto período. Requer o Punho da Fúria e o Punho das Mil Fúrias.",
+
+  "item.prominent.demon_essence": "Essência demoníaca",
+  "item.prominent.glory_essence": "Essência da glória",
+  "item.prominent.wrath_essence": "Essência da ira",
+  
+  "item.prominent.cosmic_essence": "Essência cósmica",
+  "item.prominent.encased_remnant": "Remanescente encapsulado",
+
+  "item.prominent.beacon_of_hope": "Farol da esperança",
+  "item.prominent.broken_beacon_of_hope": "Farol da esperança quebrado",
+
+  "item.prominent.empty_vessel": "Ampulheta de cinderstone",
+  "item.prominent.void_hourglass": "Ampulheta do vazio",
+  "item.prominent.lesser_mythical_essence": "Essência mítica inferior",
+  "item.prominent.greater_mythical_essence": "Essência mítica superior",
+  "effect.prominent.mythic": "Mítico",
+
+  "effect.prominent.obliterated_agony": "Agonia obliterada",
+  "effect.prominent.remorseless_winter": "Inverno impiedoso",
+  "effect.prominent.agonizing_breath": "Sopro de agonia",
+  "effect.prominent.broken_soul": "Alma fraturada",
+  "effect.prominent.soul_absorption": "Absorção da alma",
+
+  "effect.prominent.solar_eclipse": "Eclipse solar",
+  "effect.prominent.lunar_eclipse": "Eclipse lunar",
+  "effect.prominent.darkening": "Escurecimento",
+  "effect.prominent.sunstrike": "Impacto solar",
+  "effect.prominent.moonlight_nova": "Explosão lunar",
+  "effect.prominent.prominence": "Radiância de prominence",
+
+  "effect.prominent.faceless_gift": "Dádiva anônima",
+  "effect.prominent.combat": "Em combate",
+
+  "attribute.prominent.mythic_level": "Nível mítico",
+  "attribute.prominent.artifact_damage": "Dano de artefato",
+  "attribute.prominent.titan_damage": "Titan Grip's Damage",
+  "attribute.prominent.ekavar_phase": "Ekavar Phase",
+
+  "block.prominent.volcanic_cinderstone": "Volcanic Cinderstone",
+
+  "item.prominent.health_flask.tooltip": "Restores 10% Maximum Health and grants Regeneration IV for 5 seconds.",
+  "item.prominent.health_flask.cooldown": " 2 Second Cooldown"
+}
