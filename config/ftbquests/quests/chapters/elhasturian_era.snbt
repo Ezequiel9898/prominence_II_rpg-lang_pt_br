@@ -243,7 +243,7 @@
 		{
 			dependencies: ["579138B8DB19724C"]
 			description: [
-				"&7&oCorruption Infusions can be used to add corruption to Weapons and Armor Pieces, which are useful for corruption scaled abilities."
+				"&7&oCorruption Infusions can be used to add corruption to Armor Pieces, which are useful for corruption scaled abilities."
 				""
 				"&7&oActive Abilities from the Talent Tree have special effects and scaling with Corruption."
 				""

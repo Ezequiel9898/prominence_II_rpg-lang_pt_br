@@ -120,7 +120,7 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.0d
 			y: -2.5d
 		}
 		{
@@ -154,7 +154,7 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
+			x: -3.0d
 			y: 0.0d
 		}
 		{
@@ -293,25 +293,34 @@
 		}
 		{
 			dependencies: ["6AD67E7C8CD78371"]
-			description: [""]
+			description: [
+				"&eCan be forged using the Essence of Glory and a Starforge, along with the Molten Core."
+				""
+				"&cEvolves to one of 5 stronger versions for Arcane, Fire, Frost, Holy or Astral mages within the Upgrade Tree."
+			]
 			icon: {
 				Count: 1b
-				id: "ftbquests:custom_icon"
+				id: "prominent:ekavar_staff"
 				tag: {
-					Icon: "prominent:item/cinderstone_trophy"
+					Damage: 0
 				}
 			}
 			id: "6313DD656A95E8C0"
 			shape: "hexagon"
-			subtitle: "&7Este Artefato está sendo forjado por S'kellak."
+			subtitle: "&7An ancient Artifact forged using materials from far away stars. When infused with power, it can evolve to greater versions"
 			tasks: [{
-				id: "22C4A6A4C9A0B862"
-				title: "&6Em breve!"
-				type: "custom"
+				id: "133C7DC53BD48F85"
+				item: {
+					Count: 1b
+					id: "prominent:ekavar_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
 			}]
-			title: "&6&kEkavar, Grande Cajado de Cinderstone"
-			x: -1.0d
-			y: -2.5d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["6AD67E7C8CD78371"]
@@ -325,14 +334,14 @@
 			}
 			id: "4C2EFCB93288D047"
 			shape: "hexagon"
-			subtitle: "&7Este Artefato está sendo forjado por S'kellak."
+			subtitle: "&7This Artifact is being forged by S'kellak."
 			tasks: [{
 				id: "02901AAD817F6D45"
 				title: "&6Em breve!"
 				type: "custom"
 			}]
 			title: "&9&kOrion, O Caçador"
-			x: 2.5d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
