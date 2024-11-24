@@ -1,0 +1,453 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "7539C31213D86E55"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "prominent:textures/text/the_basics.png"
+			rotation: 0.0d
+			width: 2.504166666666667d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "prominent:textures/text/storage.png"
+			rotation: 0.0d
+			width: 2.504166666666667d
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 4.0d
+			hover: [ ]
+			image: "prominent:textures/other/prominent_logo.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "prominent:textures/text/welcome.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			click: ""
+			color: 11250603
+			corner: false
+			dev: false
+			height: 7.311518324607329d
+			hover: [ ]
+			image: "prominent:textures/text/prominence-desc.png"
+			rotation: 0.0d
+			width: 10.5d
+			x: 0.048660714285709616d
+			y: -7.030260533532783d
+		}
+	]
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "minecraft:grass_block"
+			id: "1DD302BB650057E3"
+			shape: "rsquare"
+			size: 1.25d
+			subtitle: "Comece sua jornada em &eProminence&r!"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:grass_block"
+				id: "7B701D980200A661"
+				title: "Entre no Overworld"
+				type: "dimension"
+			}]
+			title: "&aPrimeiros passos"
+			x: 0.0d
+			y: -0.625d
+		}
+		{
+			dependencies: ["1DD302BB650057E3"]
+			description: [
+				"The &6questbook&r is very important in Prominence, and will guide you through most of the game's progression."
+				""
+				"To easily access the &6questbook&r, you can click the book"
+				" icon at the top left of your inventory."
+				""
+				"When you open a quest, the left side shows what tasks you need to do to finish the quest, and the right side shows what rewards you will get."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"O &6livro de missões&r é muito importante em Prominence e irá guiá-lo através da maior parte da progressão do jogo."
+				""
+				"Para acessar facilmente o &6livro de missões&r, você pode clicar no ícone do livro no canto superior esquerdo do seu inventário."
+				""
+				"Quando você abre uma missão, o lado esquerdo mostra quais tarefas você precisa fazer para concluir a missão, e o lado direito mostra quais recompensas você receberá."
+				""
+				"&8Português"
+			]
+			id: "6E9F5146EA3F505F"
+			rewards: [{
+				id: "78B218622FE5FA2B"
+				type: "xp"
+				xp: 2
+			}]
+			subtitle: "Clique em mim e leia minha descrição!"
+			tasks: [{
+				id: "4184344EFBA63388"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "c:crops"
+					}
+				}
+				title: "Encontre uma fruta ou um vegetal!"
+				type: "item"
+			}]
+			title: "&f&lPrimeiros Passos&r: &aMissões!"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2BE6B7EC6F6CC58B"]
+			id: "52C0EB35542648C6"
+			rewards: [{
+				id: "3685CADB8B28BF24"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "rsquare"
+			subtitle: "Minere um pouco de cobre e use a &eMelhoria de Baú em Branco&r para fazer uma melhoria de cobre para seus &6baús&r!"
+			tasks: [{
+				id: "1C2CEDE48DF1D506"
+				item: "ironchests:copper_chest_upgrade"
+				type: "item"
+			}]
+			title: "&e&lAprimorando:&f &fBaús"
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6E9F5146EA3F505F"]
+			icon: "minecraft:filled_map"
+			id: "33961F7EE650AA60"
+			rewards: [{
+				id: "10944260335D83B1"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "diamond"
+			subtitle: "Para abrir a aba de &2Capítulos de Missões&r, feche esta missão e mova o cursor para a esquerda. Cada capítulo tem um conjunto diferente de missões relacionadas ao seu tema."
+			tasks: [{
+				id: "6E754EF86972872E"
+				title: "Clique aqui!"
+				type: "checkmark"
+			}]
+			title: "&f&lPrimeios Passos: &r&aCapitulos"
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			id: "2BE6B7EC6F6CC58B"
+			rewards: [
+				{
+					id: "578E739C5F5BB9AC"
+					item: "ironchests:blank_chest_upgrade"
+					type: "item"
+				}
+				{
+					id: "4FA5E60B4E68FDBF"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "55DC8F156573C515"
+					item: "travelersbackpack:backpack_tank"
+					type: "item"
+				}
+			]
+			subtitle: "Faça um &6baú&r - que possa ser aprimorado com o mod &5Iron Chests&r!"
+			tasks: [{
+				id: "17209749B99F5873"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "c:chests"
+					}
+				}
+				title: "Craft a Chest"
+				type: "item"
+			}]
+			title: "&f&lPrimeiros Passos&r: &aFaça um baú"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2BE6B7EC6F6CC58B"]
+			description: [
+				"To equip a &9backpack&r, click the Equip icon in the &9backpack&r menu."
+				""
+				"Once a &9backpack&r is equipped, you can open it by pressing &bB&r"
+				""
+				"&9Backpacks&r can be upgraded through several tiers. &9Backpacks&r with special benefits can be found in loot chests."
+				""
+				"To see all &9backpack&r variants, search &d@traveler&r in the &eREI&r search bar."
+				""
+				"You can find this search bar at the bottom of your inventory. "
+				""
+				"Clicking on items in the item list to the right of your inventory will show their recipes and uses."
+				""
+				"You can also press &bR&r and &bU&r while hovering over any item to see their Recipe and Uses"
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Para equipar uma &9mochila&r, clique no ícone de Equipar no inventário da &9mochila&r."
+				""
+				"Depois de equipada, você pode abrir a &9mochila&r pressionando &bB&r."
+				""
+				"As &9mochilas&r podem ser melhoradas em vários níveis. Algumas com benefícios especiais podem ser encontradas em baús de saque."
+				""
+				"Para ver todas as versões de &9mochilas&r, pesquise &d@traveler&r na barra de busca do &eREI&r."
+				""
+				"Essa barra de busca está na parte inferior do seu inventário."
+				""
+				"Clicando nos itens da lista à direita do inventário, você verá as receitas e os usos deles."
+				""
+				"Você também pode pressionar &bR&r e &bU&r enquanto passa o cursor sobre qualquer item para ver suas Receitas e Usos."
+				""
+				"&8Português"
+			]
+			hide_dependency_lines: true
+			id: "702ED6D1B159048D"
+			rewards: [{
+				id: "1510D8B226901BAD"
+				item: "travelersbackpack:blank_upgrade"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Clique em mim e leia minha descrição!"
+			tasks: [{
+				id: "524D333C37CC1E78"
+				item: {
+					Count: 1b
+					id: "travelersbackpack:standard"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&e&lAprimorando:&f Inventário"
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			description: [
+				"Press &a[M]&r to open the &eWorld Map&r."
+				""
+				"To &eclaim a chunk&r, you simply need to right click on top of a chunk, and select &eClaim Selected&r."
+				""
+				"Some servers may have lower claim limits than normal. Stay mindful of this limit, so you don't run out."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"Pressione &a[M]&r para abrir o &eMapa do Mundo&r. "
+				""
+				"Para &ereivindicar um chunk&r, clique com o botão direito nele e escolha &eReivindicar Selecionado&r. "
+				""
+				"Alguns servidores têm um limite menor de chunks que você pode reivindicar, então fique atento para não ultrapassar esse limite."
+				""
+				"&8Português"
+			]
+			icon: "supplementaries:slice_map"
+			id: "723951CD2A49AEB7"
+			rewards: [{
+				id: "130FE58DD2BBD7D8"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Clique em mim e leia minha descrição!"
+			tasks: [{
+				id: "1BC73062E2DC9CB8"
+				title: "Clique para continuar!"
+				type: "checkmark"
+			}]
+			title: "&e&lMultijogador: &dReivindicação"
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["002FC90E5914D9C2"]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "prominent:textures/other/skellak.png"
+				}
+			}
+			id: "2F5A3E304ABAADF6"
+			rewards: [{
+				id: "2CBB2CDF05805373"
+				item: "prominent_ost:music_disc_iv"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "&eContinue sua jornada pelos outros Capítulos!"
+			tasks: [{
+				id: "721111D6BBD02194"
+				title: "Clique aqui para continuar!"
+				type: "checkmark"
+			}]
+			title: "&6&lBem-vindo ao Prominence!"
+			x: 4.017857142857146d
+			y: -1.9885938668661183d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			id: "002FC90E5914D9C2"
+			rewards: [{
+				id: "09883A3C64098DAA"
+				item: "fwaystones:waystone_scroll"
+				type: "item"
+			}]
+			subtitle: "A forma mais fácil de se teletransportar entre locais é usar &eObeliscos&r. Eles aparecem naturalmente em vilas e também podem ser fabricados."
+			tasks: [{
+				icon: "fwaystones:waystone"
+				id: "70CE3441ADA82DBA"
+				observe_type: 0
+				timer: 0L
+				title: "Use um Obelisco!"
+				to_observe: "fwaystones:waystone"
+				type: "observation"
+			}]
+			title: "&f&lO Básico: &dTeletransporte"
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			description: [
+				"&7The Talent Tree, along with leveling, is the most important method of player progression in Prominence, as with it you can increase your stats and unlock new abilities."
+				""
+				"&7It is directly tied to leveling, as you will receive a talent point every 2 levels."
+				""
+				"&7You can open it by pressing &eN&7, to reset it, you can use a &eKnowledge Scroll&7. This item will get consumed on use and your talent points will get refunded."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"&7A Árvore de Talentos, junto com o sistema de níveis, é a maneira mais importante de progredir em Prominence. Com ela, você pode aumentar suas estatísticas e desbloquear novas habilidades."
+				""
+				"&7Ela está ligada ao sistema de níveis, e você ganhará um ponto de talento a cada 2 níveis."
+				""
+				"&7Para abrir a Árvore de Talentos, pressione &eN&7. Se quiser redefini-la, use um &ePergaminho do Conhecimento&7. Esse item será consumido ao ser usado, e seus pontos de talento serão devolvidos."
+				""
+				"&8Português"
+			]
+			icon: "prominent:knowledge_scroll"
+			id: "6F99CB89833D7AA2"
+			rewards: [{
+				id: "19F81DCB4196EE34"
+				item: "prominent:knowledge_scroll"
+				type: "item"
+			}]
+			shape: "diamond"
+			subtitle: "Clique em mim e leia minha descrição!"
+			tasks: [{
+				id: "31F7356F773E8E8E"
+				title: "Clique aqui para continuar"
+				type: "checkmark"
+			}]
+			title: "&d&lProgressão: &e&lÁrvore de Talentos"
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "tiered:textures/gui/anvil_tab_icon.png"
+				}
+			}
+			id: "58AD6DBD81B67C1C"
+			rewards: [{
+				count: 4
+				id: "4EB0CB7EF7E56D4D"
+				item: "tiered:limestone_chunk"
+				type: "item"
+			}]
+			subtitle: "Todas as ferramentas terão uma &eraridade&r aleatória. Isso afetará suas estatísticas. Para melhorar a raridade, você pode &erefazer as ferramentas&r na segunda aba da bigorna. Você precisará de &eum material específico para a ferramenta&r e &ede um dos 3 minérios&7 para mudar a raridade com sucesso. &cLeia a missão \"Reforjamento\" para mais informações!"
+			tasks: [{
+				id: "2AC258EF05B19E8F"
+				item: "minecraft:anvil"
+				title: "Obtenha uma Bigorna"
+				type: "item"
+			}]
+			title: "&f&lO Básico: &e&lRaridades \\& Reforjamento"
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			description: [
+				""
+				"&7A core aspect of your player progression is leveling, displayed at the top left of your inventory."
+				""
+				"&7It grows with combat experience, such as fighting enemies, or defeating bosses. It allows to scale up enemies to your level, and serves as a progression requirement to fight certain bosses."
+				""
+				"&eFor some boss fights, it's an essential part to be on their required level! The boss' quest will show on its description the recommended level if they do have one."
+				""
+				"&8Inglês"
+				"{@pagebreak}"
+				"&7Um aspecto importante da progressão do seu personagem é o nível, que aparece no canto superior esquerdo do seu inventário."
+				""
+				"&7O nível aumenta com a experiência de combate, como lutar contra inimigos ou derrotar chefes. Isso permite que os inimigos se ajustem ao seu nível e é necessário para enfrentar certos chefes."
+				""
+				"&ePara algumas lutas contra chefes, é fundamental estar no nível certo! A missão do chefe mostrará na descrição o nível recomendado, se houver."
+				""
+				"&8Português"
+			]
+			icon: "minecraft:writable_book"
+			id: "72EE0A2E9D410B2C"
+			shape: "diamond"
+			subtitle: "Clique em mim e leia minha descrição!"
+			tasks: [{
+				id: "7E40E783D7E377CB"
+				title: "Clique aqui para continuar"
+				type: "checkmark"
+			}]
+			title: "&d&lProgressão:&6&l Nivelamento"
+			x: -1.0d
+			y: -5.0d
+		}
+	]
+	title: "Introdução"
+}
+
