@@ -21,6 +21,12 @@
     "item.prominent.frostmourne": "Frostmourne, Blade of the Fallen King",
     "item.prominent.azhar": "A'zhar, Scythe of the Damned",
     "item.prominent.fyralath": "Fyr'alath, the Scorched Agony",
+    "item.prominent.ekavar_staff": "Ekavar, Great Cinderstone Staff",
+    "item.prominent.ekavar_staff.phase.1": "Al Na'ir, The Bright Star",
+    "item.prominent.ekavar_staff.phase.2": "Adassil, The Scorched Tree",
+    "item.prominent.ekavar_staff.phase.3": "Khaz'el, The Frozen Destiny",
+    "item.prominent.ekavar_staff.phase.4": "Ad'anel, Secret of Ain",
+    "item.prominent.ekavar_staff.phase.5": "Singularity, A Star's Rebirth",
 
     "item.prominent.ashedar": "Ash'edar, The Cosmic Twins",
     "item.prominent.ash": "Ash, Remnant of the Sun",
@@ -65,5 +71,12 @@
     "effect.prominent.combat": "In Combat",
 
     "attribute.prominent.mythic_level": "Mythic Level",
-    "attribute.prominent.artifact_damage": "Artifact Damage"
+    "attribute.prominent.artifact_damage": "Artifact Damage",
+    "attribute.prominent.titan_damage": "Titan Grip's Damage",
+    "attribute.prominent.ekavar_phase": "Ekavar Phase",
+
+    "block.prominent.volcanic_cinderstone": "Volcanic Cinderstone",
+
+    "item.prominent.health_flask.tooltip": "Restores 10% Maximum Health and grants Regeneration IV for 5 seconds.",
+    "item.prominent.health_flask.cooldown": " 2 Second Cooldown"
 }
